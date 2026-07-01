@@ -1,0 +1,38 @@
+[
+  {
+    "id": "WH01",
+    "name": "Main Distribution Center",
+    "location": "New York",
+    "type": "Distribution",
+    "zones": [
+      {
+        "id": "Z1",
+        "name": "Zone 1"
+      }
+    ]
+  },
+  {
+    "id": "WH02",
+    "name": "West Coast Hub",
+    "location": "Los Angeles",
+    "type": "Distribution",
+    "zones": [
+      {
+        "id": "Z2",
+        "name": "Zone 2"
+      }
+    ]
+  },
+  {
+    "id": "WH03",
+    "name": "Raw Material Depot",
+    "location": "Chicago",
+    "type": "Storage",
+    "zones": [
+      {
+        "id": "Z1",
+        "name": "Bulk"
+      }
+    ]
+  }
+]

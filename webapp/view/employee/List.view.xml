@@ -1,0 +1,22 @@
+<mvc:View
+    controllerName="sap.erm.app.controller.employee.List"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m"
+    xmlns:f="sap.f"
+    xmlns:core="sap.ui.core">
+    <f:DynamicPage>
+        <f:title>
+            <f:DynamicPageTitle>
+                <f:heading>
+                    <Title text="Employee Directory" level="H2"/>
+                </f:heading>
+                <f:actions>
+                    <Button text="Create Employee" type="Emphasized" press=".onCreatePress" visible="{= ${userModel>/role} === 'System Administrator' || ${userModel>/role} === 'HR Manager' }" />
+                </f:actions>
+            </f:DynamicPageTitle>
+        </f:title>
+        <f:content>
+            <core:Fragment fragmentName="sap.erm.app.fragments.GenericTable" type="XML" />
+        </f:content>
+    </f:DynamicPage>
+</mvc:View>

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "CAT01",
+    "name": "Electronics"
+  },
+  {
+    "id": "CAT02",
+    "name": "Hardware"
+  },
+  {
+    "id": "CAT03",
+    "name": "Office Supplies"
+  },
+  {
+    "id": "CAT04",
+    "name": "Software"
+  },
+  {
+    "id": "CAT05",
+    "name": "Furniture"
+  }
+]

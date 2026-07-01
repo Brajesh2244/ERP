@@ -1,0 +1,26 @@
+[
+  {
+    "id": "UOM01",
+    "name": "Each (EA)"
+  },
+  {
+    "id": "UOM02",
+    "name": "Box (BX)"
+  },
+  {
+    "id": "UOM03",
+    "name": "Pack (PK)"
+  },
+  {
+    "id": "UOM04",
+    "name": "Kilogram (KG)"
+  },
+  {
+    "id": "UOM05",
+    "name": "Meter (M)"
+  },
+  {
+    "id": "UOM06",
+    "name": "Liter (L)"
+  }
+]

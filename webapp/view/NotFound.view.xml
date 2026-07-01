@@ -1,0 +1,16 @@
+<mvc:View
+    controllerName="sap.erm.app.controller.NotFound"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <MessagePage
+        title="Not Found"
+        text="The requested route could not be found."
+        description="Please check the URL or return to the main application."
+        icon="sap-icon://document"
+        showNavButton="true"
+        navButtonPress=".onNavBack">
+        <buttons>
+            <Button text="Return to Dashboard" press=".onDashboardPress" />
+        </buttons>
+    </MessagePage>
+</mvc:View>

@@ -1,0 +1,20 @@
+<mvc:View controllerName="sap.erm.app.controller.product.Timeline" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" xmlns:f="sap.f">
+    <f:DynamicPage>
+        <f:title>
+            <f:DynamicPageTitle>
+                <f:heading>
+                    <Title text="Product Activity Timeline: {model>/productName}" level="H2"/>
+                </f:heading>
+                <f:navigationActions>
+                    <Button icon="sap-icon://nav-back" type="Transparent" press=".onNavBack" />
+                </f:navigationActions>
+            </f:DynamicPageTitle>
+        </f:title>
+        <f:content>
+            <List>
+                <FeedListItem sender="{model>/updatedBy}" icon="sap-icon://edit" text="Product details were recently updated." timestamp="{model>/updatedDate}" />
+                <FeedListItem sender="{model>/createdBy}" icon="sap-icon://add-contact" text="Product {model>/productName} was created." timestamp="{model>/createdDate}" />
+            </List>
+        </f:content>
+    </f:DynamicPage>
+</mvc:View>

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "MAT01",
+    "name": "Finished Goods"
+  },
+  {
+    "id": "MAT02",
+    "name": "Raw Material"
+  },
+  {
+    "id": "MAT03",
+    "name": "Semi-Finished Goods"
+  },
+  {
+    "id": "MAT04",
+    "name": "Trading Goods"
+  },
+  {
+    "id": "MAT05",
+    "name": "Operating Supplies"
+  }
+]

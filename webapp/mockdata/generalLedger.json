@@ -1,0 +1,101 @@
+[
+  {
+    "id": "GL-100000",
+    "accountId": "100000",
+    "accountName": "Cash in Bank",
+    "type": "Asset",
+    "companyCode": "COMP10",
+    "currency": "USD",
+    "openingBalance": 1858,
+    "currentBalance": -579,
+    "closingBalance": 0
+  },
+  {
+    "id": "GL-120000",
+    "accountId": "120000",
+    "accountName": "Accounts Receivable",
+    "type": "Asset",
+    "companyCode": "COMP10",
+    "currency": "USD",
+    "openingBalance": 13842,
+    "currentBalance": -1195,
+    "closingBalance": 0
+  },
+  {
+    "id": "GL-130000",
+    "accountId": "130000",
+    "accountName": "Inventory",
+    "type": "Asset",
+    "companyCode": "COMP10",
+    "currency": "USD",
+    "openingBalance": 38994,
+    "currentBalance": 702,
+    "closingBalance": 0
+  },
+  {
+    "id": "GL-200000",
+    "accountId": "200000",
+    "accountName": "Accounts Payable",
+    "type": "Liability",
+    "companyCode": "COMP10",
+    "currency": "USD",
+    "openingBalance": 8045,
+    "currentBalance": -3589,
+    "closingBalance": 0
+  },
+  {
+    "id": "GL-300000",
+    "accountId": "300000",
+    "accountName": "Common Stock",
+    "type": "Equity",
+    "companyCode": "COMP10",
+    "currency": "USD",
+    "openingBalance": 42076,
+    "currentBalance": -32311,
+    "closingBalance": 0
+  },
+  {
+    "id": "GL-400000",
+    "accountId": "400000",
+    "accountName": "Sales Revenue",
+    "type": "Revenue",
+    "companyCode": "COMP10",
+    "currency": "USD",
+    "openingBalance": 38415,
+    "currentBalance": 15288,
+    "closingBalance": 0
+  },
+  {
+    "id": "GL-500000",
+    "accountId": "500000",
+    "accountName": "Cost of Goods Sold",
+    "type": "Expense",
+    "companyCode": "COMP10",
+    "currency": "USD",
+    "openingBalance": 37258,
+    "currentBalance": 45982,
+    "closingBalance": 0
+  },
+  {
+    "id": "GL-510000",
+    "accountId": "510000",
+    "accountName": "Salaries Expense",
+    "type": "Expense",
+    "companyCode": "COMP10",
+    "currency": "USD",
+    "openingBalance": 36185,
+    "currentBalance": -19311,
+    "closingBalance": 0
+  },
+  {
+    "id": "GL-520000",
+    "accountId": "520000",
+    "accountName": "Rent Expense",
+    "type": "Expense",
+    "companyCode": "COMP10",
+    "currency": "USD",
+    "openingBalance": 13949,
+    "currentBalance": -4987,
+    "closingBalance": 0
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "SCAT01",
+    "categoryId": "CAT01",
+    "name": "Laptops"
+  },
+  {
+    "id": "SCAT02",
+    "categoryId": "CAT01",
+    "name": "Monitors"
+  },
+  {
+    "id": "SCAT03",
+    "categoryId": "CAT02",
+    "name": "Fasteners"
+  },
+  {
+    "id": "SCAT04",
+    "categoryId": "CAT02",
+    "name": "Tools"
+  },
+  {
+    "id": "SCAT05",
+    "categoryId": "CAT03",
+    "name": "Paper"
+  },
+  {
+    "id": "SCAT06",
+    "categoryId": "CAT03",
+    "name": "Pens"
+  },
+  {
+    "id": "SCAT07",
+    "categoryId": "CAT04",
+    "name": "SaaS"
+  },
+  {
+    "id": "SCAT08",
+    "categoryId": "CAT05",
+    "name": "Chairs"
+  }
+]

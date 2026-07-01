@@ -1,0 +1,113 @@
+<mvc:View controllerName="sap.erm.app.controller.inventory.Detail" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" xmlns:uxap="sap.uxap" xmlns:layout="sap.ui.layout" xmlns:form="sap.ui.layout.form">
+    <uxap:ObjectPageLayout id="ObjectPageLayout" showTitleInHeaderContent="true">
+        <uxap:headerTitle>
+            <uxap:ObjectPageDynamicHeaderTitle>
+                <uxap:expandedHeading>
+                    <Title text="Inventory: {model>/id}" wrapping="true"/>
+                </uxap:expandedHeading>
+                <uxap:actions>
+                    <Button text="Edit" type="Emphasized" press=".onEditPress" />
+                    <Button text="Delete" type="Reject" press=".onDeletePress" />
+                    <Button text="Goods Receipt" type="Accept" press=".onGoodsReceiptPress" />
+                    <Button text="Goods Issue" type="Reject" press=".onGoodsIssuePress" />
+                    <Button text="Stock Transfer" press=".onTransferPress" />
+                </uxap:actions>
+                <uxap:navigationActions>
+                    <Button icon="sap-icon://nav-back" type="Transparent" press=".onNavBack" />
+                </uxap:navigationActions>
+            </uxap:ObjectPageDynamicHeaderTitle>
+        </uxap:headerTitle>
+
+        <uxap:headerContent>
+            <FlexBox wrap="Wrap" fitContainer="true" alignItems="Stretch">
+                <layout:VerticalLayout class="sapUiSmallMarginRight sapUiSmallMarginBottom">
+                    <ObjectStatus title="Product" text="{model>/productName}"/>
+                    <ObjectStatus title="SKU" text="{model>/productCode}"/>
+                </layout:VerticalLayout>
+                <layout:VerticalLayout class="sapUiSmallMarginRight sapUiSmallMarginBottom">
+                    <ObjectStatus title="Status" text="{model>/status}" state="{ path: 'model>/status', formatter: '.formatter.statusState' }"/>
+                    <ObjectStatus title="Available Qty" text="{model>/availableQuantity} {model>/uom}"/>
+                </layout:VerticalLayout>
+            </FlexBox>
+        </uxap:headerContent>
+
+        <uxap:sections>
+            <uxap:ObjectPageSection title="Warehouse Information">
+                <uxap:subSections>
+                    <uxap:ObjectPageSubSection>
+                        <uxap:blocks>
+                            <form:SimpleForm layout="ResponsiveGridLayout">
+                                <form:content>
+                                    <Label text="Warehouse"/>
+                                    <Text text="{model>/warehouseName} ({model>/warehouseId})"/>
+                                    <Label text="Zone"/>
+                                    <Text text="{model>/zone}"/>
+                                    <Label text="Rack"/>
+                                    <Text text="{model>/rack}"/>
+                                    <Label text="Shelf"/>
+                                    <Text text="{model>/shelf}"/>
+                                    <Label text="Bin"/>
+                                    <Text text="{model>/bin}"/>
+                                </form:content>
+                            </form:SimpleForm>
+                        </uxap:blocks>
+                    </uxap:ObjectPageSubSection>
+                </uxap:subSections>
+            </uxap:ObjectPageSection>
+
+            <uxap:ObjectPageSection title="Stock Parameters">
+                <uxap:subSections>
+                    <uxap:ObjectPageSubSection>
+                        <uxap:blocks>
+                            <form:SimpleForm layout="ResponsiveGridLayout">
+                                <form:content>
+                                    <Label text="Available Quantity"/>
+                                    <Text text="{model>/availableQuantity}"/>
+                                    <Label text="Reserved Quantity"/>
+                                    <Text text="{model>/reservedQuantity}"/>
+                                    <Label text="Blocked Quantity"/>
+                                    <Text text="{model>/blockedQuantity}"/>
+                                    <Label text="Current Stock Value"/>
+                                    <Text text="{model>/currency} {model>/currentStockValue}"/>
+                                    <Label text="Batch Number"/>
+                                    <Text text="{model>/batchNumber}"/>
+                                    <Label text="Expiry Date"/>
+                                    <Text text="{ path: 'model>/expiryDate', formatter: '.formatter.date' }"/>
+                                </form:content>
+                            </form:SimpleForm>
+                        </uxap:blocks>
+                    </uxap:ObjectPageSubSection>
+                </uxap:subSections>
+            </uxap:ObjectPageSection>
+
+            <uxap:ObjectPageSection title="Recent Movements">
+                <uxap:subSections>
+                    <uxap:ObjectPageSubSection>
+                        <uxap:blocks>
+                            <Table items="{model>/movements}">
+                                <columns>
+                                    <Column><Text text="Transaction ID"/></Column>
+                                    <Column><Text text="Type"/></Column>
+                                    <Column><Text text="Quantity"/></Column>
+                                    <Column><Text text="Date"/></Column>
+                                    <Column><Text text="Reference"/></Column>
+                                </columns>
+                                <items>
+                                    <ColumnListItem>
+                                        <cells>
+                                            <Text text="{model>id}" />
+                                            <Text text="{model>type}" />
+                                            <ObjectStatus text="{model>quantity}" state="{= ${model>quantity} > 0 ? 'Success' : 'Error' }" />
+                                            <Text text="{ path: 'model>date', formatter: '.formatter.date' }" />
+                                            <Text text="{model>reference}" />
+                                        </cells>
+                                    </ColumnListItem>
+                                </items>
+                            </Table>
+                        </uxap:blocks>
+                    </uxap:ObjectPageSubSection>
+                </uxap:subSections>
+            </uxap:ObjectPageSection>
+        </uxap:sections>
+    </uxap:ObjectPageLayout>
+</mvc:View>

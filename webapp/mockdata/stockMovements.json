@@ -1,0 +1,2002 @@
+[
+  {
+    "id": "GR-2026-10000",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10000",
+    "productId": "PRD10055",
+    "quantity": 345,
+    "date": "2026-07-01T04:46:48.335Z",
+    "reference": "PO-5991",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10001",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10001",
+    "productId": "PRD10393",
+    "quantity": 186,
+    "date": "2026-07-01T04:46:48.335Z",
+    "reference": "PO-9018",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10002",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10002",
+    "productId": "PRD10296",
+    "quantity": 211,
+    "date": "2026-07-01T04:46:48.335Z",
+    "reference": "PO-6753",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10003",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10003",
+    "productId": "PRD10296",
+    "quantity": 426,
+    "date": "2026-07-01T04:46:48.335Z",
+    "reference": "PO-6502",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10004",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10004",
+    "productId": "PRD10150",
+    "quantity": 61,
+    "date": "2026-07-01T04:46:48.335Z",
+    "reference": "PO-8907",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10005",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10005",
+    "productId": "PRD10004",
+    "quantity": 418,
+    "date": "2026-07-01T04:46:48.335Z",
+    "reference": "PO-4998",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10006",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10006",
+    "productId": "PRD10187",
+    "quantity": 345,
+    "date": "2026-07-01T04:46:48.336Z",
+    "reference": "PO-7106",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10007",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10007",
+    "productId": "PRD10078",
+    "quantity": 374,
+    "date": "2026-07-01T04:46:48.336Z",
+    "reference": "PO-5826",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10008",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10008",
+    "productId": "PRD10342",
+    "quantity": 341,
+    "date": "2026-07-01T04:46:48.336Z",
+    "reference": "PO-3259",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10009",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10009",
+    "productId": "PRD10238",
+    "quantity": 424,
+    "date": "2026-07-01T04:46:48.336Z",
+    "reference": "PO-9007",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10010",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10010",
+    "productId": "PRD10247",
+    "quantity": 477,
+    "date": "2026-07-01T04:46:48.336Z",
+    "reference": "PO-358",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10011",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10011",
+    "productId": "PRD10461",
+    "quantity": 363,
+    "date": "2026-07-01T04:46:48.336Z",
+    "reference": "PO-1915",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10012",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10012",
+    "productId": "PRD10091",
+    "quantity": 483,
+    "date": "2026-07-01T04:46:48.336Z",
+    "reference": "PO-4200",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10013",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10013",
+    "productId": "PRD10486",
+    "quantity": 112,
+    "date": "2026-07-01T04:46:48.336Z",
+    "reference": "PO-6010",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10014",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10014",
+    "productId": "PRD10220",
+    "quantity": 488,
+    "date": "2026-07-01T04:46:48.336Z",
+    "reference": "PO-7388",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10015",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10015",
+    "productId": "PRD10331",
+    "quantity": 157,
+    "date": "2026-07-01T04:46:48.336Z",
+    "reference": "PO-1647",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10016",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10016",
+    "productId": "PRD10142",
+    "quantity": 360,
+    "date": "2026-07-01T04:46:48.336Z",
+    "reference": "PO-3211",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10017",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10017",
+    "productId": "PRD10334",
+    "quantity": 268,
+    "date": "2026-07-01T04:46:48.336Z",
+    "reference": "PO-6072",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10018",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10018",
+    "productId": "PRD10318",
+    "quantity": 296,
+    "date": "2026-07-01T04:46:48.336Z",
+    "reference": "PO-9506",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10019",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10019",
+    "productId": "PRD10180",
+    "quantity": 439,
+    "date": "2026-07-01T04:46:48.336Z",
+    "reference": "PO-584",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10020",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10020",
+    "productId": "PRD10106",
+    "quantity": 109,
+    "date": "2026-07-01T04:46:48.336Z",
+    "reference": "PO-7485",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10021",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10021",
+    "productId": "PRD10455",
+    "quantity": 228,
+    "date": "2026-07-01T04:46:48.337Z",
+    "reference": "PO-1435",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10022",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10022",
+    "productId": "PRD10306",
+    "quantity": 449,
+    "date": "2026-07-01T04:46:48.337Z",
+    "reference": "PO-8633",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10023",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10023",
+    "productId": "PRD10066",
+    "quantity": 55,
+    "date": "2026-07-01T04:46:48.337Z",
+    "reference": "PO-1933",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10024",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10024",
+    "productId": "PRD10178",
+    "quantity": 134,
+    "date": "2026-07-01T04:46:48.337Z",
+    "reference": "PO-1815",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10025",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10025",
+    "productId": "PRD10161",
+    "quantity": 362,
+    "date": "2026-07-01T04:46:48.337Z",
+    "reference": "PO-8697",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10026",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10026",
+    "productId": "PRD10266",
+    "quantity": 110,
+    "date": "2026-07-01T04:46:48.337Z",
+    "reference": "PO-1504",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10027",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10027",
+    "productId": "PRD10476",
+    "quantity": 53,
+    "date": "2026-07-01T04:46:48.337Z",
+    "reference": "PO-1348",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10028",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10028",
+    "productId": "PRD10039",
+    "quantity": 419,
+    "date": "2026-07-01T04:46:48.337Z",
+    "reference": "PO-8253",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10029",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10029",
+    "productId": "PRD10270",
+    "quantity": 211,
+    "date": "2026-07-01T04:46:48.337Z",
+    "reference": "PO-1417",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10030",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10030",
+    "productId": "PRD10252",
+    "quantity": 331,
+    "date": "2026-07-01T04:46:48.337Z",
+    "reference": "PO-9109",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10031",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10031",
+    "productId": "PRD10044",
+    "quantity": 413,
+    "date": "2026-07-01T04:46:48.337Z",
+    "reference": "PO-6232",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10032",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10032",
+    "productId": "PRD10047",
+    "quantity": 121,
+    "date": "2026-07-01T04:46:48.337Z",
+    "reference": "PO-3572",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10033",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10033",
+    "productId": "PRD10293",
+    "quantity": 314,
+    "date": "2026-07-01T04:46:48.337Z",
+    "reference": "PO-7089",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10034",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10034",
+    "productId": "PRD10237",
+    "quantity": 168,
+    "date": "2026-07-01T04:46:48.337Z",
+    "reference": "PO-469",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10035",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10035",
+    "productId": "PRD10354",
+    "quantity": 97,
+    "date": "2026-07-01T04:46:48.337Z",
+    "reference": "PO-9168",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10036",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10036",
+    "productId": "PRD10137",
+    "quantity": 122,
+    "date": "2026-07-01T04:46:48.337Z",
+    "reference": "PO-9425",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10037",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10037",
+    "productId": "PRD10189",
+    "quantity": 525,
+    "date": "2026-07-01T04:46:48.337Z",
+    "reference": "PO-6616",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10038",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10038",
+    "productId": "PRD10430",
+    "quantity": 332,
+    "date": "2026-07-01T04:46:48.337Z",
+    "reference": "PO-218",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10039",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10039",
+    "productId": "PRD10175",
+    "quantity": 202,
+    "date": "2026-07-01T04:46:48.337Z",
+    "reference": "PO-8009",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10040",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10040",
+    "productId": "PRD10135",
+    "quantity": 464,
+    "date": "2026-07-01T04:46:48.337Z",
+    "reference": "PO-9866",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10041",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10041",
+    "productId": "PRD10471",
+    "quantity": 332,
+    "date": "2026-07-01T04:46:48.337Z",
+    "reference": "PO-1183",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10042",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10042",
+    "productId": "PRD10327",
+    "quantity": 50,
+    "date": "2026-07-01T04:46:48.337Z",
+    "reference": "PO-4296",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10043",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10043",
+    "productId": "PRD10328",
+    "quantity": 432,
+    "date": "2026-07-01T04:46:48.337Z",
+    "reference": "PO-8810",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10044",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10044",
+    "productId": "PRD10169",
+    "quantity": 84,
+    "date": "2026-07-01T04:46:48.337Z",
+    "reference": "PO-7544",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10045",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10045",
+    "productId": "PRD10138",
+    "quantity": 70,
+    "date": "2026-07-01T04:46:48.338Z",
+    "reference": "PO-3430",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10046",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10046",
+    "productId": "PRD10221",
+    "quantity": 180,
+    "date": "2026-07-01T04:46:48.338Z",
+    "reference": "PO-4446",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10047",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10047",
+    "productId": "PRD10462",
+    "quantity": 398,
+    "date": "2026-07-01T04:46:48.338Z",
+    "reference": "PO-3789",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10048",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10048",
+    "productId": "PRD10114",
+    "quantity": 540,
+    "date": "2026-07-01T04:46:48.338Z",
+    "reference": "PO-8564",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10049",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10049",
+    "productId": "PRD10252",
+    "quantity": 459,
+    "date": "2026-07-01T04:46:48.338Z",
+    "reference": "PO-7933",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10050",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10050",
+    "productId": "PRD10306",
+    "quantity": 496,
+    "date": "2026-07-01T04:46:48.338Z",
+    "reference": "PO-1980",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10051",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10051",
+    "productId": "PRD10361",
+    "quantity": 530,
+    "date": "2026-07-01T04:46:48.338Z",
+    "reference": "PO-5062",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10052",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10052",
+    "productId": "PRD10260",
+    "quantity": 383,
+    "date": "2026-07-01T04:46:48.338Z",
+    "reference": "PO-6380",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10053",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10053",
+    "productId": "PRD10263",
+    "quantity": 481,
+    "date": "2026-07-01T04:46:48.338Z",
+    "reference": "PO-7175",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10054",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10054",
+    "productId": "PRD10303",
+    "quantity": 308,
+    "date": "2026-07-01T04:46:48.338Z",
+    "reference": "PO-8715",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10055",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10055",
+    "productId": "PRD10294",
+    "quantity": 179,
+    "date": "2026-07-01T04:46:48.338Z",
+    "reference": "PO-1093",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10056",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10056",
+    "productId": "PRD10477",
+    "quantity": 269,
+    "date": "2026-07-01T04:46:48.338Z",
+    "reference": "PO-5460",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10057",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10057",
+    "productId": "PRD10185",
+    "quantity": 306,
+    "date": "2026-07-01T04:46:48.338Z",
+    "reference": "PO-7144",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10058",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10058",
+    "productId": "PRD10280",
+    "quantity": 318,
+    "date": "2026-07-01T04:46:48.338Z",
+    "reference": "PO-6718",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10059",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10059",
+    "productId": "PRD10015",
+    "quantity": 131,
+    "date": "2026-07-01T04:46:48.338Z",
+    "reference": "PO-9495",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10060",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10060",
+    "productId": "PRD10485",
+    "quantity": 267,
+    "date": "2026-07-01T04:46:48.338Z",
+    "reference": "PO-4650",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10061",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10061",
+    "productId": "PRD10416",
+    "quantity": 488,
+    "date": "2026-07-01T04:46:48.338Z",
+    "reference": "PO-3920",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10062",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10062",
+    "productId": "PRD10031",
+    "quantity": 164,
+    "date": "2026-07-01T04:46:48.338Z",
+    "reference": "PO-5281",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10063",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10063",
+    "productId": "PRD10398",
+    "quantity": 236,
+    "date": "2026-07-01T04:46:48.338Z",
+    "reference": "PO-8354",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10064",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10064",
+    "productId": "PRD10278",
+    "quantity": 441,
+    "date": "2026-07-01T04:46:48.338Z",
+    "reference": "PO-5336",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10065",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10065",
+    "productId": "PRD10028",
+    "quantity": 407,
+    "date": "2026-07-01T04:46:48.338Z",
+    "reference": "PO-2451",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10066",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10066",
+    "productId": "PRD10216",
+    "quantity": 182,
+    "date": "2026-07-01T04:46:48.338Z",
+    "reference": "PO-8010",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10067",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10067",
+    "productId": "PRD10449",
+    "quantity": 91,
+    "date": "2026-07-01T04:46:48.338Z",
+    "reference": "PO-8467",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10068",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10068",
+    "productId": "PRD10349",
+    "quantity": 81,
+    "date": "2026-07-01T04:46:48.338Z",
+    "reference": "PO-6189",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10069",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10069",
+    "productId": "PRD10041",
+    "quantity": 266,
+    "date": "2026-07-01T04:46:48.338Z",
+    "reference": "PO-3333",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10070",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10070",
+    "productId": "PRD10054",
+    "quantity": 425,
+    "date": "2026-07-01T04:46:48.338Z",
+    "reference": "PO-8004",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10071",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10071",
+    "productId": "PRD10471",
+    "quantity": 349,
+    "date": "2026-07-01T04:46:48.338Z",
+    "reference": "PO-5358",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10072",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10072",
+    "productId": "PRD10112",
+    "quantity": 386,
+    "date": "2026-07-01T04:46:48.338Z",
+    "reference": "PO-1654",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10073",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10073",
+    "productId": "PRD10106",
+    "quantity": 384,
+    "date": "2026-07-01T04:46:48.338Z",
+    "reference": "PO-5737",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10074",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10074",
+    "productId": "PRD10329",
+    "quantity": 526,
+    "date": "2026-07-01T04:46:48.338Z",
+    "reference": "PO-336",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10075",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10075",
+    "productId": "PRD10243",
+    "quantity": 173,
+    "date": "2026-07-01T04:46:48.338Z",
+    "reference": "PO-5545",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10076",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10076",
+    "productId": "PRD10243",
+    "quantity": 188,
+    "date": "2026-07-01T04:46:48.339Z",
+    "reference": "PO-6241",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10077",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10077",
+    "productId": "PRD10051",
+    "quantity": 91,
+    "date": "2026-07-01T04:46:48.339Z",
+    "reference": "PO-5849",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10078",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10078",
+    "productId": "PRD10110",
+    "quantity": 307,
+    "date": "2026-07-01T04:46:48.339Z",
+    "reference": "PO-7692",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10079",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10079",
+    "productId": "PRD10102",
+    "quantity": 400,
+    "date": "2026-07-01T04:46:48.339Z",
+    "reference": "PO-5781",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10080",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10080",
+    "productId": "PRD10443",
+    "quantity": 362,
+    "date": "2026-07-01T04:46:48.339Z",
+    "reference": "PO-6349",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10081",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10081",
+    "productId": "PRD10091",
+    "quantity": 82,
+    "date": "2026-07-01T04:46:48.339Z",
+    "reference": "PO-8007",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10082",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10082",
+    "productId": "PRD10185",
+    "quantity": 444,
+    "date": "2026-07-01T04:46:48.339Z",
+    "reference": "PO-909",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10083",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10083",
+    "productId": "PRD10399",
+    "quantity": 549,
+    "date": "2026-07-01T04:46:48.339Z",
+    "reference": "PO-5216",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10084",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10084",
+    "productId": "PRD10259",
+    "quantity": 476,
+    "date": "2026-07-01T04:46:48.339Z",
+    "reference": "PO-661",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10085",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10085",
+    "productId": "PRD10479",
+    "quantity": 144,
+    "date": "2026-07-01T04:46:48.339Z",
+    "reference": "PO-6496",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10086",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10086",
+    "productId": "PRD10304",
+    "quantity": 454,
+    "date": "2026-07-01T04:46:48.339Z",
+    "reference": "PO-8133",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10087",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10087",
+    "productId": "PRD10277",
+    "quantity": 323,
+    "date": "2026-07-01T04:46:48.339Z",
+    "reference": "PO-6708",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10088",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10088",
+    "productId": "PRD10358",
+    "quantity": 306,
+    "date": "2026-07-01T04:46:48.339Z",
+    "reference": "PO-3049",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10089",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10089",
+    "productId": "PRD10476",
+    "quantity": 330,
+    "date": "2026-07-01T04:46:48.339Z",
+    "reference": "PO-217",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10090",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10090",
+    "productId": "PRD10486",
+    "quantity": 196,
+    "date": "2026-07-01T04:46:48.339Z",
+    "reference": "PO-2588",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10091",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10091",
+    "productId": "PRD10280",
+    "quantity": 229,
+    "date": "2026-07-01T04:46:48.339Z",
+    "reference": "PO-1233",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10092",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10092",
+    "productId": "PRD10347",
+    "quantity": 401,
+    "date": "2026-07-01T04:46:48.339Z",
+    "reference": "PO-4062",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10093",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10093",
+    "productId": "PRD10175",
+    "quantity": 528,
+    "date": "2026-07-01T04:46:48.339Z",
+    "reference": "PO-2661",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10094",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10094",
+    "productId": "PRD10176",
+    "quantity": 92,
+    "date": "2026-07-01T04:46:48.339Z",
+    "reference": "PO-8559",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10095",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10095",
+    "productId": "PRD10106",
+    "quantity": 282,
+    "date": "2026-07-01T04:46:48.339Z",
+    "reference": "PO-9370",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10096",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10096",
+    "productId": "PRD10332",
+    "quantity": 344,
+    "date": "2026-07-01T04:46:48.339Z",
+    "reference": "PO-2306",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10097",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10097",
+    "productId": "PRD10487",
+    "quantity": 247,
+    "date": "2026-07-01T04:46:48.339Z",
+    "reference": "PO-8294",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10098",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10098",
+    "productId": "PRD10271",
+    "quantity": 66,
+    "date": "2026-07-01T04:46:48.339Z",
+    "reference": "PO-982",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10099",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10099",
+    "productId": "PRD10233",
+    "quantity": 92,
+    "date": "2026-07-01T04:46:48.339Z",
+    "reference": "PO-3234",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10100",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10100",
+    "productId": "PRD10346",
+    "quantity": 499,
+    "date": "2026-07-01T04:46:48.339Z",
+    "reference": "PO-7535",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10101",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10101",
+    "productId": "PRD10251",
+    "quantity": 386,
+    "date": "2026-07-01T04:46:48.339Z",
+    "reference": "PO-6503",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10102",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10102",
+    "productId": "PRD10326",
+    "quantity": 86,
+    "date": "2026-07-01T04:46:48.339Z",
+    "reference": "PO-3876",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10103",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10103",
+    "productId": "PRD10178",
+    "quantity": 328,
+    "date": "2026-07-01T04:46:48.339Z",
+    "reference": "PO-8736",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10104",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10104",
+    "productId": "PRD10254",
+    "quantity": 239,
+    "date": "2026-07-01T04:46:48.339Z",
+    "reference": "PO-4625",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10105",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10105",
+    "productId": "PRD10437",
+    "quantity": 182,
+    "date": "2026-07-01T04:46:48.339Z",
+    "reference": "PO-8068",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10106",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10106",
+    "productId": "PRD10048",
+    "quantity": 307,
+    "date": "2026-07-01T04:46:48.339Z",
+    "reference": "PO-2809",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10107",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10107",
+    "productId": "PRD10210",
+    "quantity": 518,
+    "date": "2026-07-01T04:46:48.339Z",
+    "reference": "PO-6902",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10108",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10108",
+    "productId": "PRD10317",
+    "quantity": 503,
+    "date": "2026-07-01T04:46:48.339Z",
+    "reference": "PO-3517",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10109",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10109",
+    "productId": "PRD10318",
+    "quantity": 250,
+    "date": "2026-07-01T04:46:48.339Z",
+    "reference": "PO-650",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10110",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10110",
+    "productId": "PRD10355",
+    "quantity": 315,
+    "date": "2026-07-01T04:46:48.339Z",
+    "reference": "PO-3441",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10111",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10111",
+    "productId": "PRD10497",
+    "quantity": 217,
+    "date": "2026-07-01T04:46:48.340Z",
+    "reference": "PO-5772",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10112",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10112",
+    "productId": "PRD10431",
+    "quantity": 421,
+    "date": "2026-07-01T04:46:48.340Z",
+    "reference": "PO-7932",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10113",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10113",
+    "productId": "PRD10030",
+    "quantity": 273,
+    "date": "2026-07-01T04:46:48.340Z",
+    "reference": "PO-9233",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10114",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10114",
+    "productId": "PRD10191",
+    "quantity": 466,
+    "date": "2026-07-01T04:46:48.340Z",
+    "reference": "PO-5229",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10115",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10115",
+    "productId": "PRD10447",
+    "quantity": 69,
+    "date": "2026-07-01T04:46:48.340Z",
+    "reference": "PO-5556",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10116",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10116",
+    "productId": "PRD10329",
+    "quantity": 157,
+    "date": "2026-07-01T04:46:48.347Z",
+    "reference": "PO-8086",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10117",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10117",
+    "productId": "PRD10103",
+    "quantity": 539,
+    "date": "2026-07-01T04:46:48.347Z",
+    "reference": "PO-8798",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10118",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10118",
+    "productId": "PRD10471",
+    "quantity": 464,
+    "date": "2026-07-01T04:46:48.347Z",
+    "reference": "PO-9838",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10119",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10119",
+    "productId": "PRD10046",
+    "quantity": 256,
+    "date": "2026-07-01T04:46:48.347Z",
+    "reference": "PO-9109",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10120",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10120",
+    "productId": "PRD10287",
+    "quantity": 411,
+    "date": "2026-07-01T04:46:48.348Z",
+    "reference": "PO-5635",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10121",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10121",
+    "productId": "PRD10149",
+    "quantity": 442,
+    "date": "2026-07-01T04:46:48.348Z",
+    "reference": "PO-2415",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10122",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10122",
+    "productId": "PRD10438",
+    "quantity": 361,
+    "date": "2026-07-01T04:46:48.348Z",
+    "reference": "PO-8545",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10123",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10123",
+    "productId": "PRD10457",
+    "quantity": 455,
+    "date": "2026-07-01T04:46:48.348Z",
+    "reference": "PO-381",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10124",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10124",
+    "productId": "PRD10476",
+    "quantity": 407,
+    "date": "2026-07-01T04:46:48.348Z",
+    "reference": "PO-2144",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10125",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10125",
+    "productId": "PRD10057",
+    "quantity": 238,
+    "date": "2026-07-01T04:46:48.348Z",
+    "reference": "PO-4708",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10126",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10126",
+    "productId": "PRD10375",
+    "quantity": 258,
+    "date": "2026-07-01T04:46:48.348Z",
+    "reference": "PO-3459",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10127",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10127",
+    "productId": "PRD10273",
+    "quantity": 246,
+    "date": "2026-07-01T04:46:48.348Z",
+    "reference": "PO-7066",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10128",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10128",
+    "productId": "PRD10147",
+    "quantity": 265,
+    "date": "2026-07-01T04:46:48.348Z",
+    "reference": "PO-9352",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10129",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10129",
+    "productId": "PRD10412",
+    "quantity": 248,
+    "date": "2026-07-01T04:46:48.348Z",
+    "reference": "PO-8672",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10130",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10130",
+    "productId": "PRD10162",
+    "quantity": 259,
+    "date": "2026-07-01T04:46:48.348Z",
+    "reference": "PO-7966",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10131",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10131",
+    "productId": "PRD10336",
+    "quantity": 530,
+    "date": "2026-07-01T04:46:48.348Z",
+    "reference": "PO-690",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10132",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10132",
+    "productId": "PRD10054",
+    "quantity": 86,
+    "date": "2026-07-01T04:46:48.348Z",
+    "reference": "PO-7558",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10133",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10133",
+    "productId": "PRD10251",
+    "quantity": 257,
+    "date": "2026-07-01T04:46:48.348Z",
+    "reference": "PO-4939",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10134",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10134",
+    "productId": "PRD10343",
+    "quantity": 58,
+    "date": "2026-07-01T04:46:48.349Z",
+    "reference": "PO-9241",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10135",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10135",
+    "productId": "PRD10078",
+    "quantity": 505,
+    "date": "2026-07-01T04:46:48.349Z",
+    "reference": "PO-8785",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10136",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10136",
+    "productId": "PRD10442",
+    "quantity": 396,
+    "date": "2026-07-01T04:46:48.349Z",
+    "reference": "PO-355",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10137",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10137",
+    "productId": "PRD10086",
+    "quantity": 116,
+    "date": "2026-07-01T04:46:48.349Z",
+    "reference": "PO-8029",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10138",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10138",
+    "productId": "PRD10243",
+    "quantity": 67,
+    "date": "2026-07-01T04:46:48.349Z",
+    "reference": "PO-3307",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10139",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10139",
+    "productId": "PRD10362",
+    "quantity": 228,
+    "date": "2026-07-01T04:46:48.349Z",
+    "reference": "PO-4017",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10140",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10140",
+    "productId": "PRD10100",
+    "quantity": 190,
+    "date": "2026-07-01T04:46:48.349Z",
+    "reference": "PO-2114",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10141",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10141",
+    "productId": "PRD10119",
+    "quantity": 319,
+    "date": "2026-07-01T04:46:48.349Z",
+    "reference": "PO-1402",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10142",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10142",
+    "productId": "PRD10211",
+    "quantity": 125,
+    "date": "2026-07-01T04:46:48.349Z",
+    "reference": "PO-1124",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10143",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10143",
+    "productId": "PRD10022",
+    "quantity": 454,
+    "date": "2026-07-01T04:46:48.349Z",
+    "reference": "PO-9531",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10144",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10144",
+    "productId": "PRD10430",
+    "quantity": 211,
+    "date": "2026-07-01T04:46:48.349Z",
+    "reference": "PO-3632",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10145",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10145",
+    "productId": "PRD10308",
+    "quantity": 113,
+    "date": "2026-07-01T04:46:48.349Z",
+    "reference": "PO-6359",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10146",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10146",
+    "productId": "PRD10422",
+    "quantity": 315,
+    "date": "2026-07-01T04:46:48.349Z",
+    "reference": "PO-69",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10147",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10147",
+    "productId": "PRD10339",
+    "quantity": 121,
+    "date": "2026-07-01T04:46:48.350Z",
+    "reference": "PO-7502",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10148",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10148",
+    "productId": "PRD10234",
+    "quantity": 383,
+    "date": "2026-07-01T04:46:48.350Z",
+    "reference": "PO-3112",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10149",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10149",
+    "productId": "PRD10211",
+    "quantity": 50,
+    "date": "2026-07-01T04:46:48.350Z",
+    "reference": "PO-6565",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10150",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10150",
+    "productId": "PRD10286",
+    "quantity": 114,
+    "date": "2026-07-01T04:46:48.350Z",
+    "reference": "PO-9625",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10151",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10151",
+    "productId": "PRD10475",
+    "quantity": 399,
+    "date": "2026-07-01T04:46:48.350Z",
+    "reference": "PO-5690",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10152",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10152",
+    "productId": "PRD10295",
+    "quantity": 380,
+    "date": "2026-07-01T04:46:48.350Z",
+    "reference": "PO-4008",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10153",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10153",
+    "productId": "PRD10143",
+    "quantity": 116,
+    "date": "2026-07-01T04:46:48.350Z",
+    "reference": "PO-8771",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10154",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10154",
+    "productId": "PRD10164",
+    "quantity": 198,
+    "date": "2026-07-01T04:46:48.350Z",
+    "reference": "PO-6659",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10155",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10155",
+    "productId": "PRD10141",
+    "quantity": 87,
+    "date": "2026-07-01T04:46:48.350Z",
+    "reference": "PO-5589",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10156",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10156",
+    "productId": "PRD10122",
+    "quantity": 453,
+    "date": "2026-07-01T04:46:48.350Z",
+    "reference": "PO-4034",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10157",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10157",
+    "productId": "PRD10094",
+    "quantity": 202,
+    "date": "2026-07-01T04:46:48.350Z",
+    "reference": "PO-9605",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10158",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10158",
+    "productId": "PRD10451",
+    "quantity": 514,
+    "date": "2026-07-01T04:46:48.350Z",
+    "reference": "PO-526",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10159",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10159",
+    "productId": "PRD10429",
+    "quantity": 63,
+    "date": "2026-07-01T04:46:48.350Z",
+    "reference": "PO-2009",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10160",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10160",
+    "productId": "PRD10339",
+    "quantity": 59,
+    "date": "2026-07-01T04:46:48.350Z",
+    "reference": "PO-8801",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10161",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10161",
+    "productId": "PRD10190",
+    "quantity": 211,
+    "date": "2026-07-01T04:46:48.350Z",
+    "reference": "PO-4617",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10162",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10162",
+    "productId": "PRD10002",
+    "quantity": 175,
+    "date": "2026-07-01T04:46:48.350Z",
+    "reference": "PO-9630",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10163",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10163",
+    "productId": "PRD10120",
+    "quantity": 176,
+    "date": "2026-07-01T04:46:48.350Z",
+    "reference": "PO-7813",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10164",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10164",
+    "productId": "PRD10418",
+    "quantity": 430,
+    "date": "2026-07-01T04:46:48.350Z",
+    "reference": "PO-9332",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10165",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10165",
+    "productId": "PRD10316",
+    "quantity": 251,
+    "date": "2026-07-01T04:46:48.350Z",
+    "reference": "PO-2478",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10166",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10166",
+    "productId": "PRD10120",
+    "quantity": 506,
+    "date": "2026-07-01T04:46:48.350Z",
+    "reference": "PO-8062",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10167",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10167",
+    "productId": "PRD10226",
+    "quantity": 330,
+    "date": "2026-07-01T04:46:48.350Z",
+    "reference": "PO-7728",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10168",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10168",
+    "productId": "PRD10332",
+    "quantity": 66,
+    "date": "2026-07-01T04:46:48.351Z",
+    "reference": "PO-3669",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10169",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10169",
+    "productId": "PRD10444",
+    "quantity": 389,
+    "date": "2026-07-01T04:46:48.351Z",
+    "reference": "PO-3890",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10170",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10170",
+    "productId": "PRD10275",
+    "quantity": 266,
+    "date": "2026-07-01T04:46:48.351Z",
+    "reference": "PO-794",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10171",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10171",
+    "productId": "PRD10280",
+    "quantity": 165,
+    "date": "2026-07-01T04:46:48.351Z",
+    "reference": "PO-2918",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10172",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10172",
+    "productId": "PRD10214",
+    "quantity": 416,
+    "date": "2026-07-01T04:46:48.351Z",
+    "reference": "PO-3462",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10173",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10173",
+    "productId": "PRD10077",
+    "quantity": 101,
+    "date": "2026-07-01T04:46:48.351Z",
+    "reference": "PO-163",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10174",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10174",
+    "productId": "PRD10239",
+    "quantity": 112,
+    "date": "2026-07-01T04:46:48.351Z",
+    "reference": "PO-731",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10175",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10175",
+    "productId": "PRD10046",
+    "quantity": 68,
+    "date": "2026-07-01T04:46:48.351Z",
+    "reference": "PO-916",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10176",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10176",
+    "productId": "PRD10316",
+    "quantity": 542,
+    "date": "2026-07-01T04:46:48.351Z",
+    "reference": "PO-1942",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10177",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10177",
+    "productId": "PRD10473",
+    "quantity": 352,
+    "date": "2026-07-01T04:46:48.351Z",
+    "reference": "PO-9083",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10178",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10178",
+    "productId": "PRD10009",
+    "quantity": 299,
+    "date": "2026-07-01T04:46:48.351Z",
+    "reference": "PO-1889",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10179",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10179",
+    "productId": "PRD10405",
+    "quantity": 255,
+    "date": "2026-07-01T04:46:48.351Z",
+    "reference": "PO-8073",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10180",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10180",
+    "productId": "PRD10121",
+    "quantity": 438,
+    "date": "2026-07-01T04:46:48.351Z",
+    "reference": "PO-9628",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10181",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10181",
+    "productId": "PRD10341",
+    "quantity": 362,
+    "date": "2026-07-01T04:46:48.351Z",
+    "reference": "PO-9529",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10182",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10182",
+    "productId": "PRD10241",
+    "quantity": 198,
+    "date": "2026-07-01T04:46:48.351Z",
+    "reference": "PO-65",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10183",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10183",
+    "productId": "PRD10184",
+    "quantity": 534,
+    "date": "2026-07-01T04:46:48.351Z",
+    "reference": "PO-9190",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10184",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10184",
+    "productId": "PRD10033",
+    "quantity": 398,
+    "date": "2026-07-01T04:46:48.351Z",
+    "reference": "PO-5266",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10185",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10185",
+    "productId": "PRD10344",
+    "quantity": 511,
+    "date": "2026-07-01T04:46:48.351Z",
+    "reference": "PO-6786",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10186",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10186",
+    "productId": "PRD10318",
+    "quantity": 509,
+    "date": "2026-07-01T04:46:48.351Z",
+    "reference": "PO-7323",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10187",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10187",
+    "productId": "PRD10412",
+    "quantity": 305,
+    "date": "2026-07-01T04:46:48.351Z",
+    "reference": "PO-2024",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10188",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10188",
+    "productId": "PRD10106",
+    "quantity": 461,
+    "date": "2026-07-01T04:46:48.351Z",
+    "reference": "PO-3335",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10189",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10189",
+    "productId": "PRD10455",
+    "quantity": 142,
+    "date": "2026-07-01T04:46:48.351Z",
+    "reference": "PO-2468",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10190",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10190",
+    "productId": "PRD10070",
+    "quantity": 190,
+    "date": "2026-07-01T04:46:48.352Z",
+    "reference": "PO-3469",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10191",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10191",
+    "productId": "PRD10289",
+    "quantity": 250,
+    "date": "2026-07-01T04:46:48.352Z",
+    "reference": "PO-1437",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10192",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10192",
+    "productId": "PRD10428",
+    "quantity": 366,
+    "date": "2026-07-01T04:46:48.352Z",
+    "reference": "PO-7273",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10193",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10193",
+    "productId": "PRD10098",
+    "quantity": 331,
+    "date": "2026-07-01T04:46:48.352Z",
+    "reference": "PO-6258",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10194",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10194",
+    "productId": "PRD10411",
+    "quantity": 414,
+    "date": "2026-07-01T04:46:48.352Z",
+    "reference": "PO-4921",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10195",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10195",
+    "productId": "PRD10219",
+    "quantity": 193,
+    "date": "2026-07-01T04:46:48.352Z",
+    "reference": "PO-4060",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10196",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10196",
+    "productId": "PRD10181",
+    "quantity": 253,
+    "date": "2026-07-01T04:46:48.352Z",
+    "reference": "PO-2153",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10197",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10197",
+    "productId": "PRD10327",
+    "quantity": 81,
+    "date": "2026-07-01T04:46:48.352Z",
+    "reference": "PO-4112",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10198",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10198",
+    "productId": "PRD10013",
+    "quantity": 205,
+    "date": "2026-07-01T04:46:48.352Z",
+    "reference": "PO-8553",
+    "status": "POSTED"
+  },
+  {
+    "id": "GR-2026-10199",
+    "type": "Goods Receipt",
+    "inventoryId": "INV10199",
+    "productId": "PRD10067",
+    "quantity": 162,
+    "date": "2026-07-01T04:46:48.352Z",
+    "reference": "PO-5269",
+    "status": "POSTED"
+  }
+]

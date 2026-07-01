@@ -1,0 +1,147 @@
+<mvc:View controllerName="sap.erm.app.controller.product.Detail" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" xmlns:uxap="sap.uxap" xmlns:layout="sap.ui.layout" xmlns:form="sap.ui.layout.form">
+    <uxap:ObjectPageLayout id="ObjectPageLayout" showTitleInHeaderContent="true" showEditHeaderButton="true" editHeaderButtonPress=".onEditPress">
+        <uxap:headerTitle>
+            <uxap:ObjectPageDynamicHeaderTitle>
+                <uxap:expandedHeading>
+                    <Title text="{model>/productName}" wrapping="true" class="sapUiSmallMarginEnd"/>
+                </uxap:expandedHeading>
+                <uxap:snappedHeading>
+                    <FlexBox fitContainer="true" alignItems="Center">
+                        <Title text="{model>/productName}" wrapping="true" class="sapUiSmallMarginEnd"/>
+                    </FlexBox>
+                </uxap:snappedHeading>
+                <uxap:actions>
+                    <Button text="Edit" type="Emphasized" press=".onEditPress" visible="{= ${userModel>/role} === 'System Administrator' || ${userModel>/role} === 'Product Manager' }" />
+                    <Button text="Delete" type="Reject" press=".onDeletePress" visible="{= (${userModel>/role} === 'System Administrator' || ${userModel>/role} === 'Product Manager') &amp;&amp; !${model>/deleted} }" />
+                    <Button text="Restore" press=".onRestorePress" visible="{= (${userModel>/role} === 'System Administrator' || ${userModel>/role} === 'Product Manager') &amp;&amp; ${model>/deleted} }" />
+                    <Button text="Timeline" press=".onTimelinePress" />
+                </uxap:actions>
+                <uxap:navigationActions>
+                    <Button icon="sap-icon://nav-back" type="Transparent" press=".onNavBack" />
+                </uxap:navigationActions>
+            </uxap:ObjectPageDynamicHeaderTitle>
+        </uxap:headerTitle>
+
+        <uxap:headerContent>
+            <FlexBox wrap="Wrap" fitContainer="true" alignItems="Stretch">
+                <layout:VerticalLayout class="sapUiSmallMarginRight sapUiSmallMarginBottom">
+                    <ObjectStatus title="SKU" text="{model>/productCode}"/>
+                    <ObjectStatus title="Barcode" text="{model>/barcode}"/>
+                </layout:VerticalLayout>
+                <layout:VerticalLayout class="sapUiSmallMarginRight sapUiSmallMarginBottom">
+                    <ObjectStatus title="Category" text="{model>/category}"/>
+                    <ObjectStatus title="Brand" text="{model>/brand}"/>
+                </layout:VerticalLayout>
+                <layout:VerticalLayout class="sapUiSmallMarginRight sapUiSmallMarginBottom">
+                    <ObjectStatus title="Status" text="{model>/status}" state="{ path: 'model>/status', formatter: '.formatter.statusState' }"/>
+                </layout:VerticalLayout>
+            </FlexBox>
+        </uxap:headerContent>
+
+        <uxap:sections>
+            <uxap:ObjectPageSection title="General Information">
+                <uxap:subSections>
+                    <uxap:ObjectPageSubSection>
+                        <uxap:blocks>
+                            <form:SimpleForm layout="ResponsiveGridLayout">
+                                <form:content>
+                                    <Label text="Short Description"/>
+                                    <Text text="{model>/shortDescription}"/>
+                                    <Label text="Long Description"/>
+                                    <Text text="{model>/longDescription}"/>
+                                    <Label text="Model"/>
+                                    <Text text="{model>/model}"/>
+                                    <Label text="Country of Origin"/>
+                                    <Text text="{model>/countryOfOrigin}"/>
+                                    <Label text="HSN/SAC"/>
+                                    <Text text="{model>/hsnSac}"/>
+                                    <Label text="Material Type"/>
+                                    <Text text="{model>/materialType}"/>
+                                </form:content>
+                            </form:SimpleForm>
+                        </uxap:blocks>
+                    </uxap:ObjectPageSubSection>
+                </uxap:subSections>
+            </uxap:ObjectPageSection>
+            
+            <uxap:ObjectPageSection title="Pricing &amp; Tax">
+                <uxap:subSections>
+                    <uxap:ObjectPageSubSection>
+                        <uxap:blocks>
+                            <form:SimpleForm layout="ResponsiveGridLayout">
+                                <form:content>
+                                    <Label text="Selling Price"/>
+                                    <Text text="{model>/currency} {model>/sellingPrice}"/>
+                                    <Label text="Cost Price"/>
+                                    <Text text="{model>/currency} {model>/costPrice}"/>
+                                    <Label text="Wholesale Price"/>
+                                    <Text text="{model>/currency} {model>/wholesalePrice}"/>
+                                    <Label text="Tax Category"/>
+                                    <Text text="{model>/taxCategory}"/>
+                                </form:content>
+                            </form:SimpleForm>
+                        </uxap:blocks>
+                    </uxap:ObjectPageSubSection>
+                </uxap:subSections>
+            </uxap:ObjectPageSection>
+
+            <uxap:ObjectPageSection title="Inventory Parameters">
+                <uxap:subSections>
+                    <uxap:ObjectPageSubSection>
+                        <uxap:blocks>
+                            <form:SimpleForm layout="ResponsiveGridLayout">
+                                <form:content>
+                                    <Label text="Current Stock"/>
+                                    <Text text="{model>/stock} {model>/uom}"/>
+                                    <Label text="Minimum Stock"/>
+                                    <Text text="{model>/minStock} {model>/uom}"/>
+                                    <Label text="Maximum Stock"/>
+                                    <Text text="{model>/maxStock} {model>/uom}"/>
+                                    <Label text="Reorder Level"/>
+                                    <Text text="{model>/reorderLevel} {model>/uom}"/>
+                                    <Label text="Safety Stock"/>
+                                    <Text text="{model>/safetyStock} {model>/uom}"/>
+                                    <Label text="Lead Time"/>
+                                    <Text text="{model>/leadTime}"/>
+                                    <Label text="Preferred Vendor"/>
+                                    <Text text="{model>/preferredVendor}"/>
+                                </form:content>
+                            </form:SimpleForm>
+                        </uxap:blocks>
+                    </uxap:ObjectPageSubSection>
+                </uxap:subSections>
+            </uxap:ObjectPageSection>
+
+            <uxap:ObjectPageSection title="Variants (Placeholder)">
+                <uxap:subSections>
+                    <uxap:ObjectPageSubSection>
+                        <uxap:blocks>
+                            <form:SimpleForm layout="ResponsiveGridLayout">
+                                <form:content>
+                                    <Label text="Color"/>
+                                    <Text text="{model>/color}"/>
+                                    <Label text="Size"/>
+                                    <Text text="{model>/size}"/>
+                                    <Label text="Dimensions"/>
+                                    <Text text="{model>/dimensions}"/>
+                                    <Label text="Weight"/>
+                                    <Text text="{model>/weight}"/>
+                                </form:content>
+                            </form:SimpleForm>
+                        </uxap:blocks>
+                    </uxap:ObjectPageSubSection>
+                </uxap:subSections>
+            </uxap:ObjectPageSection>
+            
+            <uxap:ObjectPageSection title="Images &amp; Documents (Placeholder)">
+                <uxap:subSections>
+                    <uxap:ObjectPageSubSection>
+                        <uxap:blocks>
+                            <Text text="Product Image Service and Document management coming soon." />
+                        </uxap:blocks>
+                    </uxap:ObjectPageSubSection>
+                </uxap:subSections>
+            </uxap:ObjectPageSection>
+        </uxap:sections>
+    </uxap:ObjectPageLayout>
+</mvc:View>

@@ -1,0 +1,35 @@
+<mvc:View controllerName="sap.erm.app.controller.admin.UserList" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" xmlns:f="sap.f" xmlns:core="sap.ui.core">
+    <f:DynamicPage>
+        <f:title>
+            <f:DynamicPageTitle>
+                <f:heading>
+                    <Title text="User Management" level="H2"/>
+                </f:heading>
+            </f:DynamicPageTitle>
+        </f:title>
+        <f:content>
+            <Table items="{userListModel>/}">
+                <columns>
+                    <Column><Text text="ID"/></Column>
+                    <Column><Text text="Name"/></Column>
+                    <Column><Text text="Email"/></Column>
+                    <Column><Text text="Role"/></Column>
+                    <Column><Text text="Department"/></Column>
+                    <Column><Text text="Status"/></Column>
+                </columns>
+                <items>
+                    <ColumnListItem>
+                        <cells>
+                            <Text text="{userListModel>id}" />
+                            <Text text="{userListModel>name}" />
+                            <Text text="{userListModel>email}" />
+                            <Text text="{userListModel>role}" />
+                            <Text text="{userListModel>department}" />
+                            <ObjectStatus text="{userListModel>status}" state="{= ${userListModel>status} === 'Active' ? 'Success' : 'Error' }" />
+                        </cells>
+                    </ColumnListItem>
+                </items>
+            </Table>
+        </f:content>
+    </f:DynamicPage>
+</mvc:View>

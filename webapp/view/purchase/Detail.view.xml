@@ -1,0 +1,121 @@
+<mvc:View controllerName="sap.erm.app.controller.purchase.Detail" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" xmlns:uxap="sap.uxap" xmlns:layout="sap.ui.layout" xmlns:form="sap.ui.layout.form">
+    <uxap:ObjectPageLayout id="ObjectPageLayout" showTitleInHeaderContent="true">
+        <uxap:headerTitle>
+            <uxap:ObjectPageDynamicHeaderTitle>
+                <uxap:expandedHeading>
+                    <Title text="Purchase Order: {model>/id}" wrapping="true"/>
+                </uxap:expandedHeading>
+                <uxap:actions>
+                    <Button text="Edit" type="Emphasized" press=".onEditPress" />
+                    <Button text="Delete" type="Reject" press=".onDeletePress" />
+                    <Button text="Submit for Approval" press=".onSubmitPress" visible="{= ${model>/status} === 'DRAFT' }" />
+                    <Button text="Approve" type="Accept" press=".onApprovePress" visible="{= ${model>/status} === 'PENDING_APPROVAL' &amp;&amp; (${userModel>/role} === 'System Administrator' || ${userModel>/role} === 'Purchase Manager') }" />
+                    <Button text="Post Goods Receipt" press=".onGoodsReceiptPress" visible="{= ${model>/status} === 'APPROVED' || ${model>/status} === 'Ready For Receipt' }" />
+                </uxap:actions>
+                <uxap:navigationActions>
+                    <Button icon="sap-icon://nav-back" type="Transparent" press=".onNavBack" />
+                </uxap:navigationActions>
+            </uxap:ObjectPageDynamicHeaderTitle>
+        </uxap:headerTitle>
+
+        <uxap:headerContent>
+            <FlexBox wrap="Wrap" fitContainer="true" alignItems="Stretch">
+                <layout:VerticalLayout class="sapUiSmallMarginRight sapUiSmallMarginBottom">
+                    <ObjectStatus title="Vendor" text="{model>/vendorName}"/>
+                    <ObjectStatus title="Buyer" text="{model>/buyer}"/>
+                </layout:VerticalLayout>
+                <layout:VerticalLayout class="sapUiSmallMarginRight sapUiSmallMarginBottom">
+                    <ObjectStatus title="Status" text="{model>/status}" state="{ path: 'model>/status', formatter: '.formatter.statusState' }"/>
+                    <ObjectStatus title="Gross Amount" text="{model>/currency} {model>/totalGrossAmount}"/>
+                </layout:VerticalLayout>
+            </FlexBox>
+        </uxap:headerContent>
+
+        <uxap:sections>
+            <uxap:ObjectPageSection title="General Information">
+                <uxap:subSections>
+                    <uxap:ObjectPageSubSection>
+                        <uxap:blocks>
+                            <form:SimpleForm layout="ResponsiveGridLayout">
+                                <form:content>
+                                    <Label text="Order Date"/>
+                                    <Text text="{ path: 'model>/orderDate', formatter: '.formatter.date' }"/>
+                                    <Label text="Expected Delivery Date"/>
+                                    <Text text="{ path: 'model>/expectedDeliveryDate', formatter: '.formatter.date' }"/>
+                                    <Label text="Payment Terms"/>
+                                    <Text text="{model>/paymentTerms}"/>
+                                    <Label text="Purchasing Organization"/>
+                                    <Text text="{model>/purchasingOrganization}"/>
+                                    <Label text="Company Code"/>
+                                    <Text text="{model>/companyCode}"/>
+                                    <Label text="Remarks"/>
+                                    <Text text="{model>/remarks}"/>
+                                </form:content>
+                            </form:SimpleForm>
+                        </uxap:blocks>
+                    </uxap:ObjectPageSubSection>
+                </uxap:subSections>
+            </uxap:ObjectPageSection>
+
+            <uxap:ObjectPageSection title="Order Items">
+                <uxap:subSections>
+                    <uxap:ObjectPageSubSection>
+                        <uxap:blocks>
+                            <Table items="{model>/items}">
+                                <columns>
+                                    <Column><Text text="Product"/></Column>
+                                    <Column><Text text="Quantity"/></Column>
+                                    <Column><Text text="Purchase Price"/></Column>
+                                    <Column><Text text="Discount %"/></Column>
+                                    <Column><Text text="Tax %"/></Column>
+                                    <Column><Text text="Net Amount"/></Column>
+                                </columns>
+                                <items>
+                                    <ColumnListItem>
+                                        <cells>
+                                            <Text text="{model>productName} ({model>productCode})" />
+                                            <Text text="{model>quantity} {model>uom}" />
+                                            <Text text="{model>purchasePrice}" />
+                                            <Text text="{model>discountPercentage}" />
+                                            <Text text="{model>taxPercentage}" />
+                                            <Text text="{model>netAmount}" />
+                                        </cells>
+                                    </ColumnListItem>
+                                </items>
+                            </Table>
+                        </uxap:blocks>
+                    </uxap:ObjectPageSubSection>
+                </uxap:subSections>
+            </uxap:ObjectPageSection>
+
+            <uxap:ObjectPageSection title="Pricing Summary">
+                <uxap:subSections>
+                    <uxap:ObjectPageSubSection>
+                        <uxap:blocks>
+                            <form:SimpleForm layout="ResponsiveGridLayout">
+                                <form:content>
+                                    <Label text="Total Net Amount"/>
+                                    <Text text="{model>/currency} {model>/totalNetAmount}"/>
+                                    <Label text="Total Tax Amount"/>
+                                    <Text text="{model>/currency} {model>/totalTaxAmount}"/>
+                                    <Label text="Total Gross Amount"/>
+                                    <Text text="{model>/currency} {model>/totalGrossAmount}"/>
+                                </form:content>
+                            </form:SimpleForm>
+                        </uxap:blocks>
+                    </uxap:ObjectPageSubSection>
+                </uxap:subSections>
+            </uxap:ObjectPageSection>
+            
+            <uxap:ObjectPageSection title="Timeline &amp; Approval History (Placeholder)">
+                <uxap:subSections>
+                    <uxap:ObjectPageSubSection>
+                        <uxap:blocks>
+                            <Text text="Workflow approval history and document timeline will appear here." />
+                        </uxap:blocks>
+                    </uxap:ObjectPageSubSection>
+                </uxap:subSections>
+            </uxap:ObjectPageSection>
+        </uxap:sections>
+    </uxap:ObjectPageLayout>
+</mvc:View>

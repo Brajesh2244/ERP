@@ -1,0 +1,31 @@
+<mvc:View controllerName="sap.erm.app.controller.admin.Settings" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" xmlns:f="sap.f" xmlns:form="sap.ui.layout.form">
+    <f:DynamicPage>
+        <f:title>
+            <f:DynamicPageTitle>
+                <f:heading>
+                    <Title text="Global Application Settings" level="H2"/>
+                </f:heading>
+            </f:DynamicPageTitle>
+        </f:title>
+        <f:content>
+            <form:SimpleForm layout="ResponsiveGridLayout">
+                <form:content>
+                    <Label text="Theme"/>
+                    <Select selectedKey="{settingsConfigModel>/theme}" change=".onThemeChange">
+                        <core:Item key="sap_horizon" text="SAP Horizon" xmlns:core="sap.ui.core" />
+                        <core:Item key="sap_belize" text="SAP Belize" xmlns:core="sap.ui.core" />
+                        <core:Item key="sap_fiori_3" text="Quartz Light" xmlns:core="sap.ui.core" />
+                    </Select>
+                    <Label text="Language"/>
+                    <Input value="{settingsConfigModel>/language}" />
+                    <Label text="Currency"/>
+                    <Input value="{settingsConfigModel>/currency}" />
+                    <Label text="Timezone"/>
+                    <Input value="{settingsConfigModel>/timezone}" />
+                    <Label text="Application Version"/>
+                    <Text text="{settingsConfigModel>/version}" />
+                </form:content>
+            </form:SimpleForm>
+        </f:content>
+    </f:DynamicPage>
+</mvc:View>

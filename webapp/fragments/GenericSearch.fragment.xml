@@ -1,0 +1,8 @@
+<core:FragmentDefinition xmlns="sap.m" xmlns:core="sap.ui.core">
+    <OverflowToolbar>
+        <SearchField width="300px" search=".onSearch" placeholder="Search across all fields..."/>
+        <ToolbarSpacer/>
+        <Button text="Advanced Filter" icon="sap-icon://filter" press=".onAdvancedFilter"/>
+        <Button text="Clear" type="Transparent" press=".onClearFilters"/>
+    </OverflowToolbar>
+</core:FragmentDefinition>

@@ -1,0 +1,11 @@
+<mvc:View
+    controllerName="sap.erm.app.controller.Placeholder"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <MessagePage
+        title="{/moduleName}"
+        text="{/moduleDescription}"
+        description="Coming in future sprint"
+        icon="{/moduleIcon}">
+    </MessagePage>
+</mvc:View>

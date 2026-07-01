@@ -1,0 +1,52 @@
+[
+  {
+    "id": "USD",
+    "name": "US Dollar",
+    "symbol": "$"
+  },
+  {
+    "id": "EUR",
+    "name": "Euro",
+    "symbol": "€"
+  },
+  {
+    "id": "GBP",
+    "name": "British Pound",
+    "symbol": "£"
+  },
+  {
+    "id": "JPY",
+    "name": "Japanese Yen",
+    "symbol": "¥"
+  },
+  {
+    "id": "CAD",
+    "name": "Canadian Dollar",
+    "symbol": "C$"
+  },
+  {
+    "id": "AUD",
+    "name": "Australian Dollar",
+    "symbol": "A$"
+  },
+  {
+    "id": "CNY",
+    "name": "Chinese Yuan",
+    "symbol": "¥"
+  },
+  {
+    "id": "INR",
+    "name": "Indian Rupee",
+    "symbol": "₹"
+  },
+  {
+    "id": "BRL",
+    "name": "Brazilian Real",
+    "symbol": "R$"
+  },
+  {
+    "id": "ZAR",
+    "name": "South African Rand",
+    "symbol": "R"
+  }
+]

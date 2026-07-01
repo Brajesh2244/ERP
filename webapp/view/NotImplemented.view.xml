@@ -1,0 +1,11 @@
+<mvc:View
+    controllerName="sap.erm.app.controller.NotImplemented"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <MessagePage
+        title="Module Not Implemented"
+        text="This module is planned for a future phase."
+        description="Please return to the dashboard."
+        icon="sap-icon://time-entry-request">
+    </MessagePage>
+</mvc:View>

@@ -1,0 +1,16 @@
+<mvc:View
+    controllerName="sap.erm.app.controller.Forbidden"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <MessagePage
+        title="Forbidden"
+        text="Access Denied"
+        description="You do not have the required permissions to access this resource."
+        icon="sap-icon://decline"
+        showNavButton="true"
+        navButtonPress=".onNavBack">
+        <buttons>
+            <Button text="Return to Dashboard" press=".onDashboardPress" />
+        </buttons>
+    </MessagePage>
+</mvc:View>

@@ -1,0 +1,84 @@
+<mvc:View controllerName="sap.erm.app.controller.vendor.Create" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" xmlns:f="sap.f" xmlns:form="sap.ui.layout.form" xmlns:core="sap.ui.core">
+    <f:DynamicPage showFooter="true">
+        <f:title>
+            <f:DynamicPageTitle>
+                <f:heading>
+                    <Title text="Create Vendor" level="H2"/>
+                </f:heading>
+                <f:navigationActions>
+                    <Button icon="sap-icon://nav-back" type="Transparent" press=".onNavBack" />
+                </f:navigationActions>
+            </f:DynamicPageTitle>
+        </f:title>
+        <f:content>
+            <form:SimpleForm layout="ResponsiveGridLayout" title="Vendor Details">
+                <form:content>
+                    <core:Title text="General" />
+                    <Label text="Vendor Name" required="true"/>
+                    <Input value="{model>/vendorName}" />
+                    
+                    <Label text="Legal Name"/>
+                    <Input value="{model>/legalName}" />
+                    
+                    <Label text="Category"/>
+                    <ComboBox selectedKey="{model>/categoryId}" items="{vendorCategoryModel>/}">
+                        <core:Item key="{vendorCategoryModel>id}" text="{vendorCategoryModel>name}" />
+                    </ComboBox>
+                    
+                    <Label text="Industry"/>
+                    <ComboBox selectedKey="{model>/industryId}" items="{industryModel>/}">
+                        <core:Item key="{industryModel>id}" text="{industryModel>name}" />
+                    </ComboBox>
+
+                    <core:Title text="Contact" />
+                    <Label text="Primary Contact" required="true"/>
+                    <Input value="{model>/primaryContact}" />
+                    
+                    <Label text="Email" required="true"/>
+                    <Input value="{model>/email}" />
+                    
+                    <Label text="Phone"/>
+                    <Input value="{model>/phone}" />
+                    
+                    <core:Title text="Bank &amp; Financial" />
+                    <Label text="Bank Name"/>
+                    <Input value="{model>/bankName}" />
+                    
+                    <Label text="Bank Account"/>
+                    <Input value="{model>/bankAccount}" />
+                    
+                    <Label text="Tax ID" required="true"/>
+                    <Input value="{model>/taxId}" />
+                    
+                    <Label text="Currency"/>
+                    <ComboBox selectedKey="{model>/currencyId}" items="{currencyModel>/}">
+                        <core:Item key="{currencyModel>id}" text="{currencyModel>name}" />
+                    </ComboBox>
+                    
+                    <Label text="Payment Terms"/>
+                    <ComboBox selectedKey="{model>/paymentTermsId}" items="{paymentTermsModel>/}">
+                        <core:Item key="{paymentTermsModel>id}" text="{paymentTermsModel>name}" />
+                    </ComboBox>
+
+                    <core:Title text="Address" />
+                    <Label text="Country"/>
+                    <ComboBox selectedKey="{model>/countryId}" items="{countryModel>/}">
+                        <core:Item key="{countryModel>id}" text="{countryModel>name}" />
+                    </ComboBox>
+
+                    <Label text="State"/>
+                    <ComboBox selectedKey="{model>/stateId}" items="{stateModel>/}">
+                        <core:Item key="{stateModel>id}" text="{stateModel>name}" />
+                    </ComboBox>
+                </form:content>
+            </form:SimpleForm>
+        </f:content>
+        <f:footer>
+            <OverflowToolbar>
+                <ToolbarSpacer />
+                <Button text="Save" type="Emphasized" press=".onSavePress" />
+                <Button text="Cancel" press=".onNavBack" />
+            </OverflowToolbar>
+        </f:footer>
+    </f:DynamicPage>
+</mvc:View>

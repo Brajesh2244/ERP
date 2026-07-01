@@ -1,0 +1,82 @@
+<mvc:View controllerName="sap.erm.app.controller.product.Create" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" xmlns:f="sap.f" xmlns:form="sap.ui.layout.form" xmlns:core="sap.ui.core">
+    <f:DynamicPage showFooter="true">
+        <f:title>
+            <f:DynamicPageTitle>
+                <f:heading>
+                    <Title text="Create Product" level="H2"/>
+                </f:heading>
+                <f:navigationActions>
+                    <Button icon="sap-icon://nav-back" type="Transparent" press=".onNavBack" />
+                </f:navigationActions>
+            </f:DynamicPageTitle>
+        </f:title>
+        <f:content>
+            <form:SimpleForm layout="ResponsiveGridLayout" title="Product Details">
+                <form:content>
+                    <core:Title text="General" />
+                    <Label text="Product Name" required="true"/>
+                    <Input value="{model>/productName}" />
+                    
+                    <Label text="SKU" required="true"/>
+                    <Input value="{model>/productCode}" />
+                    
+                    <Label text="Barcode"/>
+                    <Input value="{model>/barcode}" />
+                    
+                    <Label text="Category" required="true"/>
+                    <ComboBox selectedKey="{model>/categoryId}" items="{categoryModel>/}">
+                        <core:Item key="{categoryModel>id}" text="{categoryModel>name}" />
+                    </ComboBox>
+
+                    <Label text="Subcategory"/>
+                    <ComboBox selectedKey="{model>/subcategoryId}" items="{subcategoryModel>/}">
+                        <core:Item key="{subcategoryModel>id}" text="{subcategoryModel>name}" />
+                    </ComboBox>
+                    
+                    <Label text="Brand"/>
+                    <ComboBox selectedKey="{model>/brandId}" items="{brandModel>/}">
+                        <core:Item key="{brandModel>id}" text="{brandModel>name}" />
+                    </ComboBox>
+
+                    <core:Title text="Pricing &amp; Tax" />
+                    <Label text="Selling Price"/>
+                    <Input value="{model>/sellingPrice}" type="Number" />
+                    
+                    <Label text="Cost Price"/>
+                    <Input value="{model>/costPrice}" type="Number" />
+
+                    <Label text="Currency"/>
+                    <ComboBox selectedKey="{model>/currencyId}" items="{currencyModel>/}">
+                        <core:Item key="{currencyModel>id}" text="{currencyModel>name}" />
+                    </ComboBox>
+                    
+                    <Label text="Tax Category"/>
+                    <ComboBox selectedKey="{model>/taxCategoryId}" items="{taxModel>/}">
+                        <core:Item key="{taxModel>id}" text="{taxModel>name}" />
+                    </ComboBox>
+
+                    <core:Title text="Inventory" />
+                    <Label text="UOM"/>
+                    <ComboBox selectedKey="{model>/uomId}" items="{uomModel>/}">
+                        <core:Item key="{uomModel>id}" text="{uomModel>name}" />
+                    </ComboBox>
+
+                    <Label text="Reorder Level"/>
+                    <Input value="{model>/reorderLevel}" type="Number" />
+                    
+                    <Label text="Material Type"/>
+                    <ComboBox selectedKey="{model>/materialTypeId}" items="{materialTypeModel>/}">
+                        <core:Item key="{materialTypeModel>id}" text="{materialTypeModel>name}" />
+                    </ComboBox>
+                </form:content>
+            </form:SimpleForm>
+        </f:content>
+        <f:footer>
+            <OverflowToolbar>
+                <ToolbarSpacer />
+                <Button text="Save" type="Emphasized" press=".onSavePress" />
+                <Button text="Cancel" press=".onNavBack" />
+            </OverflowToolbar>
+        </f:footer>
+    </f:DynamicPage>
+</mvc:View>

@@ -1,0 +1,14 @@
+<core:FragmentDefinition xmlns="sap.f.cards" xmlns:core="sap.ui.core">
+    <Card width="300px">
+        <header>
+            <NumericHeader 
+                title="{title}" 
+                subtitle="{subtitle}" 
+                number="{value}" 
+                scale="{scale}" 
+                valueColor="{color}" 
+                indicator="{trend}" 
+                icon="{icon}"/>
+        </header>
+    </Card>
+</core:FragmentDefinition>

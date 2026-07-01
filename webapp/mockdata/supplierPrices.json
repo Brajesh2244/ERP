@@ -1,0 +1,227 @@
+[
+  {
+    "id": "SP-10000",
+    "vendorId": "VEND10094",
+    "productId": "PRD10200",
+    "purchasePrice": 179,
+    "currency": "USD",
+    "validFrom": "2025-07-01T04:46:49.329Z",
+    "validTo": "2027-07-01T04:46:49.329Z"
+  },
+  {
+    "id": "SP-10001",
+    "vendorId": "VEND10077",
+    "productId": "PRD10329",
+    "purchasePrice": 33,
+    "currency": "USD",
+    "validFrom": "2025-07-01T04:46:49.330Z",
+    "validTo": "2027-07-01T04:46:49.331Z"
+  },
+  {
+    "id": "SP-10002",
+    "vendorId": "VEND10140",
+    "productId": "PRD10341",
+    "purchasePrice": 94,
+    "currency": "USD",
+    "validFrom": "2025-07-01T04:46:49.331Z",
+    "validTo": "2027-07-01T04:46:49.332Z"
+  },
+  {
+    "id": "SP-10003",
+    "vendorId": "VEND10136",
+    "productId": "PRD10041",
+    "purchasePrice": 444,
+    "currency": "USD",
+    "validFrom": "2025-07-01T04:46:49.332Z",
+    "validTo": "2027-07-01T04:46:49.332Z"
+  },
+  {
+    "id": "SP-10004",
+    "vendorId": "VEND10192",
+    "productId": "PRD10415",
+    "purchasePrice": 318,
+    "currency": "USD",
+    "validFrom": "2025-07-01T04:46:49.332Z",
+    "validTo": "2027-07-01T04:46:49.332Z"
+  },
+  {
+    "id": "SP-10005",
+    "vendorId": "VEND10192",
+    "productId": "PRD10406",
+    "purchasePrice": 339,
+    "currency": "USD",
+    "validFrom": "2025-07-01T04:46:49.332Z",
+    "validTo": "2027-07-01T04:46:49.332Z"
+  },
+  {
+    "id": "SP-10006",
+    "vendorId": "VEND10002",
+    "productId": "PRD10276",
+    "purchasePrice": 295,
+    "currency": "USD",
+    "validFrom": "2025-07-01T04:46:49.333Z",
+    "validTo": "2027-07-01T04:46:49.333Z"
+  },
+  {
+    "id": "SP-10007",
+    "vendorId": "VEND10002",
+    "productId": "PRD10354",
+    "purchasePrice": 198,
+    "currency": "USD",
+    "validFrom": "2025-07-01T04:46:49.333Z",
+    "validTo": "2027-07-01T04:46:49.333Z"
+  },
+  {
+    "id": "SP-10008",
+    "vendorId": "VEND10002",
+    "productId": "PRD10056",
+    "purchasePrice": 270,
+    "currency": "USD",
+    "validFrom": "2025-07-01T04:46:49.333Z",
+    "validTo": "2027-07-01T04:46:49.333Z"
+  },
+  {
+    "id": "SP-10009",
+    "vendorId": "VEND10000",
+    "productId": "PRD10465",
+    "purchasePrice": 477,
+    "currency": "USD",
+    "validFrom": "2025-07-01T04:46:49.333Z",
+    "validTo": "2027-07-01T04:46:49.333Z"
+  },
+  {
+    "id": "SP-10010",
+    "vendorId": "VEND10157",
+    "productId": "PRD10244",
+    "purchasePrice": 139,
+    "currency": "USD",
+    "validFrom": "2025-07-01T04:46:49.333Z",
+    "validTo": "2027-07-01T04:46:49.333Z"
+  },
+  {
+    "id": "SP-10011",
+    "vendorId": "VEND10096",
+    "productId": "PRD10086",
+    "purchasePrice": 185,
+    "currency": "USD",
+    "validFrom": "2025-07-01T04:46:49.333Z",
+    "validTo": "2027-07-01T04:46:49.333Z"
+  },
+  {
+    "id": "SP-10012",
+    "vendorId": "VEND10150",
+    "productId": "PRD10203",
+    "purchasePrice": 248,
+    "currency": "USD",
+    "validFrom": "2025-07-01T04:46:49.333Z",
+    "validTo": "2027-07-01T04:46:49.333Z"
+  },
+  {
+    "id": "SP-10013",
+    "vendorId": "VEND10011",
+    "productId": "PRD10473",
+    "purchasePrice": 215,
+    "currency": "USD",
+    "validFrom": "2025-07-01T04:46:49.333Z",
+    "validTo": "2027-07-01T04:46:49.333Z"
+  },
+  {
+    "id": "SP-10014",
+    "vendorId": "VEND10011",
+    "productId": "PRD10433",
+    "purchasePrice": 134,
+    "currency": "USD",
+    "validFrom": "2025-07-01T04:46:49.333Z",
+    "validTo": "2027-07-01T04:46:49.333Z"
+  },
+  {
+    "id": "SP-10015",
+    "vendorId": "VEND10006",
+    "productId": "PRD10064",
+    "purchasePrice": 28,
+    "currency": "USD",
+    "validFrom": "2025-07-01T04:46:49.334Z",
+    "validTo": "2027-07-01T04:46:49.334Z"
+  },
+  {
+    "id": "SP-10016",
+    "vendorId": "VEND10000",
+    "productId": "PRD10248",
+    "purchasePrice": 211,
+    "currency": "USD",
+    "validFrom": "2025-07-01T04:46:49.334Z",
+    "validTo": "2027-07-01T04:46:49.334Z"
+  },
+  {
+    "id": "SP-10017",
+    "vendorId": "VEND10195",
+    "productId": "PRD10334",
+    "purchasePrice": 428,
+    "currency": "USD",
+    "validFrom": "2025-07-01T04:46:49.334Z",
+    "validTo": "2027-07-01T04:46:49.334Z"
+  },
+  {
+    "id": "SP-10018",
+    "vendorId": "VEND10024",
+    "productId": "PRD10274",
+    "purchasePrice": 373,
+    "currency": "USD",
+    "validFrom": "2025-07-01T04:46:49.334Z",
+    "validTo": "2027-07-01T04:46:49.334Z"
+  },
+  {
+    "id": "SP-10019",
+    "vendorId": "VEND10059",
+    "productId": "PRD10045",
+    "purchasePrice": 103,
+    "currency": "USD",
+    "validFrom": "2025-07-01T04:46:49.334Z",
+    "validTo": "2027-07-01T04:46:49.334Z"
+  },
+  {
+    "id": "SP-10020",
+    "vendorId": "VEND10178",
+    "productId": "PRD10103",
+    "purchasePrice": 272,
+    "currency": "USD",
+    "validFrom": "2025-07-01T04:46:49.334Z",
+    "validTo": "2027-07-01T04:46:49.334Z"
+  },
+  {
+    "id": "SP-10021",
+    "vendorId": "VEND10077",
+    "productId": "PRD10372",
+    "purchasePrice": 87,
+    "currency": "USD",
+    "validFrom": "2025-07-01T04:46:49.334Z",
+    "validTo": "2027-07-01T04:46:49.334Z"
+  },
+  {
+    "id": "SP-10022",
+    "vendorId": "VEND10056",
+    "productId": "PRD10181",
+    "purchasePrice": 503,
+    "currency": "USD",
+    "validFrom": "2025-07-01T04:46:49.334Z",
+    "validTo": "2027-07-01T04:46:49.334Z"
+  },
+  {
+    "id": "SP-10023",
+    "vendorId": "VEND10112",
+    "productId": "PRD10239",
+    "purchasePrice": 499,
+    "currency": "USD",
+    "validFrom": "2025-07-01T04:46:49.334Z",
+    "validTo": "2027-07-01T04:46:49.334Z"
+  },
+  {
+    "id": "SP-10024",
+    "vendorId": "VEND10112",
+    "productId": "PRD10170",
+    "purchasePrice": 360,
+    "currency": "USD",
+    "validFrom": "2025-07-01T04:46:49.334Z",
+    "validTo": "2027-07-01T04:46:49.334Z"
+  }
+]

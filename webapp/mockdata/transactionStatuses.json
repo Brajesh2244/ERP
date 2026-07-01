@@ -1,0 +1,30 @@
+[
+  {
+    "id": "DRAFT",
+    "name": "Draft"
+  },
+  {
+    "id": "SUBMITTED",
+    "name": "Submitted"
+  },
+  {
+    "id": "PENDING_APPROVAL",
+    "name": "Pending Approval"
+  },
+  {
+    "id": "APPROVED",
+    "name": "Approved"
+  },
+  {
+    "id": "POSTED",
+    "name": "Posted"
+  },
+  {
+    "id": "COMPLETED",
+    "name": "Completed"
+  },
+  {
+    "id": "CANCELLED",
+    "name": "Cancelled"
+  }
+]

@@ -1,0 +1,69 @@
+<mvc:View controllerName="sap.erm.app.controller.admin.Dashboard" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" xmlns:f="sap.f" xmlns:layout="sap.ui.layout">
+    <f:DynamicPage>
+        <f:title>
+            <f:DynamicPageTitle>
+                <f:heading>
+                    <Title text="System Administration Dashboard" level="H2"/>
+                </f:heading>
+            </f:DynamicPageTitle>
+        </f:title>
+        <f:content>
+            <VBox>
+                <layout:Grid defaultSpan="XL3 L3 M6 S12" class="sapUiSmallMarginBottom">
+                    <GenericTile header="Users Online" subheader="Live" press=".onNavigate" app:route="adminUsers" xmlns:app="http://schemas.sap.com/sapui5/extension/sap.ui.core.CustomData/1">
+                        <tileContent>
+                            <TileContent>
+                                <NumericContent value="{systemHealthModel>/usersOnline}" icon="sap-icon://group" valueColor="Good" />
+                            </TileContent>
+                        </tileContent>
+                    </GenericTile>
+                    
+                    <GenericTile header="Memory Usage" subheader="System Load">
+                        <tileContent>
+                            <TileContent>
+                                <NumericContent value="{systemHealthModel>/memoryUsage}" icon="sap-icon://performance" valueColor="Critical" />
+                            </TileContent>
+                        </tileContent>
+                    </GenericTile>
+                    
+                    <GenericTile header="Audit Logs" subheader="Security" press=".onNavigate" app:route="adminAuditLogs" xmlns:app="http://schemas.sap.com/sapui5/extension/sap.ui.core.CustomData/1">
+                        <tileContent>
+                            <TileContent>
+                                <NumericContent value="20+" icon="sap-icon://history" valueColor="Neutral" />
+                            </TileContent>
+                        </tileContent>
+                    </GenericTile>
+                    
+                    <GenericTile header="System Settings" subheader="Configuration" press=".onNavigate" app:route="settings" xmlns:app="http://schemas.sap.com/sapui5/extension/sap.ui.core.CustomData/1">
+                        <tileContent>
+                            <TileContent>
+                                <NumericContent value="{systemHealthModel>/version}" icon="sap-icon://action-settings" valueColor="Good" />
+                            </TileContent>
+                        </tileContent>
+                    </GenericTile>
+                </layout:Grid>
+                
+                <Panel headerText="Background Jobs">
+                    <Table items="{jobModel>/}">
+                        <columns>
+                            <Column><Text text="Job Name"/></Column>
+                            <Column><Text text="Status"/></Column>
+                            <Column><Text text="Last Run"/></Column>
+                            <Column><Text text="Next Run"/></Column>
+                        </columns>
+                        <items>
+                            <ColumnListItem>
+                                <cells>
+                                    <Text text="{jobModel>name}" />
+                                    <ObjectStatus text="{jobModel>status}" state="{= ${jobModel>status} === 'Completed' ? 'Success' : (${jobModel>status} === 'Running' ? 'Warning' : 'None') }" />
+                                    <Text text="{jobModel>lastRun}" />
+                                    <Text text="{jobModel>nextRun}" />
+                                </cells>
+                            </ColumnListItem>
+                        </items>
+                    </Table>
+                </Panel>
+            </VBox>
+        </f:content>
+    </f:DynamicPage>
+</mvc:View>

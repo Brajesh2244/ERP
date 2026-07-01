@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" preserveAspectRatio="xMidYMid slice">
+    <defs>
+        <linearGradient id="hero" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#1c4c96" />
+            <stop offset="100%" stop-color="#0e2a5c" />
+        </linearGradient>
+        <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+            <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(255,255,255,0.05)" stroke-width="1"/>
+        </pattern>
+    </defs>
+    <rect width="100%" height="100%" fill="url(#hero)"/>
+    <rect width="100%" height="100%" fill="url(#grid)"/>
+    <!-- Abstract tech shapes -->
+    <g transform="translate(600, 150)">
+        <circle cx="0" cy="0" r="80" fill="rgba(0,180,255,0.1)" />
+        <circle cx="0" cy="0" r="60" fill="none" stroke="rgba(0,180,255,0.3)" stroke-width="2" stroke-dasharray="10 5" />
+        <path d="M-40,-40 L40,-40 L40,40 L-40,40 Z" fill="none" stroke="rgba(255,255,255,0.2)" stroke-width="1" transform="rotate(45)" />
+        <circle cx="40" cy="-40" r="4" fill="#008cff" />
+        <circle cx="-40" cy="40" r="4" fill="#008cff" />
+        <path d="M0,-80 L0,-120 M80,0 L120,0 M0,80 L0,120 M-80,0 L-120,0" stroke="rgba(255,255,255,0.1)" stroke-width="2" />
+    </g>
+</svg>

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "U1001",
+    "username": "admin",
+    "password": "admin123",
+    "name": "System Administrator",
+    "email": "admin@erp.com",
+    "role": "System Administrator",
+    "roleId": "R01",
+    "department": "IT",
+    "status": "Active",
+    "lastLogin": "2026-07-01T05:20:08.048Z"
+  },
+  {
+    "id": "U1002",
+    "username": "employee",
+    "password": "employee123",
+    "name": "Standard Employee",
+    "email": "employee@erp.com",
+    "role": "Employee",
+    "roleId": "R02",
+    "department": "Operations",
+    "status": "Active",
+    "lastLogin": "2026-07-01T05:20:08.055Z"
+  },
+  {
+    "id": "U1003",
+    "username": "sales",
+    "password": "sales123",
+    "name": "Sales Manager",
+    "email": "sales@erp.com",
+    "role": "Sales Manager",
+    "roleId": "R03",
+    "department": "Sales",
+    "status": "Active",
+    "lastLogin": "2026-07-01T05:20:08.055Z"
+  },
+  {
+    "id": "U1004",
+    "username": "inventory",
+    "password": "inventory123",
+    "name": "Inventory Manager",
+    "email": "inventory@erp.com",
+    "role": "Inventory Manager",
+    "roleId": "R04",
+    "department": "Warehouse",
+    "status": "Active",
+    "lastLogin": "2026-07-01T05:20:08.055Z"
+  },
+  {
+    "id": "U1005",
+    "username": "purchase",
+    "password": "purchase123",
+    "name": "Purchase Manager",
+    "email": "purchase@erp.com",
+    "role": "Purchase Manager",
+    "roleId": "R05",
+    "department": "Procurement",
+    "status": "Active",
+    "lastLogin": "2026-07-01T05:20:08.055Z"
+  },
+  {
+    "id": "U1006",
+    "username": "finance",
+    "password": "finance123",
+    "name": "Finance Manager",
+    "email": "finance@erp.com",
+    "role": "Finance Manager",
+    "roleId": "R06",
+    "department": "Finance",
+    "status": "Active",
+    "lastLogin": "2026-07-01T05:20:08.055Z"
+  },
+  {
+    "id": "U1007",
+    "username": "viewer",
+    "password": "viewer123",
+    "name": "Read Only Viewer",
+    "email": "viewer@erp.com",
+    "role": "Viewer",
+    "roleId": "R07",
+    "department": "Executive",
+    "status": "Active",
+    "lastLogin": "2026-07-01T05:20:08.055Z"
+  }
+]

@@ -1,0 +1,10 @@
+<core:FragmentDefinition xmlns="sap.m" xmlns:core="sap.ui.core">
+    <IllustratedMessage 
+        illustrationType="sapIllus-EmptyList" 
+        title="No Data Found"
+        description="There are currently no records to display.">
+        <additionalContent>
+            <Button text="Create New" type="Emphasized" press=".onCreateNewPress" />
+        </additionalContent>
+    </IllustratedMessage>
+</core:FragmentDefinition>

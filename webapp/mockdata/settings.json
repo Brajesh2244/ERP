@@ -1,0 +1,9 @@
+{
+  "theme": "sap_horizon",
+  "language": "en-US",
+  "currency": "USD",
+  "timezone": "UTC",
+  "dateFormat": "yyyy-MM-dd",
+  "numberFormat": "en-US",
+  "version": "1.0.0"
+}

@@ -1,0 +1,9 @@
+<core:FragmentDefinition xmlns="sap.m" xmlns:core="sap.ui.core">
+    <ViewSettingsDialog 
+        id="idFilterDialog"
+        confirm=".onFilterConfirm"
+        cancel=".onFilterCancel"
+        clear=".onFilterClear">
+        <!-- Filter items injected by controllers -->
+    </ViewSettingsDialog>
+</core:FragmentDefinition>

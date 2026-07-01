@@ -1,0 +1,56 @@
+<mvc:View
+    controllerName="sap.erm.app.controller.Main"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m"
+    xmlns:tnt="sap.tnt"
+    xmlns:f="sap.f"
+    xmlns:core="sap.ui.core">
+    <Page showHeader="false" enableScrolling="false">
+        <tnt:ToolPage id="toolPage">
+            <tnt:header>
+                <tnt:ToolHeader>
+                    <Button id="sideNavigationToggleButton" icon="sap-icon://menu2" type="Transparent" press="onSideNavButtonPress" tooltip="Menu"/>
+                    <Title text="Enterprise Resource Management" class="sapUiTinyMarginBegin"/>
+                    <ToolbarSpacer />
+                    <SearchField width="200px" placeholder="Search..." search="onSearchPlaceholder" />
+                    <Button icon="sap-icon://bell" type="Transparent" press="onNotificationsPress" tooltip="Notifications">
+                        <customData>
+                            <BadgeCustomData key="badge" value="{notificationModel>/unreadCount}" visible="{= ${notificationModel>/unreadCount} > 0 }" />
+                        </customData>
+                    </Button>
+                    <Button icon="sap-icon://palette" type="Transparent" press="onThemeTogglePress" tooltip="Toggle Theme"/>
+                    <tnt:ToolHeaderUtilitySeparator />
+                    <Button text="{userModel>/username} ({userModel>/role})" type="Transparent" press="onUserAvatarPress" />
+                    <Avatar src="sap-icon://employee" displaySize="XS" press="onUserAvatarPress" class="sapUiTinyMarginEnd" tooltip="Profile"/>
+                </tnt:ToolHeader>
+            </tnt:header>
+            <tnt:sideContent>
+                <tnt:SideNavigation expanded="{appStateModel>/isSideNavExpanded}" itemSelect="onItemSelect">
+                    <tnt:NavigationList>
+                        <tnt:NavigationListItem text="Dashboard" icon="sap-icon://home" key="dashboard" />
+                        <tnt:NavigationListItem text="Employees" icon="sap-icon://employee" key="employees" />
+                        <tnt:NavigationListItem text="Customers" icon="sap-icon://customer" key="customers" />
+                        <tnt:NavigationListItem text="Vendors" icon="sap-icon://supplier" key="vendors" />
+                        <tnt:NavigationListItem text="Products" icon="sap-icon://product" key="products" />
+                        <tnt:NavigationListItem text="Inventory" icon="sap-icon://shipping-status" key="inventory" />
+                        <tnt:NavigationListItem text="Sales Orders" icon="sap-icon://sales-order" key="sales" />
+                        <tnt:NavigationListItem text="Purchase Orders" icon="sap-icon://purchasing" key="purchase" />
+                        <tnt:NavigationListItem text="Finance" icon="sap-icon://lead" key="finance" />
+                        <tnt:NavigationListItem text="Reports" icon="sap-icon://business-objects-experience" key="reports" />
+                    </tnt:NavigationList>
+                    <tnt:fixedItem>
+                        <tnt:NavigationList>
+                            <tnt:NavigationListItem text="Administration" icon="sap-icon://wrench" key="administration" />
+                            <tnt:NavigationListItem text="Settings" icon="sap-icon://settings" key="settings" />
+                            <tnt:NavigationListItem text="Help" icon="sap-icon://sys-help" key="help" />
+                        </tnt:NavigationList>
+                    </tnt:fixedItem>
+                </tnt:SideNavigation>
+            </tnt:sideContent>
+            <tnt:mainContents>
+                <App id="mainContents">
+                </App>
+            </tnt:mainContents>
+        </tnt:ToolPage>
+    </Page>
+</mvc:View>

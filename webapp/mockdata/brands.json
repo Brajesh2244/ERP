@@ -1,0 +1,30 @@
+[
+  {
+    "id": "BRD01",
+    "name": "Dell"
+  },
+  {
+    "id": "BRD02",
+    "name": "HP"
+  },
+  {
+    "id": "BRD03",
+    "name": "Logitech"
+  },
+  {
+    "id": "BRD04",
+    "name": "3M"
+  },
+  {
+    "id": "BRD05",
+    "name": "Steelcase"
+  },
+  {
+    "id": "BRD06",
+    "name": "Stanley"
+  },
+  {
+    "id": "BRD07",
+    "name": "Microsoft"
+  }
+]

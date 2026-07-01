@@ -1,0 +1,40 @@
+{
+  "KPIs": {
+    "Revenue": {
+      "value": "45.2M",
+      "indicator": "Up",
+      "currency": "USD"
+    },
+    "Sales": {
+      "value": "12.8M",
+      "indicator": "Up",
+      "currency": "USD"
+    },
+    "ActiveEmployees": {
+      "value": "1205"
+    },
+    "PendingDeliveries": {
+      "value": "342"
+    }
+  },
+  "RecentActivities": [
+    {
+      "Title": "Purchase Order #45091 Approved",
+      "Description": "Approved by Finance Dept.",
+      "Date": "2 hours ago",
+      "Icon": "sap-icon://accept"
+    },
+    {
+      "Title": "New Employee Onboarded",
+      "Description": "John Doe joined Engineering",
+      "Date": "5 hours ago",
+      "Icon": "sap-icon://employee"
+    },
+    {
+      "Title": "System Update Scheduled",
+      "Description": "Maintenance window at 2AM UTC",
+      "Date": "1 day ago",
+      "Icon": "sap-icon://sys-monitor"
+    }
+  ]
+}

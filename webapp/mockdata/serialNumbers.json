@@ -1,0 +1,6002 @@
+[
+  {
+    "id": "SN304087",
+    "productId": "PRD10055",
+    "inventoryId": "INV10000",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN209170",
+    "productId": "PRD10055",
+    "inventoryId": "INV10000",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN211784",
+    "productId": "PRD10055",
+    "inventoryId": "INV10000",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN954993",
+    "productId": "PRD10055",
+    "inventoryId": "INV10000",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN569795",
+    "productId": "PRD10055",
+    "inventoryId": "INV10000",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN941751",
+    "productId": "PRD10393",
+    "inventoryId": "INV10001",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN462889",
+    "productId": "PRD10393",
+    "inventoryId": "INV10001",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN647520",
+    "productId": "PRD10393",
+    "inventoryId": "INV10001",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN135300",
+    "productId": "PRD10393",
+    "inventoryId": "INV10001",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN720492",
+    "productId": "PRD10393",
+    "inventoryId": "INV10001",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN287992",
+    "productId": "PRD10296",
+    "inventoryId": "INV10002",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN201453",
+    "productId": "PRD10296",
+    "inventoryId": "INV10002",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN385864",
+    "productId": "PRD10296",
+    "inventoryId": "INV10002",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN832780",
+    "productId": "PRD10296",
+    "inventoryId": "INV10002",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN523661",
+    "productId": "PRD10296",
+    "inventoryId": "INV10002",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN380391",
+    "productId": "PRD10296",
+    "inventoryId": "INV10003",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN586190",
+    "productId": "PRD10296",
+    "inventoryId": "INV10003",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN546604",
+    "productId": "PRD10296",
+    "inventoryId": "INV10003",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN891471",
+    "productId": "PRD10296",
+    "inventoryId": "INV10003",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN502",
+    "productId": "PRD10296",
+    "inventoryId": "INV10003",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN913593",
+    "productId": "PRD10150",
+    "inventoryId": "INV10004",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN993181",
+    "productId": "PRD10150",
+    "inventoryId": "INV10004",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN733359",
+    "productId": "PRD10150",
+    "inventoryId": "INV10004",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN694423",
+    "productId": "PRD10150",
+    "inventoryId": "INV10004",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN659313",
+    "productId": "PRD10150",
+    "inventoryId": "INV10004",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN377728",
+    "productId": "PRD10004",
+    "inventoryId": "INV10005",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN259062",
+    "productId": "PRD10004",
+    "inventoryId": "INV10005",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN699567",
+    "productId": "PRD10004",
+    "inventoryId": "INV10005",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN940193",
+    "productId": "PRD10004",
+    "inventoryId": "INV10005",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN699368",
+    "productId": "PRD10004",
+    "inventoryId": "INV10005",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN482551",
+    "productId": "PRD10187",
+    "inventoryId": "INV10006",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN466863",
+    "productId": "PRD10187",
+    "inventoryId": "INV10006",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN150558",
+    "productId": "PRD10187",
+    "inventoryId": "INV10006",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN847155",
+    "productId": "PRD10187",
+    "inventoryId": "INV10006",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN624944",
+    "productId": "PRD10187",
+    "inventoryId": "INV10006",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN207",
+    "productId": "PRD10078",
+    "inventoryId": "INV10007",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN846374",
+    "productId": "PRD10078",
+    "inventoryId": "INV10007",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN677104",
+    "productId": "PRD10078",
+    "inventoryId": "INV10007",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN385819",
+    "productId": "PRD10078",
+    "inventoryId": "INV10007",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN806590",
+    "productId": "PRD10078",
+    "inventoryId": "INV10007",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN513768",
+    "productId": "PRD10342",
+    "inventoryId": "INV10008",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN594823",
+    "productId": "PRD10342",
+    "inventoryId": "INV10008",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN781190",
+    "productId": "PRD10342",
+    "inventoryId": "INV10008",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN435869",
+    "productId": "PRD10342",
+    "inventoryId": "INV10008",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN600321",
+    "productId": "PRD10342",
+    "inventoryId": "INV10008",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN711366",
+    "productId": "PRD10238",
+    "inventoryId": "INV10009",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN9445",
+    "productId": "PRD10238",
+    "inventoryId": "INV10009",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN202022",
+    "productId": "PRD10238",
+    "inventoryId": "INV10009",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN557938",
+    "productId": "PRD10238",
+    "inventoryId": "INV10009",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN407290",
+    "productId": "PRD10238",
+    "inventoryId": "INV10009",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN966164",
+    "productId": "PRD10247",
+    "inventoryId": "INV10010",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN850933",
+    "productId": "PRD10247",
+    "inventoryId": "INV10010",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN734127",
+    "productId": "PRD10247",
+    "inventoryId": "INV10010",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN786764",
+    "productId": "PRD10247",
+    "inventoryId": "INV10010",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN489294",
+    "productId": "PRD10247",
+    "inventoryId": "INV10010",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN375348",
+    "productId": "PRD10461",
+    "inventoryId": "INV10011",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN90651",
+    "productId": "PRD10461",
+    "inventoryId": "INV10011",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN704385",
+    "productId": "PRD10461",
+    "inventoryId": "INV10011",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN317047",
+    "productId": "PRD10461",
+    "inventoryId": "INV10011",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN88671",
+    "productId": "PRD10461",
+    "inventoryId": "INV10011",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN547260",
+    "productId": "PRD10091",
+    "inventoryId": "INV10012",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN921698",
+    "productId": "PRD10091",
+    "inventoryId": "INV10012",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN768708",
+    "productId": "PRD10091",
+    "inventoryId": "INV10012",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN927325",
+    "productId": "PRD10091",
+    "inventoryId": "INV10012",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN636340",
+    "productId": "PRD10091",
+    "inventoryId": "INV10012",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN774117",
+    "productId": "PRD10486",
+    "inventoryId": "INV10013",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN536496",
+    "productId": "PRD10486",
+    "inventoryId": "INV10013",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN362769",
+    "productId": "PRD10486",
+    "inventoryId": "INV10013",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN409162",
+    "productId": "PRD10486",
+    "inventoryId": "INV10013",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN31553",
+    "productId": "PRD10486",
+    "inventoryId": "INV10013",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN657461",
+    "productId": "PRD10220",
+    "inventoryId": "INV10014",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN562284",
+    "productId": "PRD10220",
+    "inventoryId": "INV10014",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN78366",
+    "productId": "PRD10220",
+    "inventoryId": "INV10014",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN358449",
+    "productId": "PRD10220",
+    "inventoryId": "INV10014",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN274",
+    "productId": "PRD10220",
+    "inventoryId": "INV10014",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN201343",
+    "productId": "PRD10331",
+    "inventoryId": "INV10015",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN480366",
+    "productId": "PRD10331",
+    "inventoryId": "INV10015",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN572106",
+    "productId": "PRD10331",
+    "inventoryId": "INV10015",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN984987",
+    "productId": "PRD10331",
+    "inventoryId": "INV10015",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN442933",
+    "productId": "PRD10331",
+    "inventoryId": "INV10015",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN787379",
+    "productId": "PRD10142",
+    "inventoryId": "INV10016",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN154689",
+    "productId": "PRD10142",
+    "inventoryId": "INV10016",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN207695",
+    "productId": "PRD10142",
+    "inventoryId": "INV10016",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN245503",
+    "productId": "PRD10142",
+    "inventoryId": "INV10016",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN531459",
+    "productId": "PRD10142",
+    "inventoryId": "INV10016",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN380595",
+    "productId": "PRD10334",
+    "inventoryId": "INV10017",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN206489",
+    "productId": "PRD10334",
+    "inventoryId": "INV10017",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN885222",
+    "productId": "PRD10334",
+    "inventoryId": "INV10017",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN631322",
+    "productId": "PRD10334",
+    "inventoryId": "INV10017",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN97625",
+    "productId": "PRD10334",
+    "inventoryId": "INV10017",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN903876",
+    "productId": "PRD10318",
+    "inventoryId": "INV10018",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN244948",
+    "productId": "PRD10318",
+    "inventoryId": "INV10018",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN298977",
+    "productId": "PRD10318",
+    "inventoryId": "INV10018",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN581234",
+    "productId": "PRD10318",
+    "inventoryId": "INV10018",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN609150",
+    "productId": "PRD10318",
+    "inventoryId": "INV10018",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN156311",
+    "productId": "PRD10180",
+    "inventoryId": "INV10019",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN948341",
+    "productId": "PRD10180",
+    "inventoryId": "INV10019",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN945375",
+    "productId": "PRD10180",
+    "inventoryId": "INV10019",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN596058",
+    "productId": "PRD10180",
+    "inventoryId": "INV10019",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN31842",
+    "productId": "PRD10180",
+    "inventoryId": "INV10019",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN758879",
+    "productId": "PRD10106",
+    "inventoryId": "INV10020",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN321219",
+    "productId": "PRD10106",
+    "inventoryId": "INV10020",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN482905",
+    "productId": "PRD10106",
+    "inventoryId": "INV10020",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN526777",
+    "productId": "PRD10106",
+    "inventoryId": "INV10020",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN669898",
+    "productId": "PRD10106",
+    "inventoryId": "INV10020",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN489075",
+    "productId": "PRD10455",
+    "inventoryId": "INV10021",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN662838",
+    "productId": "PRD10455",
+    "inventoryId": "INV10021",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN58787",
+    "productId": "PRD10455",
+    "inventoryId": "INV10021",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN561339",
+    "productId": "PRD10455",
+    "inventoryId": "INV10021",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN547387",
+    "productId": "PRD10455",
+    "inventoryId": "INV10021",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN961110",
+    "productId": "PRD10306",
+    "inventoryId": "INV10022",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN29397",
+    "productId": "PRD10306",
+    "inventoryId": "INV10022",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN980391",
+    "productId": "PRD10306",
+    "inventoryId": "INV10022",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN390612",
+    "productId": "PRD10306",
+    "inventoryId": "INV10022",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN21872",
+    "productId": "PRD10306",
+    "inventoryId": "INV10022",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN363225",
+    "productId": "PRD10066",
+    "inventoryId": "INV10023",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN948724",
+    "productId": "PRD10066",
+    "inventoryId": "INV10023",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN791970",
+    "productId": "PRD10066",
+    "inventoryId": "INV10023",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN822430",
+    "productId": "PRD10066",
+    "inventoryId": "INV10023",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN360143",
+    "productId": "PRD10066",
+    "inventoryId": "INV10023",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN119341",
+    "productId": "PRD10178",
+    "inventoryId": "INV10024",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN91926",
+    "productId": "PRD10178",
+    "inventoryId": "INV10024",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN992797",
+    "productId": "PRD10178",
+    "inventoryId": "INV10024",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN494178",
+    "productId": "PRD10178",
+    "inventoryId": "INV10024",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN879766",
+    "productId": "PRD10178",
+    "inventoryId": "INV10024",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN781796",
+    "productId": "PRD10161",
+    "inventoryId": "INV10025",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN146145",
+    "productId": "PRD10161",
+    "inventoryId": "INV10025",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN116594",
+    "productId": "PRD10161",
+    "inventoryId": "INV10025",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN229916",
+    "productId": "PRD10161",
+    "inventoryId": "INV10025",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN841520",
+    "productId": "PRD10161",
+    "inventoryId": "INV10025",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN798109",
+    "productId": "PRD10266",
+    "inventoryId": "INV10026",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN472721",
+    "productId": "PRD10266",
+    "inventoryId": "INV10026",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN271825",
+    "productId": "PRD10266",
+    "inventoryId": "INV10026",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN865",
+    "productId": "PRD10266",
+    "inventoryId": "INV10026",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN541852",
+    "productId": "PRD10266",
+    "inventoryId": "INV10026",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN57544",
+    "productId": "PRD10476",
+    "inventoryId": "INV10027",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN775371",
+    "productId": "PRD10476",
+    "inventoryId": "INV10027",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN969315",
+    "productId": "PRD10476",
+    "inventoryId": "INV10027",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN669552",
+    "productId": "PRD10476",
+    "inventoryId": "INV10027",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN110577",
+    "productId": "PRD10476",
+    "inventoryId": "INV10027",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN307698",
+    "productId": "PRD10039",
+    "inventoryId": "INV10028",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN351382",
+    "productId": "PRD10039",
+    "inventoryId": "INV10028",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN337590",
+    "productId": "PRD10039",
+    "inventoryId": "INV10028",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN78942",
+    "productId": "PRD10039",
+    "inventoryId": "INV10028",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN101671",
+    "productId": "PRD10039",
+    "inventoryId": "INV10028",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN41103",
+    "productId": "PRD10270",
+    "inventoryId": "INV10029",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN360033",
+    "productId": "PRD10270",
+    "inventoryId": "INV10029",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN199302",
+    "productId": "PRD10270",
+    "inventoryId": "INV10029",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN212644",
+    "productId": "PRD10270",
+    "inventoryId": "INV10029",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN219923",
+    "productId": "PRD10270",
+    "inventoryId": "INV10029",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN198735",
+    "productId": "PRD10252",
+    "inventoryId": "INV10030",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN912517",
+    "productId": "PRD10252",
+    "inventoryId": "INV10030",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN752403",
+    "productId": "PRD10252",
+    "inventoryId": "INV10030",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN5656",
+    "productId": "PRD10252",
+    "inventoryId": "INV10030",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN470129",
+    "productId": "PRD10252",
+    "inventoryId": "INV10030",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN189401",
+    "productId": "PRD10044",
+    "inventoryId": "INV10031",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN288023",
+    "productId": "PRD10044",
+    "inventoryId": "INV10031",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN312645",
+    "productId": "PRD10044",
+    "inventoryId": "INV10031",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN976615",
+    "productId": "PRD10044",
+    "inventoryId": "INV10031",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN770892",
+    "productId": "PRD10044",
+    "inventoryId": "INV10031",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN83769",
+    "productId": "PRD10047",
+    "inventoryId": "INV10032",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN470091",
+    "productId": "PRD10047",
+    "inventoryId": "INV10032",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN163857",
+    "productId": "PRD10047",
+    "inventoryId": "INV10032",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN865840",
+    "productId": "PRD10047",
+    "inventoryId": "INV10032",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN559505",
+    "productId": "PRD10047",
+    "inventoryId": "INV10032",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN362459",
+    "productId": "PRD10293",
+    "inventoryId": "INV10033",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN467153",
+    "productId": "PRD10293",
+    "inventoryId": "INV10033",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN241135",
+    "productId": "PRD10293",
+    "inventoryId": "INV10033",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN178856",
+    "productId": "PRD10293",
+    "inventoryId": "INV10033",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN710294",
+    "productId": "PRD10293",
+    "inventoryId": "INV10033",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN769418",
+    "productId": "PRD10237",
+    "inventoryId": "INV10034",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN22349",
+    "productId": "PRD10237",
+    "inventoryId": "INV10034",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN612774",
+    "productId": "PRD10237",
+    "inventoryId": "INV10034",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN253165",
+    "productId": "PRD10237",
+    "inventoryId": "INV10034",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN785674",
+    "productId": "PRD10237",
+    "inventoryId": "INV10034",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN211250",
+    "productId": "PRD10354",
+    "inventoryId": "INV10035",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN602764",
+    "productId": "PRD10354",
+    "inventoryId": "INV10035",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN791860",
+    "productId": "PRD10354",
+    "inventoryId": "INV10035",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN572203",
+    "productId": "PRD10354",
+    "inventoryId": "INV10035",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN698837",
+    "productId": "PRD10354",
+    "inventoryId": "INV10035",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN895493",
+    "productId": "PRD10137",
+    "inventoryId": "INV10036",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN468039",
+    "productId": "PRD10137",
+    "inventoryId": "INV10036",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN546219",
+    "productId": "PRD10137",
+    "inventoryId": "INV10036",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN564637",
+    "productId": "PRD10137",
+    "inventoryId": "INV10036",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN409243",
+    "productId": "PRD10137",
+    "inventoryId": "INV10036",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN703456",
+    "productId": "PRD10189",
+    "inventoryId": "INV10037",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN99918",
+    "productId": "PRD10189",
+    "inventoryId": "INV10037",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN24078",
+    "productId": "PRD10189",
+    "inventoryId": "INV10037",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN354502",
+    "productId": "PRD10189",
+    "inventoryId": "INV10037",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN909141",
+    "productId": "PRD10189",
+    "inventoryId": "INV10037",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN202525",
+    "productId": "PRD10430",
+    "inventoryId": "INV10038",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN589027",
+    "productId": "PRD10430",
+    "inventoryId": "INV10038",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN506955",
+    "productId": "PRD10430",
+    "inventoryId": "INV10038",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN472693",
+    "productId": "PRD10430",
+    "inventoryId": "INV10038",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN331596",
+    "productId": "PRD10430",
+    "inventoryId": "INV10038",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN377105",
+    "productId": "PRD10175",
+    "inventoryId": "INV10039",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN830814",
+    "productId": "PRD10175",
+    "inventoryId": "INV10039",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN610108",
+    "productId": "PRD10175",
+    "inventoryId": "INV10039",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN791671",
+    "productId": "PRD10175",
+    "inventoryId": "INV10039",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN523492",
+    "productId": "PRD10175",
+    "inventoryId": "INV10039",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN221711",
+    "productId": "PRD10135",
+    "inventoryId": "INV10040",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN379388",
+    "productId": "PRD10135",
+    "inventoryId": "INV10040",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN885093",
+    "productId": "PRD10135",
+    "inventoryId": "INV10040",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN69569",
+    "productId": "PRD10135",
+    "inventoryId": "INV10040",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN561778",
+    "productId": "PRD10135",
+    "inventoryId": "INV10040",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN370598",
+    "productId": "PRD10471",
+    "inventoryId": "INV10041",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN444074",
+    "productId": "PRD10471",
+    "inventoryId": "INV10041",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN748954",
+    "productId": "PRD10471",
+    "inventoryId": "INV10041",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN908926",
+    "productId": "PRD10471",
+    "inventoryId": "INV10041",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN164729",
+    "productId": "PRD10471",
+    "inventoryId": "INV10041",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN610182",
+    "productId": "PRD10327",
+    "inventoryId": "INV10042",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN139524",
+    "productId": "PRD10327",
+    "inventoryId": "INV10042",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN709541",
+    "productId": "PRD10327",
+    "inventoryId": "INV10042",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN487307",
+    "productId": "PRD10327",
+    "inventoryId": "INV10042",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN829833",
+    "productId": "PRD10327",
+    "inventoryId": "INV10042",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN897082",
+    "productId": "PRD10328",
+    "inventoryId": "INV10043",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN47888",
+    "productId": "PRD10328",
+    "inventoryId": "INV10043",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN201334",
+    "productId": "PRD10328",
+    "inventoryId": "INV10043",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN773105",
+    "productId": "PRD10328",
+    "inventoryId": "INV10043",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN61834",
+    "productId": "PRD10328",
+    "inventoryId": "INV10043",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN963889",
+    "productId": "PRD10169",
+    "inventoryId": "INV10044",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN707126",
+    "productId": "PRD10169",
+    "inventoryId": "INV10044",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN924979",
+    "productId": "PRD10169",
+    "inventoryId": "INV10044",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN500132",
+    "productId": "PRD10169",
+    "inventoryId": "INV10044",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN375913",
+    "productId": "PRD10169",
+    "inventoryId": "INV10044",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN579409",
+    "productId": "PRD10138",
+    "inventoryId": "INV10045",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN867133",
+    "productId": "PRD10138",
+    "inventoryId": "INV10045",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN968615",
+    "productId": "PRD10138",
+    "inventoryId": "INV10045",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN875720",
+    "productId": "PRD10138",
+    "inventoryId": "INV10045",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN371063",
+    "productId": "PRD10138",
+    "inventoryId": "INV10045",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN11846",
+    "productId": "PRD10221",
+    "inventoryId": "INV10046",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN924634",
+    "productId": "PRD10221",
+    "inventoryId": "INV10046",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN958103",
+    "productId": "PRD10221",
+    "inventoryId": "INV10046",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN85124",
+    "productId": "PRD10221",
+    "inventoryId": "INV10046",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN231275",
+    "productId": "PRD10221",
+    "inventoryId": "INV10046",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN448957",
+    "productId": "PRD10462",
+    "inventoryId": "INV10047",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN399752",
+    "productId": "PRD10462",
+    "inventoryId": "INV10047",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN526377",
+    "productId": "PRD10462",
+    "inventoryId": "INV10047",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN491224",
+    "productId": "PRD10462",
+    "inventoryId": "INV10047",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN54916",
+    "productId": "PRD10462",
+    "inventoryId": "INV10047",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN189077",
+    "productId": "PRD10114",
+    "inventoryId": "INV10048",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN425975",
+    "productId": "PRD10114",
+    "inventoryId": "INV10048",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN483043",
+    "productId": "PRD10114",
+    "inventoryId": "INV10048",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN790045",
+    "productId": "PRD10114",
+    "inventoryId": "INV10048",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN812840",
+    "productId": "PRD10114",
+    "inventoryId": "INV10048",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN163984",
+    "productId": "PRD10252",
+    "inventoryId": "INV10049",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN517866",
+    "productId": "PRD10252",
+    "inventoryId": "INV10049",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN143140",
+    "productId": "PRD10252",
+    "inventoryId": "INV10049",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN927254",
+    "productId": "PRD10252",
+    "inventoryId": "INV10049",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN166303",
+    "productId": "PRD10252",
+    "inventoryId": "INV10049",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN974711",
+    "productId": "PRD10306",
+    "inventoryId": "INV10050",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN765738",
+    "productId": "PRD10306",
+    "inventoryId": "INV10050",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN753516",
+    "productId": "PRD10306",
+    "inventoryId": "INV10050",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN220325",
+    "productId": "PRD10306",
+    "inventoryId": "INV10050",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN194968",
+    "productId": "PRD10306",
+    "inventoryId": "INV10050",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN568647",
+    "productId": "PRD10361",
+    "inventoryId": "INV10051",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN116617",
+    "productId": "PRD10361",
+    "inventoryId": "INV10051",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN915692",
+    "productId": "PRD10361",
+    "inventoryId": "INV10051",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN318255",
+    "productId": "PRD10361",
+    "inventoryId": "INV10051",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN97116",
+    "productId": "PRD10361",
+    "inventoryId": "INV10051",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN20595",
+    "productId": "PRD10260",
+    "inventoryId": "INV10052",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN883823",
+    "productId": "PRD10260",
+    "inventoryId": "INV10052",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN590195",
+    "productId": "PRD10260",
+    "inventoryId": "INV10052",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN655593",
+    "productId": "PRD10260",
+    "inventoryId": "INV10052",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN992868",
+    "productId": "PRD10260",
+    "inventoryId": "INV10052",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN600005",
+    "productId": "PRD10263",
+    "inventoryId": "INV10053",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN468074",
+    "productId": "PRD10263",
+    "inventoryId": "INV10053",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN225883",
+    "productId": "PRD10263",
+    "inventoryId": "INV10053",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN980236",
+    "productId": "PRD10263",
+    "inventoryId": "INV10053",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN217402",
+    "productId": "PRD10263",
+    "inventoryId": "INV10053",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN738813",
+    "productId": "PRD10303",
+    "inventoryId": "INV10054",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN980681",
+    "productId": "PRD10303",
+    "inventoryId": "INV10054",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN538020",
+    "productId": "PRD10303",
+    "inventoryId": "INV10054",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN317639",
+    "productId": "PRD10303",
+    "inventoryId": "INV10054",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN460731",
+    "productId": "PRD10303",
+    "inventoryId": "INV10054",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN723051",
+    "productId": "PRD10294",
+    "inventoryId": "INV10055",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN782202",
+    "productId": "PRD10294",
+    "inventoryId": "INV10055",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN221730",
+    "productId": "PRD10294",
+    "inventoryId": "INV10055",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN963826",
+    "productId": "PRD10294",
+    "inventoryId": "INV10055",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN128734",
+    "productId": "PRD10294",
+    "inventoryId": "INV10055",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN600691",
+    "productId": "PRD10477",
+    "inventoryId": "INV10056",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN975041",
+    "productId": "PRD10477",
+    "inventoryId": "INV10056",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN872465",
+    "productId": "PRD10477",
+    "inventoryId": "INV10056",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN193761",
+    "productId": "PRD10477",
+    "inventoryId": "INV10056",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN848122",
+    "productId": "PRD10477",
+    "inventoryId": "INV10056",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN877041",
+    "productId": "PRD10185",
+    "inventoryId": "INV10057",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN290718",
+    "productId": "PRD10185",
+    "inventoryId": "INV10057",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN213100",
+    "productId": "PRD10185",
+    "inventoryId": "INV10057",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN43080",
+    "productId": "PRD10185",
+    "inventoryId": "INV10057",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN389074",
+    "productId": "PRD10185",
+    "inventoryId": "INV10057",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN531358",
+    "productId": "PRD10280",
+    "inventoryId": "INV10058",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN156316",
+    "productId": "PRD10280",
+    "inventoryId": "INV10058",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN203288",
+    "productId": "PRD10280",
+    "inventoryId": "INV10058",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN687839",
+    "productId": "PRD10280",
+    "inventoryId": "INV10058",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN310701",
+    "productId": "PRD10280",
+    "inventoryId": "INV10058",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN604686",
+    "productId": "PRD10015",
+    "inventoryId": "INV10059",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN557489",
+    "productId": "PRD10015",
+    "inventoryId": "INV10059",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN669250",
+    "productId": "PRD10015",
+    "inventoryId": "INV10059",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN60375",
+    "productId": "PRD10015",
+    "inventoryId": "INV10059",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN206464",
+    "productId": "PRD10015",
+    "inventoryId": "INV10059",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN53883",
+    "productId": "PRD10485",
+    "inventoryId": "INV10060",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN606624",
+    "productId": "PRD10485",
+    "inventoryId": "INV10060",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN866036",
+    "productId": "PRD10485",
+    "inventoryId": "INV10060",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN837480",
+    "productId": "PRD10485",
+    "inventoryId": "INV10060",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN487042",
+    "productId": "PRD10485",
+    "inventoryId": "INV10060",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN43840",
+    "productId": "PRD10416",
+    "inventoryId": "INV10061",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN323737",
+    "productId": "PRD10416",
+    "inventoryId": "INV10061",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN258170",
+    "productId": "PRD10416",
+    "inventoryId": "INV10061",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN960420",
+    "productId": "PRD10416",
+    "inventoryId": "INV10061",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN872378",
+    "productId": "PRD10416",
+    "inventoryId": "INV10061",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN368988",
+    "productId": "PRD10031",
+    "inventoryId": "INV10062",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN657867",
+    "productId": "PRD10031",
+    "inventoryId": "INV10062",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN367560",
+    "productId": "PRD10031",
+    "inventoryId": "INV10062",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN293529",
+    "productId": "PRD10031",
+    "inventoryId": "INV10062",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN190834",
+    "productId": "PRD10031",
+    "inventoryId": "INV10062",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN67190",
+    "productId": "PRD10398",
+    "inventoryId": "INV10063",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN107028",
+    "productId": "PRD10398",
+    "inventoryId": "INV10063",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN459527",
+    "productId": "PRD10398",
+    "inventoryId": "INV10063",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN965689",
+    "productId": "PRD10398",
+    "inventoryId": "INV10063",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN179763",
+    "productId": "PRD10398",
+    "inventoryId": "INV10063",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN647931",
+    "productId": "PRD10278",
+    "inventoryId": "INV10064",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN282978",
+    "productId": "PRD10278",
+    "inventoryId": "INV10064",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN240640",
+    "productId": "PRD10278",
+    "inventoryId": "INV10064",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN89876",
+    "productId": "PRD10278",
+    "inventoryId": "INV10064",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN392850",
+    "productId": "PRD10278",
+    "inventoryId": "INV10064",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN445147",
+    "productId": "PRD10028",
+    "inventoryId": "INV10065",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN513118",
+    "productId": "PRD10028",
+    "inventoryId": "INV10065",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN287624",
+    "productId": "PRD10028",
+    "inventoryId": "INV10065",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN745342",
+    "productId": "PRD10028",
+    "inventoryId": "INV10065",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN382778",
+    "productId": "PRD10028",
+    "inventoryId": "INV10065",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN120905",
+    "productId": "PRD10216",
+    "inventoryId": "INV10066",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN566211",
+    "productId": "PRD10216",
+    "inventoryId": "INV10066",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN170266",
+    "productId": "PRD10216",
+    "inventoryId": "INV10066",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN640704",
+    "productId": "PRD10216",
+    "inventoryId": "INV10066",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN769174",
+    "productId": "PRD10216",
+    "inventoryId": "INV10066",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN899064",
+    "productId": "PRD10449",
+    "inventoryId": "INV10067",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN104258",
+    "productId": "PRD10449",
+    "inventoryId": "INV10067",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN86764",
+    "productId": "PRD10449",
+    "inventoryId": "INV10067",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN600481",
+    "productId": "PRD10449",
+    "inventoryId": "INV10067",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN748688",
+    "productId": "PRD10449",
+    "inventoryId": "INV10067",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN258612",
+    "productId": "PRD10349",
+    "inventoryId": "INV10068",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN966207",
+    "productId": "PRD10349",
+    "inventoryId": "INV10068",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN458699",
+    "productId": "PRD10349",
+    "inventoryId": "INV10068",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN840717",
+    "productId": "PRD10349",
+    "inventoryId": "INV10068",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN150575",
+    "productId": "PRD10349",
+    "inventoryId": "INV10068",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN876453",
+    "productId": "PRD10041",
+    "inventoryId": "INV10069",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN81270",
+    "productId": "PRD10041",
+    "inventoryId": "INV10069",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN95632",
+    "productId": "PRD10041",
+    "inventoryId": "INV10069",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN480178",
+    "productId": "PRD10041",
+    "inventoryId": "INV10069",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN808427",
+    "productId": "PRD10041",
+    "inventoryId": "INV10069",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN623500",
+    "productId": "PRD10054",
+    "inventoryId": "INV10070",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN46496",
+    "productId": "PRD10054",
+    "inventoryId": "INV10070",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN239305",
+    "productId": "PRD10054",
+    "inventoryId": "INV10070",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN277395",
+    "productId": "PRD10054",
+    "inventoryId": "INV10070",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN954043",
+    "productId": "PRD10054",
+    "inventoryId": "INV10070",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN479210",
+    "productId": "PRD10471",
+    "inventoryId": "INV10071",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN766573",
+    "productId": "PRD10471",
+    "inventoryId": "INV10071",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN513101",
+    "productId": "PRD10471",
+    "inventoryId": "INV10071",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN816147",
+    "productId": "PRD10471",
+    "inventoryId": "INV10071",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN308217",
+    "productId": "PRD10471",
+    "inventoryId": "INV10071",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN276405",
+    "productId": "PRD10112",
+    "inventoryId": "INV10072",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN246715",
+    "productId": "PRD10112",
+    "inventoryId": "INV10072",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN642131",
+    "productId": "PRD10112",
+    "inventoryId": "INV10072",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN941879",
+    "productId": "PRD10112",
+    "inventoryId": "INV10072",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN166160",
+    "productId": "PRD10112",
+    "inventoryId": "INV10072",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN70542",
+    "productId": "PRD10106",
+    "inventoryId": "INV10073",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN43177",
+    "productId": "PRD10106",
+    "inventoryId": "INV10073",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN502396",
+    "productId": "PRD10106",
+    "inventoryId": "INV10073",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN807846",
+    "productId": "PRD10106",
+    "inventoryId": "INV10073",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN445846",
+    "productId": "PRD10106",
+    "inventoryId": "INV10073",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN841777",
+    "productId": "PRD10329",
+    "inventoryId": "INV10074",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN539346",
+    "productId": "PRD10329",
+    "inventoryId": "INV10074",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN967257",
+    "productId": "PRD10329",
+    "inventoryId": "INV10074",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN526130",
+    "productId": "PRD10329",
+    "inventoryId": "INV10074",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN956740",
+    "productId": "PRD10329",
+    "inventoryId": "INV10074",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN230524",
+    "productId": "PRD10243",
+    "inventoryId": "INV10075",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN213880",
+    "productId": "PRD10243",
+    "inventoryId": "INV10075",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN476661",
+    "productId": "PRD10243",
+    "inventoryId": "INV10075",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN185959",
+    "productId": "PRD10243",
+    "inventoryId": "INV10075",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN497349",
+    "productId": "PRD10243",
+    "inventoryId": "INV10075",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN816283",
+    "productId": "PRD10243",
+    "inventoryId": "INV10076",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN736058",
+    "productId": "PRD10243",
+    "inventoryId": "INV10076",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN863369",
+    "productId": "PRD10243",
+    "inventoryId": "INV10076",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN71110",
+    "productId": "PRD10243",
+    "inventoryId": "INV10076",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN165318",
+    "productId": "PRD10243",
+    "inventoryId": "INV10076",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN856813",
+    "productId": "PRD10051",
+    "inventoryId": "INV10077",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN406426",
+    "productId": "PRD10051",
+    "inventoryId": "INV10077",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN126486",
+    "productId": "PRD10051",
+    "inventoryId": "INV10077",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN121410",
+    "productId": "PRD10051",
+    "inventoryId": "INV10077",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN721768",
+    "productId": "PRD10051",
+    "inventoryId": "INV10077",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN400388",
+    "productId": "PRD10110",
+    "inventoryId": "INV10078",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN430169",
+    "productId": "PRD10110",
+    "inventoryId": "INV10078",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN758556",
+    "productId": "PRD10110",
+    "inventoryId": "INV10078",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN332708",
+    "productId": "PRD10110",
+    "inventoryId": "INV10078",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN806240",
+    "productId": "PRD10110",
+    "inventoryId": "INV10078",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN588474",
+    "productId": "PRD10102",
+    "inventoryId": "INV10079",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN479462",
+    "productId": "PRD10102",
+    "inventoryId": "INV10079",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN143417",
+    "productId": "PRD10102",
+    "inventoryId": "INV10079",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN52003",
+    "productId": "PRD10102",
+    "inventoryId": "INV10079",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN981017",
+    "productId": "PRD10102",
+    "inventoryId": "INV10079",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN268384",
+    "productId": "PRD10443",
+    "inventoryId": "INV10080",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN786839",
+    "productId": "PRD10443",
+    "inventoryId": "INV10080",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN861213",
+    "productId": "PRD10443",
+    "inventoryId": "INV10080",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN469666",
+    "productId": "PRD10443",
+    "inventoryId": "INV10080",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN793330",
+    "productId": "PRD10443",
+    "inventoryId": "INV10080",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN851092",
+    "productId": "PRD10091",
+    "inventoryId": "INV10081",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN507891",
+    "productId": "PRD10091",
+    "inventoryId": "INV10081",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN74851",
+    "productId": "PRD10091",
+    "inventoryId": "INV10081",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN303156",
+    "productId": "PRD10091",
+    "inventoryId": "INV10081",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN189676",
+    "productId": "PRD10091",
+    "inventoryId": "INV10081",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN132673",
+    "productId": "PRD10185",
+    "inventoryId": "INV10082",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN707669",
+    "productId": "PRD10185",
+    "inventoryId": "INV10082",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN902225",
+    "productId": "PRD10185",
+    "inventoryId": "INV10082",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN159578",
+    "productId": "PRD10185",
+    "inventoryId": "INV10082",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN898165",
+    "productId": "PRD10185",
+    "inventoryId": "INV10082",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN341508",
+    "productId": "PRD10399",
+    "inventoryId": "INV10083",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN660335",
+    "productId": "PRD10399",
+    "inventoryId": "INV10083",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN488783",
+    "productId": "PRD10399",
+    "inventoryId": "INV10083",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN799984",
+    "productId": "PRD10399",
+    "inventoryId": "INV10083",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN7057",
+    "productId": "PRD10399",
+    "inventoryId": "INV10083",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN183211",
+    "productId": "PRD10259",
+    "inventoryId": "INV10084",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN276118",
+    "productId": "PRD10259",
+    "inventoryId": "INV10084",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN307972",
+    "productId": "PRD10259",
+    "inventoryId": "INV10084",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN836762",
+    "productId": "PRD10259",
+    "inventoryId": "INV10084",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN246298",
+    "productId": "PRD10259",
+    "inventoryId": "INV10084",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN787192",
+    "productId": "PRD10479",
+    "inventoryId": "INV10085",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN422091",
+    "productId": "PRD10479",
+    "inventoryId": "INV10085",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN885548",
+    "productId": "PRD10479",
+    "inventoryId": "INV10085",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN62974",
+    "productId": "PRD10479",
+    "inventoryId": "INV10085",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN248349",
+    "productId": "PRD10479",
+    "inventoryId": "INV10085",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN915115",
+    "productId": "PRD10304",
+    "inventoryId": "INV10086",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN443313",
+    "productId": "PRD10304",
+    "inventoryId": "INV10086",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN338082",
+    "productId": "PRD10304",
+    "inventoryId": "INV10086",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN386409",
+    "productId": "PRD10304",
+    "inventoryId": "INV10086",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN806799",
+    "productId": "PRD10304",
+    "inventoryId": "INV10086",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN193861",
+    "productId": "PRD10277",
+    "inventoryId": "INV10087",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN242151",
+    "productId": "PRD10277",
+    "inventoryId": "INV10087",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN553095",
+    "productId": "PRD10277",
+    "inventoryId": "INV10087",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN929570",
+    "productId": "PRD10277",
+    "inventoryId": "INV10087",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN466003",
+    "productId": "PRD10277",
+    "inventoryId": "INV10087",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN279441",
+    "productId": "PRD10358",
+    "inventoryId": "INV10088",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN347915",
+    "productId": "PRD10358",
+    "inventoryId": "INV10088",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN578462",
+    "productId": "PRD10358",
+    "inventoryId": "INV10088",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN659572",
+    "productId": "PRD10358",
+    "inventoryId": "INV10088",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN33736",
+    "productId": "PRD10358",
+    "inventoryId": "INV10088",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN76782",
+    "productId": "PRD10476",
+    "inventoryId": "INV10089",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN882102",
+    "productId": "PRD10476",
+    "inventoryId": "INV10089",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN305689",
+    "productId": "PRD10476",
+    "inventoryId": "INV10089",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN255544",
+    "productId": "PRD10476",
+    "inventoryId": "INV10089",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN320306",
+    "productId": "PRD10476",
+    "inventoryId": "INV10089",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN976875",
+    "productId": "PRD10486",
+    "inventoryId": "INV10090",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN364582",
+    "productId": "PRD10486",
+    "inventoryId": "INV10090",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN464979",
+    "productId": "PRD10486",
+    "inventoryId": "INV10090",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN393505",
+    "productId": "PRD10486",
+    "inventoryId": "INV10090",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN765003",
+    "productId": "PRD10486",
+    "inventoryId": "INV10090",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN504563",
+    "productId": "PRD10280",
+    "inventoryId": "INV10091",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN591720",
+    "productId": "PRD10280",
+    "inventoryId": "INV10091",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN586557",
+    "productId": "PRD10280",
+    "inventoryId": "INV10091",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN35829",
+    "productId": "PRD10280",
+    "inventoryId": "INV10091",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN384034",
+    "productId": "PRD10280",
+    "inventoryId": "INV10091",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN692458",
+    "productId": "PRD10347",
+    "inventoryId": "INV10092",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN893742",
+    "productId": "PRD10347",
+    "inventoryId": "INV10092",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN173586",
+    "productId": "PRD10347",
+    "inventoryId": "INV10092",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN914917",
+    "productId": "PRD10347",
+    "inventoryId": "INV10092",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN745705",
+    "productId": "PRD10347",
+    "inventoryId": "INV10092",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN259733",
+    "productId": "PRD10175",
+    "inventoryId": "INV10093",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN959484",
+    "productId": "PRD10175",
+    "inventoryId": "INV10093",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN382899",
+    "productId": "PRD10175",
+    "inventoryId": "INV10093",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN468741",
+    "productId": "PRD10175",
+    "inventoryId": "INV10093",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN280832",
+    "productId": "PRD10175",
+    "inventoryId": "INV10093",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN932872",
+    "productId": "PRD10176",
+    "inventoryId": "INV10094",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN459233",
+    "productId": "PRD10176",
+    "inventoryId": "INV10094",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN867172",
+    "productId": "PRD10176",
+    "inventoryId": "INV10094",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN726075",
+    "productId": "PRD10176",
+    "inventoryId": "INV10094",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN416068",
+    "productId": "PRD10176",
+    "inventoryId": "INV10094",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN741736",
+    "productId": "PRD10106",
+    "inventoryId": "INV10095",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN510307",
+    "productId": "PRD10106",
+    "inventoryId": "INV10095",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN325985",
+    "productId": "PRD10106",
+    "inventoryId": "INV10095",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN580039",
+    "productId": "PRD10106",
+    "inventoryId": "INV10095",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN786823",
+    "productId": "PRD10106",
+    "inventoryId": "INV10095",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN792293",
+    "productId": "PRD10332",
+    "inventoryId": "INV10096",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN283891",
+    "productId": "PRD10332",
+    "inventoryId": "INV10096",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN902726",
+    "productId": "PRD10332",
+    "inventoryId": "INV10096",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN218765",
+    "productId": "PRD10332",
+    "inventoryId": "INV10096",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN306334",
+    "productId": "PRD10332",
+    "inventoryId": "INV10096",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN945274",
+    "productId": "PRD10487",
+    "inventoryId": "INV10097",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN838461",
+    "productId": "PRD10487",
+    "inventoryId": "INV10097",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN531063",
+    "productId": "PRD10487",
+    "inventoryId": "INV10097",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN289139",
+    "productId": "PRD10487",
+    "inventoryId": "INV10097",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN480023",
+    "productId": "PRD10487",
+    "inventoryId": "INV10097",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN892006",
+    "productId": "PRD10271",
+    "inventoryId": "INV10098",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN495494",
+    "productId": "PRD10271",
+    "inventoryId": "INV10098",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN945415",
+    "productId": "PRD10271",
+    "inventoryId": "INV10098",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN64436",
+    "productId": "PRD10271",
+    "inventoryId": "INV10098",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN2317",
+    "productId": "PRD10271",
+    "inventoryId": "INV10098",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN291737",
+    "productId": "PRD10233",
+    "inventoryId": "INV10099",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN480276",
+    "productId": "PRD10233",
+    "inventoryId": "INV10099",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN888200",
+    "productId": "PRD10233",
+    "inventoryId": "INV10099",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN536040",
+    "productId": "PRD10233",
+    "inventoryId": "INV10099",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN650439",
+    "productId": "PRD10233",
+    "inventoryId": "INV10099",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN396366",
+    "productId": "PRD10346",
+    "inventoryId": "INV10100",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN795263",
+    "productId": "PRD10346",
+    "inventoryId": "INV10100",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN982336",
+    "productId": "PRD10346",
+    "inventoryId": "INV10100",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN987446",
+    "productId": "PRD10346",
+    "inventoryId": "INV10100",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN945243",
+    "productId": "PRD10346",
+    "inventoryId": "INV10100",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN768907",
+    "productId": "PRD10251",
+    "inventoryId": "INV10101",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN498850",
+    "productId": "PRD10251",
+    "inventoryId": "INV10101",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN433207",
+    "productId": "PRD10251",
+    "inventoryId": "INV10101",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN451068",
+    "productId": "PRD10251",
+    "inventoryId": "INV10101",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN409509",
+    "productId": "PRD10251",
+    "inventoryId": "INV10101",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN609397",
+    "productId": "PRD10326",
+    "inventoryId": "INV10102",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN544677",
+    "productId": "PRD10326",
+    "inventoryId": "INV10102",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN557793",
+    "productId": "PRD10326",
+    "inventoryId": "INV10102",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN121670",
+    "productId": "PRD10326",
+    "inventoryId": "INV10102",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN762117",
+    "productId": "PRD10326",
+    "inventoryId": "INV10102",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN149526",
+    "productId": "PRD10178",
+    "inventoryId": "INV10103",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN148263",
+    "productId": "PRD10178",
+    "inventoryId": "INV10103",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN796224",
+    "productId": "PRD10178",
+    "inventoryId": "INV10103",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN600366",
+    "productId": "PRD10178",
+    "inventoryId": "INV10103",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN50495",
+    "productId": "PRD10178",
+    "inventoryId": "INV10103",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN359955",
+    "productId": "PRD10254",
+    "inventoryId": "INV10104",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN343124",
+    "productId": "PRD10254",
+    "inventoryId": "INV10104",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN893575",
+    "productId": "PRD10254",
+    "inventoryId": "INV10104",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN266210",
+    "productId": "PRD10254",
+    "inventoryId": "INV10104",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN848270",
+    "productId": "PRD10254",
+    "inventoryId": "INV10104",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN474977",
+    "productId": "PRD10437",
+    "inventoryId": "INV10105",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN49015",
+    "productId": "PRD10437",
+    "inventoryId": "INV10105",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN736593",
+    "productId": "PRD10437",
+    "inventoryId": "INV10105",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN862797",
+    "productId": "PRD10437",
+    "inventoryId": "INV10105",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN344913",
+    "productId": "PRD10437",
+    "inventoryId": "INV10105",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN629187",
+    "productId": "PRD10048",
+    "inventoryId": "INV10106",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN166465",
+    "productId": "PRD10048",
+    "inventoryId": "INV10106",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN625683",
+    "productId": "PRD10048",
+    "inventoryId": "INV10106",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN247650",
+    "productId": "PRD10048",
+    "inventoryId": "INV10106",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN88211",
+    "productId": "PRD10048",
+    "inventoryId": "INV10106",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN952467",
+    "productId": "PRD10210",
+    "inventoryId": "INV10107",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN458425",
+    "productId": "PRD10210",
+    "inventoryId": "INV10107",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN962605",
+    "productId": "PRD10210",
+    "inventoryId": "INV10107",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN584135",
+    "productId": "PRD10210",
+    "inventoryId": "INV10107",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN4228",
+    "productId": "PRD10210",
+    "inventoryId": "INV10107",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN215462",
+    "productId": "PRD10317",
+    "inventoryId": "INV10108",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN276626",
+    "productId": "PRD10317",
+    "inventoryId": "INV10108",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN767466",
+    "productId": "PRD10317",
+    "inventoryId": "INV10108",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN946885",
+    "productId": "PRD10317",
+    "inventoryId": "INV10108",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN745965",
+    "productId": "PRD10317",
+    "inventoryId": "INV10108",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN212412",
+    "productId": "PRD10318",
+    "inventoryId": "INV10109",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN540854",
+    "productId": "PRD10318",
+    "inventoryId": "INV10109",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN583976",
+    "productId": "PRD10318",
+    "inventoryId": "INV10109",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN72403",
+    "productId": "PRD10318",
+    "inventoryId": "INV10109",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN313678",
+    "productId": "PRD10318",
+    "inventoryId": "INV10109",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN227944",
+    "productId": "PRD10355",
+    "inventoryId": "INV10110",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN390420",
+    "productId": "PRD10355",
+    "inventoryId": "INV10110",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN449296",
+    "productId": "PRD10355",
+    "inventoryId": "INV10110",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN876635",
+    "productId": "PRD10355",
+    "inventoryId": "INV10110",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN190811",
+    "productId": "PRD10355",
+    "inventoryId": "INV10110",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN389299",
+    "productId": "PRD10497",
+    "inventoryId": "INV10111",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN436853",
+    "productId": "PRD10497",
+    "inventoryId": "INV10111",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN781975",
+    "productId": "PRD10497",
+    "inventoryId": "INV10111",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN621455",
+    "productId": "PRD10497",
+    "inventoryId": "INV10111",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN515788",
+    "productId": "PRD10497",
+    "inventoryId": "INV10111",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN925583",
+    "productId": "PRD10431",
+    "inventoryId": "INV10112",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN341801",
+    "productId": "PRD10431",
+    "inventoryId": "INV10112",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN162262",
+    "productId": "PRD10431",
+    "inventoryId": "INV10112",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN799850",
+    "productId": "PRD10431",
+    "inventoryId": "INV10112",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN585704",
+    "productId": "PRD10431",
+    "inventoryId": "INV10112",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN316913",
+    "productId": "PRD10030",
+    "inventoryId": "INV10113",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN749417",
+    "productId": "PRD10030",
+    "inventoryId": "INV10113",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN854672",
+    "productId": "PRD10030",
+    "inventoryId": "INV10113",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN191755",
+    "productId": "PRD10030",
+    "inventoryId": "INV10113",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN686652",
+    "productId": "PRD10030",
+    "inventoryId": "INV10113",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN223838",
+    "productId": "PRD10191",
+    "inventoryId": "INV10114",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN868612",
+    "productId": "PRD10191",
+    "inventoryId": "INV10114",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN739997",
+    "productId": "PRD10191",
+    "inventoryId": "INV10114",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN872884",
+    "productId": "PRD10191",
+    "inventoryId": "INV10114",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN703131",
+    "productId": "PRD10191",
+    "inventoryId": "INV10114",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN870396",
+    "productId": "PRD10447",
+    "inventoryId": "INV10115",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN269761",
+    "productId": "PRD10447",
+    "inventoryId": "INV10115",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN189049",
+    "productId": "PRD10447",
+    "inventoryId": "INV10115",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN477138",
+    "productId": "PRD10447",
+    "inventoryId": "INV10115",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN583392",
+    "productId": "PRD10447",
+    "inventoryId": "INV10115",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN186780",
+    "productId": "PRD10329",
+    "inventoryId": "INV10116",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN881238",
+    "productId": "PRD10329",
+    "inventoryId": "INV10116",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN877206",
+    "productId": "PRD10329",
+    "inventoryId": "INV10116",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN568291",
+    "productId": "PRD10329",
+    "inventoryId": "INV10116",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN935002",
+    "productId": "PRD10329",
+    "inventoryId": "INV10116",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN827551",
+    "productId": "PRD10103",
+    "inventoryId": "INV10117",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN308441",
+    "productId": "PRD10103",
+    "inventoryId": "INV10117",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN580462",
+    "productId": "PRD10103",
+    "inventoryId": "INV10117",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN800168",
+    "productId": "PRD10103",
+    "inventoryId": "INV10117",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN560892",
+    "productId": "PRD10103",
+    "inventoryId": "INV10117",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN841725",
+    "productId": "PRD10471",
+    "inventoryId": "INV10118",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN664449",
+    "productId": "PRD10471",
+    "inventoryId": "INV10118",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN864726",
+    "productId": "PRD10471",
+    "inventoryId": "INV10118",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN798455",
+    "productId": "PRD10471",
+    "inventoryId": "INV10118",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN429240",
+    "productId": "PRD10471",
+    "inventoryId": "INV10118",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN959333",
+    "productId": "PRD10046",
+    "inventoryId": "INV10119",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN733559",
+    "productId": "PRD10046",
+    "inventoryId": "INV10119",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN284838",
+    "productId": "PRD10046",
+    "inventoryId": "INV10119",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN443226",
+    "productId": "PRD10046",
+    "inventoryId": "INV10119",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN724881",
+    "productId": "PRD10046",
+    "inventoryId": "INV10119",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN351866",
+    "productId": "PRD10287",
+    "inventoryId": "INV10120",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN791128",
+    "productId": "PRD10287",
+    "inventoryId": "INV10120",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN414043",
+    "productId": "PRD10287",
+    "inventoryId": "INV10120",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN227709",
+    "productId": "PRD10287",
+    "inventoryId": "INV10120",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN537367",
+    "productId": "PRD10287",
+    "inventoryId": "INV10120",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN110214",
+    "productId": "PRD10149",
+    "inventoryId": "INV10121",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN259111",
+    "productId": "PRD10149",
+    "inventoryId": "INV10121",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN588190",
+    "productId": "PRD10149",
+    "inventoryId": "INV10121",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN974410",
+    "productId": "PRD10149",
+    "inventoryId": "INV10121",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN86102",
+    "productId": "PRD10149",
+    "inventoryId": "INV10121",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN937419",
+    "productId": "PRD10438",
+    "inventoryId": "INV10122",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN610382",
+    "productId": "PRD10438",
+    "inventoryId": "INV10122",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN317270",
+    "productId": "PRD10438",
+    "inventoryId": "INV10122",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN565528",
+    "productId": "PRD10438",
+    "inventoryId": "INV10122",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN121185",
+    "productId": "PRD10438",
+    "inventoryId": "INV10122",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN125591",
+    "productId": "PRD10457",
+    "inventoryId": "INV10123",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN657707",
+    "productId": "PRD10457",
+    "inventoryId": "INV10123",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN67109",
+    "productId": "PRD10457",
+    "inventoryId": "INV10123",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN976405",
+    "productId": "PRD10457",
+    "inventoryId": "INV10123",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN496463",
+    "productId": "PRD10457",
+    "inventoryId": "INV10123",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN382341",
+    "productId": "PRD10476",
+    "inventoryId": "INV10124",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN821279",
+    "productId": "PRD10476",
+    "inventoryId": "INV10124",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN807854",
+    "productId": "PRD10476",
+    "inventoryId": "INV10124",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN416808",
+    "productId": "PRD10476",
+    "inventoryId": "INV10124",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN632482",
+    "productId": "PRD10476",
+    "inventoryId": "INV10124",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN895007",
+    "productId": "PRD10057",
+    "inventoryId": "INV10125",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN16886",
+    "productId": "PRD10057",
+    "inventoryId": "INV10125",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN435297",
+    "productId": "PRD10057",
+    "inventoryId": "INV10125",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN717374",
+    "productId": "PRD10057",
+    "inventoryId": "INV10125",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN380881",
+    "productId": "PRD10057",
+    "inventoryId": "INV10125",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN456492",
+    "productId": "PRD10375",
+    "inventoryId": "INV10126",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN549454",
+    "productId": "PRD10375",
+    "inventoryId": "INV10126",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN627539",
+    "productId": "PRD10375",
+    "inventoryId": "INV10126",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN745673",
+    "productId": "PRD10375",
+    "inventoryId": "INV10126",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN698606",
+    "productId": "PRD10375",
+    "inventoryId": "INV10126",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN320659",
+    "productId": "PRD10273",
+    "inventoryId": "INV10127",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN320968",
+    "productId": "PRD10273",
+    "inventoryId": "INV10127",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN699526",
+    "productId": "PRD10273",
+    "inventoryId": "INV10127",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN99752",
+    "productId": "PRD10273",
+    "inventoryId": "INV10127",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN982402",
+    "productId": "PRD10273",
+    "inventoryId": "INV10127",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN285362",
+    "productId": "PRD10147",
+    "inventoryId": "INV10128",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN294753",
+    "productId": "PRD10147",
+    "inventoryId": "INV10128",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN208972",
+    "productId": "PRD10147",
+    "inventoryId": "INV10128",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN899146",
+    "productId": "PRD10147",
+    "inventoryId": "INV10128",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN628161",
+    "productId": "PRD10147",
+    "inventoryId": "INV10128",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN82254",
+    "productId": "PRD10412",
+    "inventoryId": "INV10129",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN587319",
+    "productId": "PRD10412",
+    "inventoryId": "INV10129",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN695017",
+    "productId": "PRD10412",
+    "inventoryId": "INV10129",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN121406",
+    "productId": "PRD10412",
+    "inventoryId": "INV10129",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN836675",
+    "productId": "PRD10412",
+    "inventoryId": "INV10129",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN182135",
+    "productId": "PRD10162",
+    "inventoryId": "INV10130",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN429745",
+    "productId": "PRD10162",
+    "inventoryId": "INV10130",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN924071",
+    "productId": "PRD10162",
+    "inventoryId": "INV10130",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN46088",
+    "productId": "PRD10162",
+    "inventoryId": "INV10130",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN966943",
+    "productId": "PRD10162",
+    "inventoryId": "INV10130",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN638726",
+    "productId": "PRD10336",
+    "inventoryId": "INV10131",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN839549",
+    "productId": "PRD10336",
+    "inventoryId": "INV10131",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN784228",
+    "productId": "PRD10336",
+    "inventoryId": "INV10131",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN883827",
+    "productId": "PRD10336",
+    "inventoryId": "INV10131",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN662635",
+    "productId": "PRD10336",
+    "inventoryId": "INV10131",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN531992",
+    "productId": "PRD10054",
+    "inventoryId": "INV10132",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN943419",
+    "productId": "PRD10054",
+    "inventoryId": "INV10132",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN175502",
+    "productId": "PRD10054",
+    "inventoryId": "INV10132",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN679280",
+    "productId": "PRD10054",
+    "inventoryId": "INV10132",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN80804",
+    "productId": "PRD10054",
+    "inventoryId": "INV10132",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN207204",
+    "productId": "PRD10251",
+    "inventoryId": "INV10133",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN856946",
+    "productId": "PRD10251",
+    "inventoryId": "INV10133",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN264730",
+    "productId": "PRD10251",
+    "inventoryId": "INV10133",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN997179",
+    "productId": "PRD10251",
+    "inventoryId": "INV10133",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN551235",
+    "productId": "PRD10251",
+    "inventoryId": "INV10133",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN795116",
+    "productId": "PRD10343",
+    "inventoryId": "INV10134",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN9889",
+    "productId": "PRD10343",
+    "inventoryId": "INV10134",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN707313",
+    "productId": "PRD10343",
+    "inventoryId": "INV10134",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN956850",
+    "productId": "PRD10343",
+    "inventoryId": "INV10134",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN904754",
+    "productId": "PRD10343",
+    "inventoryId": "INV10134",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN281115",
+    "productId": "PRD10078",
+    "inventoryId": "INV10135",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN134866",
+    "productId": "PRD10078",
+    "inventoryId": "INV10135",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN526466",
+    "productId": "PRD10078",
+    "inventoryId": "INV10135",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN471348",
+    "productId": "PRD10078",
+    "inventoryId": "INV10135",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN539680",
+    "productId": "PRD10078",
+    "inventoryId": "INV10135",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN9700",
+    "productId": "PRD10442",
+    "inventoryId": "INV10136",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN804170",
+    "productId": "PRD10442",
+    "inventoryId": "INV10136",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN127312",
+    "productId": "PRD10442",
+    "inventoryId": "INV10136",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN748281",
+    "productId": "PRD10442",
+    "inventoryId": "INV10136",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN269152",
+    "productId": "PRD10442",
+    "inventoryId": "INV10136",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN162137",
+    "productId": "PRD10086",
+    "inventoryId": "INV10137",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN987632",
+    "productId": "PRD10086",
+    "inventoryId": "INV10137",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN256150",
+    "productId": "PRD10086",
+    "inventoryId": "INV10137",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN251318",
+    "productId": "PRD10086",
+    "inventoryId": "INV10137",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN207636",
+    "productId": "PRD10086",
+    "inventoryId": "INV10137",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN480715",
+    "productId": "PRD10243",
+    "inventoryId": "INV10138",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN260261",
+    "productId": "PRD10243",
+    "inventoryId": "INV10138",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN884379",
+    "productId": "PRD10243",
+    "inventoryId": "INV10138",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN493187",
+    "productId": "PRD10243",
+    "inventoryId": "INV10138",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN384917",
+    "productId": "PRD10243",
+    "inventoryId": "INV10138",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN516214",
+    "productId": "PRD10362",
+    "inventoryId": "INV10139",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN578841",
+    "productId": "PRD10362",
+    "inventoryId": "INV10139",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN154384",
+    "productId": "PRD10362",
+    "inventoryId": "INV10139",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN600124",
+    "productId": "PRD10362",
+    "inventoryId": "INV10139",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN533125",
+    "productId": "PRD10362",
+    "inventoryId": "INV10139",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN734046",
+    "productId": "PRD10100",
+    "inventoryId": "INV10140",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN30260",
+    "productId": "PRD10100",
+    "inventoryId": "INV10140",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN28087",
+    "productId": "PRD10100",
+    "inventoryId": "INV10140",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN80397",
+    "productId": "PRD10100",
+    "inventoryId": "INV10140",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN710287",
+    "productId": "PRD10100",
+    "inventoryId": "INV10140",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN568582",
+    "productId": "PRD10119",
+    "inventoryId": "INV10141",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN956045",
+    "productId": "PRD10119",
+    "inventoryId": "INV10141",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN767188",
+    "productId": "PRD10119",
+    "inventoryId": "INV10141",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN221418",
+    "productId": "PRD10119",
+    "inventoryId": "INV10141",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN211052",
+    "productId": "PRD10119",
+    "inventoryId": "INV10141",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN482136",
+    "productId": "PRD10211",
+    "inventoryId": "INV10142",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN533036",
+    "productId": "PRD10211",
+    "inventoryId": "INV10142",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN746070",
+    "productId": "PRD10211",
+    "inventoryId": "INV10142",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN734811",
+    "productId": "PRD10211",
+    "inventoryId": "INV10142",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN988600",
+    "productId": "PRD10211",
+    "inventoryId": "INV10142",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN93059",
+    "productId": "PRD10022",
+    "inventoryId": "INV10143",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN776425",
+    "productId": "PRD10022",
+    "inventoryId": "INV10143",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN775747",
+    "productId": "PRD10022",
+    "inventoryId": "INV10143",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN143716",
+    "productId": "PRD10022",
+    "inventoryId": "INV10143",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN114883",
+    "productId": "PRD10022",
+    "inventoryId": "INV10143",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN829265",
+    "productId": "PRD10430",
+    "inventoryId": "INV10144",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN221743",
+    "productId": "PRD10430",
+    "inventoryId": "INV10144",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN475115",
+    "productId": "PRD10430",
+    "inventoryId": "INV10144",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN513521",
+    "productId": "PRD10430",
+    "inventoryId": "INV10144",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN123486",
+    "productId": "PRD10430",
+    "inventoryId": "INV10144",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN322153",
+    "productId": "PRD10308",
+    "inventoryId": "INV10145",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN667347",
+    "productId": "PRD10308",
+    "inventoryId": "INV10145",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN383605",
+    "productId": "PRD10308",
+    "inventoryId": "INV10145",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN147297",
+    "productId": "PRD10308",
+    "inventoryId": "INV10145",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN212024",
+    "productId": "PRD10308",
+    "inventoryId": "INV10145",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN381107",
+    "productId": "PRD10422",
+    "inventoryId": "INV10146",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN361374",
+    "productId": "PRD10422",
+    "inventoryId": "INV10146",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN660954",
+    "productId": "PRD10422",
+    "inventoryId": "INV10146",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN429803",
+    "productId": "PRD10422",
+    "inventoryId": "INV10146",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN522804",
+    "productId": "PRD10422",
+    "inventoryId": "INV10146",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN388563",
+    "productId": "PRD10339",
+    "inventoryId": "INV10147",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN981993",
+    "productId": "PRD10339",
+    "inventoryId": "INV10147",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN306480",
+    "productId": "PRD10339",
+    "inventoryId": "INV10147",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN668271",
+    "productId": "PRD10339",
+    "inventoryId": "INV10147",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN744922",
+    "productId": "PRD10339",
+    "inventoryId": "INV10147",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN766809",
+    "productId": "PRD10234",
+    "inventoryId": "INV10148",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN483965",
+    "productId": "PRD10234",
+    "inventoryId": "INV10148",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN480607",
+    "productId": "PRD10234",
+    "inventoryId": "INV10148",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN135891",
+    "productId": "PRD10234",
+    "inventoryId": "INV10148",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN152530",
+    "productId": "PRD10234",
+    "inventoryId": "INV10148",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN903452",
+    "productId": "PRD10211",
+    "inventoryId": "INV10149",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN992519",
+    "productId": "PRD10211",
+    "inventoryId": "INV10149",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN947142",
+    "productId": "PRD10211",
+    "inventoryId": "INV10149",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN239528",
+    "productId": "PRD10211",
+    "inventoryId": "INV10149",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN285263",
+    "productId": "PRD10211",
+    "inventoryId": "INV10149",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN240817",
+    "productId": "PRD10286",
+    "inventoryId": "INV10150",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN778962",
+    "productId": "PRD10286",
+    "inventoryId": "INV10150",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN101443",
+    "productId": "PRD10286",
+    "inventoryId": "INV10150",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN21785",
+    "productId": "PRD10286",
+    "inventoryId": "INV10150",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN537471",
+    "productId": "PRD10286",
+    "inventoryId": "INV10150",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN897901",
+    "productId": "PRD10475",
+    "inventoryId": "INV10151",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN872504",
+    "productId": "PRD10475",
+    "inventoryId": "INV10151",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN255934",
+    "productId": "PRD10475",
+    "inventoryId": "INV10151",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN199018",
+    "productId": "PRD10475",
+    "inventoryId": "INV10151",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN228487",
+    "productId": "PRD10475",
+    "inventoryId": "INV10151",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN178945",
+    "productId": "PRD10295",
+    "inventoryId": "INV10152",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN492722",
+    "productId": "PRD10295",
+    "inventoryId": "INV10152",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN894942",
+    "productId": "PRD10295",
+    "inventoryId": "INV10152",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN294125",
+    "productId": "PRD10295",
+    "inventoryId": "INV10152",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN489787",
+    "productId": "PRD10295",
+    "inventoryId": "INV10152",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN375859",
+    "productId": "PRD10143",
+    "inventoryId": "INV10153",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN454808",
+    "productId": "PRD10143",
+    "inventoryId": "INV10153",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN925126",
+    "productId": "PRD10143",
+    "inventoryId": "INV10153",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN373815",
+    "productId": "PRD10143",
+    "inventoryId": "INV10153",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN314447",
+    "productId": "PRD10143",
+    "inventoryId": "INV10153",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN170583",
+    "productId": "PRD10164",
+    "inventoryId": "INV10154",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN349301",
+    "productId": "PRD10164",
+    "inventoryId": "INV10154",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN816386",
+    "productId": "PRD10164",
+    "inventoryId": "INV10154",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN264182",
+    "productId": "PRD10164",
+    "inventoryId": "INV10154",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN279051",
+    "productId": "PRD10164",
+    "inventoryId": "INV10154",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN577291",
+    "productId": "PRD10141",
+    "inventoryId": "INV10155",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN127857",
+    "productId": "PRD10141",
+    "inventoryId": "INV10155",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN158177",
+    "productId": "PRD10141",
+    "inventoryId": "INV10155",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN143053",
+    "productId": "PRD10141",
+    "inventoryId": "INV10155",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN369447",
+    "productId": "PRD10141",
+    "inventoryId": "INV10155",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN401570",
+    "productId": "PRD10122",
+    "inventoryId": "INV10156",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN603615",
+    "productId": "PRD10122",
+    "inventoryId": "INV10156",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN171542",
+    "productId": "PRD10122",
+    "inventoryId": "INV10156",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN24128",
+    "productId": "PRD10122",
+    "inventoryId": "INV10156",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN775424",
+    "productId": "PRD10122",
+    "inventoryId": "INV10156",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN336723",
+    "productId": "PRD10094",
+    "inventoryId": "INV10157",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN293147",
+    "productId": "PRD10094",
+    "inventoryId": "INV10157",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN515126",
+    "productId": "PRD10094",
+    "inventoryId": "INV10157",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN164503",
+    "productId": "PRD10094",
+    "inventoryId": "INV10157",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN719744",
+    "productId": "PRD10094",
+    "inventoryId": "INV10157",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN723208",
+    "productId": "PRD10451",
+    "inventoryId": "INV10158",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN329189",
+    "productId": "PRD10451",
+    "inventoryId": "INV10158",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN464040",
+    "productId": "PRD10451",
+    "inventoryId": "INV10158",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN220117",
+    "productId": "PRD10451",
+    "inventoryId": "INV10158",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN903825",
+    "productId": "PRD10451",
+    "inventoryId": "INV10158",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN831966",
+    "productId": "PRD10429",
+    "inventoryId": "INV10159",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN908898",
+    "productId": "PRD10429",
+    "inventoryId": "INV10159",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN716541",
+    "productId": "PRD10429",
+    "inventoryId": "INV10159",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN807501",
+    "productId": "PRD10429",
+    "inventoryId": "INV10159",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN85464",
+    "productId": "PRD10429",
+    "inventoryId": "INV10159",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN972695",
+    "productId": "PRD10339",
+    "inventoryId": "INV10160",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN806673",
+    "productId": "PRD10339",
+    "inventoryId": "INV10160",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN290871",
+    "productId": "PRD10339",
+    "inventoryId": "INV10160",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN822460",
+    "productId": "PRD10339",
+    "inventoryId": "INV10160",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN319302",
+    "productId": "PRD10339",
+    "inventoryId": "INV10160",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN967470",
+    "productId": "PRD10190",
+    "inventoryId": "INV10161",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN258803",
+    "productId": "PRD10190",
+    "inventoryId": "INV10161",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN476785",
+    "productId": "PRD10190",
+    "inventoryId": "INV10161",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN295267",
+    "productId": "PRD10190",
+    "inventoryId": "INV10161",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN207208",
+    "productId": "PRD10190",
+    "inventoryId": "INV10161",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN975190",
+    "productId": "PRD10002",
+    "inventoryId": "INV10162",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN461690",
+    "productId": "PRD10002",
+    "inventoryId": "INV10162",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN649616",
+    "productId": "PRD10002",
+    "inventoryId": "INV10162",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN269686",
+    "productId": "PRD10002",
+    "inventoryId": "INV10162",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN430442",
+    "productId": "PRD10002",
+    "inventoryId": "INV10162",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN840332",
+    "productId": "PRD10120",
+    "inventoryId": "INV10163",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN434541",
+    "productId": "PRD10120",
+    "inventoryId": "INV10163",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN900194",
+    "productId": "PRD10120",
+    "inventoryId": "INV10163",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN45590",
+    "productId": "PRD10120",
+    "inventoryId": "INV10163",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN893621",
+    "productId": "PRD10120",
+    "inventoryId": "INV10163",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN664519",
+    "productId": "PRD10418",
+    "inventoryId": "INV10164",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN666099",
+    "productId": "PRD10418",
+    "inventoryId": "INV10164",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN751207",
+    "productId": "PRD10418",
+    "inventoryId": "INV10164",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN900618",
+    "productId": "PRD10418",
+    "inventoryId": "INV10164",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN711071",
+    "productId": "PRD10418",
+    "inventoryId": "INV10164",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN515889",
+    "productId": "PRD10316",
+    "inventoryId": "INV10165",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN979308",
+    "productId": "PRD10316",
+    "inventoryId": "INV10165",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN197471",
+    "productId": "PRD10316",
+    "inventoryId": "INV10165",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN372332",
+    "productId": "PRD10316",
+    "inventoryId": "INV10165",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN527352",
+    "productId": "PRD10316",
+    "inventoryId": "INV10165",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN81602",
+    "productId": "PRD10120",
+    "inventoryId": "INV10166",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN199823",
+    "productId": "PRD10120",
+    "inventoryId": "INV10166",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN574108",
+    "productId": "PRD10120",
+    "inventoryId": "INV10166",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN127752",
+    "productId": "PRD10120",
+    "inventoryId": "INV10166",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN229986",
+    "productId": "PRD10120",
+    "inventoryId": "INV10166",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN184147",
+    "productId": "PRD10226",
+    "inventoryId": "INV10167",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN521612",
+    "productId": "PRD10226",
+    "inventoryId": "INV10167",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN656",
+    "productId": "PRD10226",
+    "inventoryId": "INV10167",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN653470",
+    "productId": "PRD10226",
+    "inventoryId": "INV10167",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN894708",
+    "productId": "PRD10226",
+    "inventoryId": "INV10167",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN14750",
+    "productId": "PRD10332",
+    "inventoryId": "INV10168",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN60587",
+    "productId": "PRD10332",
+    "inventoryId": "INV10168",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN714498",
+    "productId": "PRD10332",
+    "inventoryId": "INV10168",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN213151",
+    "productId": "PRD10332",
+    "inventoryId": "INV10168",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN399993",
+    "productId": "PRD10332",
+    "inventoryId": "INV10168",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN737170",
+    "productId": "PRD10444",
+    "inventoryId": "INV10169",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN546746",
+    "productId": "PRD10444",
+    "inventoryId": "INV10169",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN266867",
+    "productId": "PRD10444",
+    "inventoryId": "INV10169",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN801508",
+    "productId": "PRD10444",
+    "inventoryId": "INV10169",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN679271",
+    "productId": "PRD10444",
+    "inventoryId": "INV10169",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN651776",
+    "productId": "PRD10275",
+    "inventoryId": "INV10170",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN392103",
+    "productId": "PRD10275",
+    "inventoryId": "INV10170",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN333975",
+    "productId": "PRD10275",
+    "inventoryId": "INV10170",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN973060",
+    "productId": "PRD10275",
+    "inventoryId": "INV10170",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN539213",
+    "productId": "PRD10275",
+    "inventoryId": "INV10170",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN863784",
+    "productId": "PRD10280",
+    "inventoryId": "INV10171",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN555289",
+    "productId": "PRD10280",
+    "inventoryId": "INV10171",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN351080",
+    "productId": "PRD10280",
+    "inventoryId": "INV10171",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN469302",
+    "productId": "PRD10280",
+    "inventoryId": "INV10171",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN718095",
+    "productId": "PRD10280",
+    "inventoryId": "INV10171",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN571882",
+    "productId": "PRD10214",
+    "inventoryId": "INV10172",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN490543",
+    "productId": "PRD10214",
+    "inventoryId": "INV10172",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN368043",
+    "productId": "PRD10214",
+    "inventoryId": "INV10172",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN637550",
+    "productId": "PRD10214",
+    "inventoryId": "INV10172",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN237816",
+    "productId": "PRD10214",
+    "inventoryId": "INV10172",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN48075",
+    "productId": "PRD10077",
+    "inventoryId": "INV10173",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN53790",
+    "productId": "PRD10077",
+    "inventoryId": "INV10173",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN313601",
+    "productId": "PRD10077",
+    "inventoryId": "INV10173",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN457776",
+    "productId": "PRD10077",
+    "inventoryId": "INV10173",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN689284",
+    "productId": "PRD10077",
+    "inventoryId": "INV10173",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN15149",
+    "productId": "PRD10239",
+    "inventoryId": "INV10174",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN63598",
+    "productId": "PRD10239",
+    "inventoryId": "INV10174",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN376453",
+    "productId": "PRD10239",
+    "inventoryId": "INV10174",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN379755",
+    "productId": "PRD10239",
+    "inventoryId": "INV10174",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN837192",
+    "productId": "PRD10239",
+    "inventoryId": "INV10174",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN949400",
+    "productId": "PRD10046",
+    "inventoryId": "INV10175",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN259712",
+    "productId": "PRD10046",
+    "inventoryId": "INV10175",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN45376",
+    "productId": "PRD10046",
+    "inventoryId": "INV10175",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN815873",
+    "productId": "PRD10046",
+    "inventoryId": "INV10175",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN482420",
+    "productId": "PRD10046",
+    "inventoryId": "INV10175",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN505836",
+    "productId": "PRD10316",
+    "inventoryId": "INV10176",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN971229",
+    "productId": "PRD10316",
+    "inventoryId": "INV10176",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN968978",
+    "productId": "PRD10316",
+    "inventoryId": "INV10176",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN922525",
+    "productId": "PRD10316",
+    "inventoryId": "INV10176",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN901137",
+    "productId": "PRD10316",
+    "inventoryId": "INV10176",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN376752",
+    "productId": "PRD10473",
+    "inventoryId": "INV10177",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN876785",
+    "productId": "PRD10473",
+    "inventoryId": "INV10177",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN286878",
+    "productId": "PRD10473",
+    "inventoryId": "INV10177",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN211361",
+    "productId": "PRD10473",
+    "inventoryId": "INV10177",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN953646",
+    "productId": "PRD10473",
+    "inventoryId": "INV10177",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN659789",
+    "productId": "PRD10009",
+    "inventoryId": "INV10178",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN191698",
+    "productId": "PRD10009",
+    "inventoryId": "INV10178",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN821473",
+    "productId": "PRD10009",
+    "inventoryId": "INV10178",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN845630",
+    "productId": "PRD10009",
+    "inventoryId": "INV10178",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN808865",
+    "productId": "PRD10009",
+    "inventoryId": "INV10178",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN195379",
+    "productId": "PRD10405",
+    "inventoryId": "INV10179",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN939059",
+    "productId": "PRD10405",
+    "inventoryId": "INV10179",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN15669",
+    "productId": "PRD10405",
+    "inventoryId": "INV10179",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN396962",
+    "productId": "PRD10405",
+    "inventoryId": "INV10179",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN109376",
+    "productId": "PRD10405",
+    "inventoryId": "INV10179",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN13590",
+    "productId": "PRD10121",
+    "inventoryId": "INV10180",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN884735",
+    "productId": "PRD10121",
+    "inventoryId": "INV10180",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN826900",
+    "productId": "PRD10121",
+    "inventoryId": "INV10180",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN931040",
+    "productId": "PRD10121",
+    "inventoryId": "INV10180",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN260342",
+    "productId": "PRD10121",
+    "inventoryId": "INV10180",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN9481",
+    "productId": "PRD10341",
+    "inventoryId": "INV10181",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN228355",
+    "productId": "PRD10341",
+    "inventoryId": "INV10181",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN845664",
+    "productId": "PRD10341",
+    "inventoryId": "INV10181",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN741168",
+    "productId": "PRD10341",
+    "inventoryId": "INV10181",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN335810",
+    "productId": "PRD10341",
+    "inventoryId": "INV10181",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN819560",
+    "productId": "PRD10241",
+    "inventoryId": "INV10182",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN39824",
+    "productId": "PRD10241",
+    "inventoryId": "INV10182",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN74146",
+    "productId": "PRD10241",
+    "inventoryId": "INV10182",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN707161",
+    "productId": "PRD10241",
+    "inventoryId": "INV10182",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN561112",
+    "productId": "PRD10241",
+    "inventoryId": "INV10182",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN775136",
+    "productId": "PRD10184",
+    "inventoryId": "INV10183",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN386660",
+    "productId": "PRD10184",
+    "inventoryId": "INV10183",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN162654",
+    "productId": "PRD10184",
+    "inventoryId": "INV10183",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN538668",
+    "productId": "PRD10184",
+    "inventoryId": "INV10183",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN830053",
+    "productId": "PRD10184",
+    "inventoryId": "INV10183",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN320735",
+    "productId": "PRD10033",
+    "inventoryId": "INV10184",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN370465",
+    "productId": "PRD10033",
+    "inventoryId": "INV10184",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN983056",
+    "productId": "PRD10033",
+    "inventoryId": "INV10184",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN767895",
+    "productId": "PRD10033",
+    "inventoryId": "INV10184",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN415639",
+    "productId": "PRD10033",
+    "inventoryId": "INV10184",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN490714",
+    "productId": "PRD10344",
+    "inventoryId": "INV10185",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN118901",
+    "productId": "PRD10344",
+    "inventoryId": "INV10185",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN537016",
+    "productId": "PRD10344",
+    "inventoryId": "INV10185",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN822613",
+    "productId": "PRD10344",
+    "inventoryId": "INV10185",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN305137",
+    "productId": "PRD10344",
+    "inventoryId": "INV10185",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN949847",
+    "productId": "PRD10318",
+    "inventoryId": "INV10186",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN911346",
+    "productId": "PRD10318",
+    "inventoryId": "INV10186",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN789531",
+    "productId": "PRD10318",
+    "inventoryId": "INV10186",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN250708",
+    "productId": "PRD10318",
+    "inventoryId": "INV10186",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN318904",
+    "productId": "PRD10318",
+    "inventoryId": "INV10186",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN335896",
+    "productId": "PRD10412",
+    "inventoryId": "INV10187",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN522854",
+    "productId": "PRD10412",
+    "inventoryId": "INV10187",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN710903",
+    "productId": "PRD10412",
+    "inventoryId": "INV10187",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN496604",
+    "productId": "PRD10412",
+    "inventoryId": "INV10187",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN232700",
+    "productId": "PRD10412",
+    "inventoryId": "INV10187",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN532025",
+    "productId": "PRD10106",
+    "inventoryId": "INV10188",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN257470",
+    "productId": "PRD10106",
+    "inventoryId": "INV10188",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN513807",
+    "productId": "PRD10106",
+    "inventoryId": "INV10188",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN305377",
+    "productId": "PRD10106",
+    "inventoryId": "INV10188",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN978006",
+    "productId": "PRD10106",
+    "inventoryId": "INV10188",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN905559",
+    "productId": "PRD10455",
+    "inventoryId": "INV10189",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN377847",
+    "productId": "PRD10455",
+    "inventoryId": "INV10189",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN279540",
+    "productId": "PRD10455",
+    "inventoryId": "INV10189",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN612560",
+    "productId": "PRD10455",
+    "inventoryId": "INV10189",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN252977",
+    "productId": "PRD10455",
+    "inventoryId": "INV10189",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN21282",
+    "productId": "PRD10070",
+    "inventoryId": "INV10190",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN885108",
+    "productId": "PRD10070",
+    "inventoryId": "INV10190",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN329535",
+    "productId": "PRD10070",
+    "inventoryId": "INV10190",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN696393",
+    "productId": "PRD10070",
+    "inventoryId": "INV10190",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN903681",
+    "productId": "PRD10070",
+    "inventoryId": "INV10190",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN355661",
+    "productId": "PRD10289",
+    "inventoryId": "INV10191",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN886539",
+    "productId": "PRD10289",
+    "inventoryId": "INV10191",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN433675",
+    "productId": "PRD10289",
+    "inventoryId": "INV10191",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN567879",
+    "productId": "PRD10289",
+    "inventoryId": "INV10191",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN734129",
+    "productId": "PRD10289",
+    "inventoryId": "INV10191",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN574956",
+    "productId": "PRD10428",
+    "inventoryId": "INV10192",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN249102",
+    "productId": "PRD10428",
+    "inventoryId": "INV10192",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN664600",
+    "productId": "PRD10428",
+    "inventoryId": "INV10192",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN770456",
+    "productId": "PRD10428",
+    "inventoryId": "INV10192",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN365183",
+    "productId": "PRD10428",
+    "inventoryId": "INV10192",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN442924",
+    "productId": "PRD10098",
+    "inventoryId": "INV10193",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN510720",
+    "productId": "PRD10098",
+    "inventoryId": "INV10193",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN492271",
+    "productId": "PRD10098",
+    "inventoryId": "INV10193",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN26782",
+    "productId": "PRD10098",
+    "inventoryId": "INV10193",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN244323",
+    "productId": "PRD10098",
+    "inventoryId": "INV10193",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN672294",
+    "productId": "PRD10411",
+    "inventoryId": "INV10194",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN744493",
+    "productId": "PRD10411",
+    "inventoryId": "INV10194",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN706975",
+    "productId": "PRD10411",
+    "inventoryId": "INV10194",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN105805",
+    "productId": "PRD10411",
+    "inventoryId": "INV10194",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN244722",
+    "productId": "PRD10411",
+    "inventoryId": "INV10194",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN184327",
+    "productId": "PRD10219",
+    "inventoryId": "INV10195",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN220855",
+    "productId": "PRD10219",
+    "inventoryId": "INV10195",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN810461",
+    "productId": "PRD10219",
+    "inventoryId": "INV10195",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN979225",
+    "productId": "PRD10219",
+    "inventoryId": "INV10195",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN988992",
+    "productId": "PRD10219",
+    "inventoryId": "INV10195",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN342852",
+    "productId": "PRD10181",
+    "inventoryId": "INV10196",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN439864",
+    "productId": "PRD10181",
+    "inventoryId": "INV10196",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN554740",
+    "productId": "PRD10181",
+    "inventoryId": "INV10196",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN363972",
+    "productId": "PRD10181",
+    "inventoryId": "INV10196",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN558917",
+    "productId": "PRD10181",
+    "inventoryId": "INV10196",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN762166",
+    "productId": "PRD10327",
+    "inventoryId": "INV10197",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN953141",
+    "productId": "PRD10327",
+    "inventoryId": "INV10197",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN954751",
+    "productId": "PRD10327",
+    "inventoryId": "INV10197",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN236096",
+    "productId": "PRD10327",
+    "inventoryId": "INV10197",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN836350",
+    "productId": "PRD10327",
+    "inventoryId": "INV10197",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN743141",
+    "productId": "PRD10013",
+    "inventoryId": "INV10198",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN153180",
+    "productId": "PRD10013",
+    "inventoryId": "INV10198",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN141278",
+    "productId": "PRD10013",
+    "inventoryId": "INV10198",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN996687",
+    "productId": "PRD10013",
+    "inventoryId": "INV10198",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN234506",
+    "productId": "PRD10013",
+    "inventoryId": "INV10198",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN166538",
+    "productId": "PRD10067",
+    "inventoryId": "INV10199",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN194976",
+    "productId": "PRD10067",
+    "inventoryId": "INV10199",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN507949",
+    "productId": "PRD10067",
+    "inventoryId": "INV10199",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN580815",
+    "productId": "PRD10067",
+    "inventoryId": "INV10199",
+    "status": "In Stock"
+  },
+  {
+    "id": "SN438097",
+    "productId": "PRD10067",
+    "inventoryId": "INV10199",
+    "status": "In Stock"
+  }
+]

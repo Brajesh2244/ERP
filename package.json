@@ -1,0 +1,20 @@
+{
+  "name": "sap-erm-app",
+  "version": "1.0.0",
+  "description": "SAP Fiori Enterprise Resource Management (ERM) Application",
+  "scripts": {
+    "start": "ui5 serve --open index.html"
+  },
+  "dependencies": {
+    "puppeteer": "^25.2.1"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^3.0.0",
+    "ui5-middleware-servestatic": "^3.0.0"
+  },
+  "ui5": {
+    "dependencies": [
+      "ui5-middleware-servestatic"
+    ]
+  }
+}

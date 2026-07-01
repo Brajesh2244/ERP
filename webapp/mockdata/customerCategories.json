@@ -1,0 +1,18 @@
+[
+  {
+    "id": "CAT01",
+    "name": "Enterprise"
+  },
+  {
+    "id": "CAT02",
+    "name": "Mid-Market"
+  },
+  {
+    "id": "CAT03",
+    "name": "Small Business"
+  },
+  {
+    "id": "CAT04",
+    "name": "Government"
+  }
+]

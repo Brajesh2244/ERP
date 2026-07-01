@@ -1,0 +1,24 @@
+<core:FragmentDefinition xmlns="sap.m" xmlns:core="sap.ui.core">
+    <Table
+        id="idGenericTable"
+        growing="true"
+        growingThreshold="20"
+        growingScrollToLoad="true"
+        mode="SingleSelectMaster"
+        noDataText="No data available."
+        busyIndicatorDelay="0">
+        <headerToolbar>
+            <OverflowToolbar>
+                <Title text="Items ({= ${model>/items}.length || 0 })"/>
+                <ToolbarSpacer/>
+                <SearchField width="200px" search=".onGenericSearch" placeholder="Search..."/>
+                <Button icon="sap-icon://filter" press=".onGenericFilterPress" tooltip="Filter"/>
+                <Button icon="sap-icon://sort" press=".onGenericSortPress" tooltip="Sort"/>
+                <Button icon="sap-icon://excel-attachment" press=".onGenericExportPress" tooltip="Export"/>
+            </OverflowToolbar>
+        </headerToolbar>
+        <columns>
+            <!-- Columns injected by consuming views -->
+        </columns>
+    </Table>
+</core:FragmentDefinition>

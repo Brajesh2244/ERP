@@ -1,0 +1,113 @@
+<mvc:View controllerName="sap.erm.app.controller.finance.Detail" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" xmlns:uxap="sap.uxap" xmlns:layout="sap.ui.layout" xmlns:form="sap.ui.layout.form">
+    <uxap:ObjectPageLayout id="ObjectPageLayout" showTitleInHeaderContent="true">
+        <uxap:headerTitle>
+            <uxap:ObjectPageDynamicHeaderTitle>
+                <uxap:expandedHeading>
+                    <Title text="Journal Entry: {model>/id}" wrapping="true"/>
+                </uxap:expandedHeading>
+                <uxap:actions>
+                    <Button text="Edit" type="Emphasized" press=".onEditPress" />
+                    <Button text="Delete" type="Reject" press=".onDeletePress" />
+                    <Button text="Post Journal" type="Emphasized" press=".onPostPress" visible="{= ${model>/status} === 'DRAFT' || ${model>/status} === 'VALIDATED' }" />
+                </uxap:actions>
+                <uxap:navigationActions>
+                    <Button icon="sap-icon://nav-back" type="Transparent" press=".onNavBack" />
+                </uxap:navigationActions>
+            </uxap:ObjectPageDynamicHeaderTitle>
+        </uxap:headerTitle>
+
+        <uxap:headerContent>
+            <FlexBox wrap="Wrap" fitContainer="true" alignItems="Stretch">
+                <layout:VerticalLayout class="sapUiSmallMarginRight sapUiSmallMarginBottom">
+                    <ObjectStatus title="Reference" text="{model>/referenceDocument}"/>
+                    <ObjectStatus title="Type" text="{model>/documentType}"/>
+                </layout:VerticalLayout>
+                <layout:VerticalLayout class="sapUiSmallMarginRight sapUiSmallMarginBottom">
+                    <ObjectStatus title="Status" text="{model>/status}" state="{ path: 'model>/status', formatter: '.formatter.statusState' }"/>
+                    <ObjectStatus title="Total Amount" text="{model>/currency} {model>/totalDebit}"/>
+                </layout:VerticalLayout>
+            </FlexBox>
+        </uxap:headerContent>
+
+        <uxap:sections>
+            <uxap:ObjectPageSection title="Posting Information">
+                <uxap:subSections>
+                    <uxap:ObjectPageSubSection>
+                        <uxap:blocks>
+                            <form:SimpleForm layout="ResponsiveGridLayout">
+                                <form:content>
+                                    <Label text="Posting Date"/>
+                                    <Text text="{ path: 'model>/postingDate', formatter: '.formatter.date' }"/>
+                                    <Label text="Document Date"/>
+                                    <Text text="{ path: 'model>/documentDate', formatter: '.formatter.date' }"/>
+                                    <Label text="Company Code"/>
+                                    <Text text="{model>/companyCode}"/>
+                                    <Label text="Narration"/>
+                                    <Text text="{model>/narration}"/>
+                                    <Label text="Created By"/>
+                                    <Text text="{model>/createdBy}"/>
+                                </form:content>
+                            </form:SimpleForm>
+                        </uxap:blocks>
+                    </uxap:ObjectPageSubSection>
+                </uxap:subSections>
+            </uxap:ObjectPageSection>
+
+            <uxap:ObjectPageSection title="Journal Lines">
+                <uxap:subSections>
+                    <uxap:ObjectPageSubSection>
+                        <uxap:blocks>
+                            <Table items="{model>/items}">
+                                <columns>
+                                    <Column><Text text="Account ID"/></Column>
+                                    <Column><Text text="Account Name"/></Column>
+                                    <Column><Text text="Debit"/></Column>
+                                    <Column><Text text="Credit"/></Column>
+                                    <Column><Text text="Narration"/></Column>
+                                </columns>
+                                <items>
+                                    <ColumnListItem>
+                                        <cells>
+                                            <Text text="{model>accountId}" />
+                                            <Text text="{model>accountName}" />
+                                            <ObjectStatus text="{model>debitAmount}" state="Success" />
+                                            <ObjectStatus text="{model>creditAmount}" state="Error" />
+                                            <Text text="{model>narration}" />
+                                        </cells>
+                                    </ColumnListItem>
+                                </items>
+                            </Table>
+                        </uxap:blocks>
+                    </uxap:ObjectPageSubSection>
+                </uxap:subSections>
+            </uxap:ObjectPageSection>
+
+            <uxap:ObjectPageSection title="Totals">
+                <uxap:subSections>
+                    <uxap:ObjectPageSubSection>
+                        <uxap:blocks>
+                            <form:SimpleForm layout="ResponsiveGridLayout">
+                                <form:content>
+                                    <Label text="Total Debit"/>
+                                    <ObjectStatus text="{model>/currency} {model>/totalDebit}" state="Success" />
+                                    <Label text="Total Credit"/>
+                                    <ObjectStatus text="{model>/currency} {model>/totalCredit}" state="Error" />
+                                </form:content>
+                            </form:SimpleForm>
+                        </uxap:blocks>
+                    </uxap:ObjectPageSubSection>
+                </uxap:subSections>
+            </uxap:ObjectPageSection>
+            
+            <uxap:ObjectPageSection title="Audit Trail">
+                <uxap:subSections>
+                    <uxap:ObjectPageSubSection>
+                        <uxap:blocks>
+                            <Text text="Audit history will appear here." />
+                        </uxap:blocks>
+                    </uxap:ObjectPageSubSection>
+                </uxap:subSections>
+            </uxap:ObjectPageSection>
+        </uxap:sections>
+    </uxap:ObjectPageLayout>
+</mvc:View>

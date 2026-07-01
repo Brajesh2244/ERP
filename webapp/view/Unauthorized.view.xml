@@ -1,0 +1,15 @@
+<mvc:View
+    controllerName="sap.erm.app.controller.Unauthorized"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <MessagePage
+        title="Unauthorized"
+        text="You are not authorized to view this page."
+        description="Please log in to continue."
+        icon="sap-icon://locked"
+        showNavButton="false">
+        <buttons>
+            <Button text="Go to Login" press=".onLoginPress" type="Emphasized" />
+        </buttons>
+    </MessagePage>
+</mvc:View>

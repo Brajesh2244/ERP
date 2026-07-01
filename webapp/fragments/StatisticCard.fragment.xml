@@ -1,0 +1,13 @@
+<core:FragmentDefinition xmlns="sap.f.cards" xmlns:core="sap.ui.core">
+    <Card width="300px">
+        <header>
+            <Header title="{title}" subtitle="{subtitle}" iconSrc="{icon}" />
+        </header>
+        <content>
+            <VBox class="sapUiSmallMargin">
+                <Text text="{statisticValue}" class="sapUiLargeText sapUiTinyMarginBottom"/>
+                <Text text="{description}"/>
+            </VBox>
+        </content>
+    </Card>
+</core:FragmentDefinition>

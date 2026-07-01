@@ -1,0 +1,14 @@
+[
+  {
+    "id": "COMP10",
+    "name": "Global Enterprises LLC",
+    "currency": "USD",
+    "country": "US"
+  },
+  {
+    "id": "COMP20",
+    "name": "Euro Trading GmbH",
+    "currency": "EUR",
+    "country": "DE"
+  }
+]

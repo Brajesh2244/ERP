@@ -1,0 +1,62 @@
+[
+  {
+    "id": "PT01",
+    "name": "Net 30"
+  },
+  {
+    "id": "PT02",
+    "name": "Net 45"
+  },
+  {
+    "id": "PT03",
+    "name": "Net 60"
+  },
+  {
+    "id": "PT04",
+    "name": "Net 90"
+  },
+  {
+    "id": "PT05",
+    "name": "Due on Receipt"
+  },
+  {
+    "id": "PT06",
+    "name": "2% 10, Net 30"
+  },
+  {
+    "id": "PT07",
+    "name": "1% 10, Net 30"
+  },
+  {
+    "id": "PT08",
+    "name": "Net 15"
+  },
+  {
+    "id": "PT09",
+    "name": "EOM"
+  },
+  {
+    "id": "PT10",
+    "name": "CIA"
+  },
+  {
+    "id": "PT11",
+    "name": "COD"
+  },
+  {
+    "id": "PT12",
+    "name": "CWO"
+  },
+  {
+    "id": "PT13",
+    "name": "Line of Credit"
+  },
+  {
+    "id": "PT14",
+    "name": "Prepayment"
+  },
+  {
+    "id": "PT15",
+    "name": "Letter of Credit"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "JOB-1",
+    "name": "Daily Backup",
+    "status": "Completed",
+    "lastRun": "2026-07-01T04:46:47.252Z",
+    "nextRun": "Tomorrow"
+  },
+  {
+    "id": "JOB-2",
+    "name": "Data Cleanup",
+    "status": "Scheduled",
+    "lastRun": "-",
+    "nextRun": "Tonight"
+  },
+  {
+    "id": "JOB-3",
+    "name": "Analytics Refresh",
+    "status": "Running",
+    "lastRun": "1 hour ago",
+    "nextRun": "Now"
+  }
+]

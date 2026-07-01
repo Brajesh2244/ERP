@@ -1,0 +1,9 @@
+{
+  "Username": "admin",
+  "Role": "System Administrator",
+  "FirstName": "John",
+  "LastName": "Doe",
+  "Email": "john.doe@erm.local",
+  "Department": "IT Security",
+  "Location": "New York, USA"
+}

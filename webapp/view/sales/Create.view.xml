@@ -1,0 +1,22 @@
+<mvc:View controllerName="sap.erm.app.controller.sales.Create" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" xmlns:f="sap.f" xmlns:form="sap.ui.layout.form">
+    <f:DynamicPage showFooter="true">
+        <f:title><f:DynamicPageTitle><f:heading><Title text="Create Sales Record" level="H2"/></f:heading><f:navigationActions><Button icon="sap-icon://nav-back" type="Transparent" press=".onNavBack" /></f:navigationActions></f:DynamicPageTitle></f:title>
+        <f:content>
+            <form:SimpleForm layout="ResponsiveGridLayout" title="Sales Details">
+                <form:content>
+                    <Label text="Title" required="true"/><Input value="{model>/title}" />
+                    <Label text="Description" /><Input value="{model>/description}" />
+                    <Label text="Amount" /><Input value="{model>/amount}" type="Number" />
+                    <Label text="Date" /><DatePicker value="{model>/date}" />
+                </form:content>
+            </form:SimpleForm>
+        </f:content>
+        <f:footer>
+            <OverflowToolbar>
+                <ToolbarSpacer />
+                <Button text="Save" type="Emphasized" press=".onSavePress" />
+                <Button text="Cancel" press=".onNavBack" />
+            </OverflowToolbar>
+        </f:footer>
+    </f:DynamicPage>
+</mvc:View>

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "VCAT01",
+    "name": "Raw Materials"
+  },
+  {
+    "id": "VCAT02",
+    "name": "Equipment"
+  },
+  {
+    "id": "VCAT03",
+    "name": "Services"
+  },
+  {
+    "id": "VCAT04",
+    "name": "Logistics"
+  }
+]

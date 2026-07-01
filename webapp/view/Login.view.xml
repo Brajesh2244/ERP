@@ -1,0 +1,24 @@
+<mvc:View
+    controllerName="sap.erm.app.controller.Login"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m"
+    xmlns:core="sap.ui.core"
+    xmlns:layout="sap.ui.layout">
+    <Page showHeader="false" enableScrolling="false">
+        <FlexBox direction="Column" alignContent="Center" alignItems="Center" justifyContent="Center" class="loginBackground">
+            <VBox class="loginCard" 
+                alignItems="Center" justifyContent="Center">
+                <Title text="Enterprise Resource Management" level="H1" class="sapUiSmallMarginBottom" />
+                <Title text="Please Log In" level="H3" class="sapUiMediumMarginBottom" />
+                
+                <Input id="usernameInput" placeholder="Username" width="100%" class="sapUiSmallMarginBottom" />
+                <Input id="passwordInput" placeholder="Password" type="Password" width="100%" class="sapUiSmallMarginBottom" />
+                
+                <CheckBox id="rememberMeCheck" text="Remember Me" width="100%" class="sapUiSmallMarginBottom" />
+                
+                <Button text="Login" type="Emphasized" press=".onLoginPress" width="100%" class="sapUiSmallMarginBottom" />
+                <Link text="Forgot Password?" press=".onForgotPasswordPress" />
+            </VBox>
+        </FlexBox>
+    </Page>
+</mvc:View>

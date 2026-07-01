@@ -1,0 +1,65 @@
+[
+  {
+    "id": "100000",
+    "name": "Cash in Bank",
+    "type": "Asset",
+    "postingAllowed": true,
+    "status": "Active"
+  },
+  {
+    "id": "120000",
+    "name": "Accounts Receivable",
+    "type": "Asset",
+    "postingAllowed": true,
+    "status": "Active"
+  },
+  {
+    "id": "130000",
+    "name": "Inventory",
+    "type": "Asset",
+    "postingAllowed": true,
+    "status": "Active"
+  },
+  {
+    "id": "200000",
+    "name": "Accounts Payable",
+    "type": "Liability",
+    "postingAllowed": true,
+    "status": "Active"
+  },
+  {
+    "id": "300000",
+    "name": "Common Stock",
+    "type": "Equity",
+    "postingAllowed": true,
+    "status": "Active"
+  },
+  {
+    "id": "400000",
+    "name": "Sales Revenue",
+    "type": "Revenue",
+    "postingAllowed": true,
+    "status": "Active"
+  },
+  {
+    "id": "500000",
+    "name": "Cost of Goods Sold",
+    "type": "Expense",
+    "postingAllowed": true,
+    "status": "Active"
+  },
+  {
+    "id": "510000",
+    "name": "Salaries Expense",
+    "type": "Expense",
+    "postingAllowed": true,
+    "status": "Active"
+  },
+  {
+    "id": "520000",
+    "name": "Rent Expense",
+    "type": "Expense",
+    "postingAllowed": true,
+    "status": "Active"
+  }
+]

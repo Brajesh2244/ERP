@@ -1,0 +1,18 @@
+[
+  {
+    "id": "TAX01",
+    "name": "0% (Exempt)"
+  },
+  {
+    "id": "TAX02",
+    "name": "5% (Reduced)"
+  },
+  {
+    "id": "TAX03",
+    "name": "18% (Standard)"
+  },
+  {
+    "id": "TAX04",
+    "name": "28% (Luxury)"
+  }
+]

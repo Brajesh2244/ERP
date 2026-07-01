@@ -1,0 +1,49 @@
+<mvc:View
+    controllerName="sap.erm.app.controller.employee.Detail"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m"
+    xmlns:f="sap.f"
+    xmlns:form="sap.ui.layout.form"
+    xmlns:core="sap.ui.core">
+    <f:DynamicPage>
+        <f:title>
+            <f:DynamicPageTitle>
+                <f:heading>
+                    <Title text="{model>/fullName}" level="H2"/>
+                </f:heading>
+                <f:actions>
+                    <Button text="Edit" type="Emphasized" press=".onEditPress" visible="{= ${userModel>/role} === 'System Administrator' || ${userModel>/role} === 'HR Manager' }" />
+                    <Button text="Delete" type="Reject" press=".onDeletePress" visible="{= (${userModel>/role} === 'System Administrator' || ${userModel>/role} === 'HR Manager') &amp;&amp; !${model>/deleted} }" />
+                    <Button text="Restore" press=".onRestorePress" visible="{= (${userModel>/role} === 'System Administrator' || ${userModel>/role} === 'HR Manager') &amp;&amp; ${model>/deleted} }" />
+                </f:actions>
+                <f:navigationActions>
+                    <Button icon="sap-icon://nav-back" type="Transparent" press=".onNavBack" />
+                </f:navigationActions>
+            </f:DynamicPageTitle>
+        </f:title>
+        <f:content>
+            <VBox>
+                <ObjectHeader title="{model>/fullName}" number="{model>/id}" intro="{model>/designation}">
+                    <statuses>
+                        <ObjectStatus text="{model>/status}" state="{ path: 'model>/status', formatter: '.formatter.statusState' }" />
+                    </statuses>
+                    <attributes>
+                        <ObjectAttribute title="Email" text="{model>/email}" />
+                        <ObjectAttribute title="Phone" text="{model>/phone}" />
+                        <ObjectAttribute title="Department" text="{model>/department}" />
+                    </attributes>
+                </ObjectHeader>
+                <form:SimpleForm layout="ResponsiveGridLayout" title="System Information">
+                    <form:content>
+                        <Label text="Role" />
+                        <Text text="{model>/role}" />
+                        <Label text="Hire Date" />
+                        <Text text="{model>/hireDate}" />
+                        <Label text="System ID" />
+                        <Text text="{model>/id}" />
+                    </form:content>
+                </form:SimpleForm>
+            </VBox>
+        </f:content>
+    </f:DynamicPage>
+</mvc:View>

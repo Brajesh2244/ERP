@@ -1,0 +1,112 @@
+<mvc:View controllerName="sap.erm.app.controller.Dashboard" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" xmlns:f="sap.f" xmlns:layout="sap.ui.layout">
+    <f:DynamicPage>
+        <f:title>
+            <f:DynamicPageTitle>
+                <f:heading>
+                    <Title text="Executive Dashboard" level="H2"/>
+                </f:heading>
+                <f:expandedContent>
+                    <Label text="Welcome back. Here is your enterprise overview." />
+                </f:expandedContent>
+            </f:DynamicPageTitle>
+        </f:title>
+        <f:content>
+            <VBox class="sapUiSmallMargin">
+                <HBox class="heroBanner" width="100%">
+                    <VBox>
+                        <Title text="Enterprise Overview" level="H1" titleStyle="H1" />
+                        <Text text="Real-time insights across your entire organization." />
+                    </VBox>
+                </HBox>
+                <layout:Grid defaultSpan="XL3 L3 M6 S12" class="sapUiSmallMarginBottom">
+                    <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="Total Employees" press=".onKPIPress">
+                        <tileContent>
+                            <TileContent>
+                                <NumericContent value="{kpiModel>/employees}" icon="sap-icon://employee" valueColor="Good" withMargin="false" />
+                            </TileContent>
+                        </tileContent>
+                    </GenericTile>
+                    
+                    <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="Total Customers" press=".onKPIPress">
+                        <tileContent>
+                            <TileContent>
+                                <NumericContent value="{kpiModel>/customers}" icon="sap-icon://customer" valueColor="Good" withMargin="false" />
+                            </TileContent>
+                        </tileContent>
+                    </GenericTile>
+
+                    <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="Total Vendors" press=".onKPIPress">
+                        <tileContent>
+                            <TileContent>
+                                <NumericContent value="{kpiModel>/vendors}" icon="sap-icon://supplier" valueColor="Neutral" withMargin="false" />
+                            </TileContent>
+                        </tileContent>
+                    </GenericTile>
+
+                    <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="Total Products" press=".onKPIPress">
+                        <tileContent>
+                            <TileContent>
+                                <NumericContent value="{kpiModel>/products}" icon="sap-icon://product" valueColor="Neutral" withMargin="false" />
+                            </TileContent>
+                        </tileContent>
+                    </GenericTile>
+
+                    <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="Inventory Value" subheader="Total Assets" press=".onKPIPress">
+                        <tileContent>
+                            <TileContent unit="USD">
+                                <NumericContent value="{kpiModel>/inventoryValue}" icon="sap-icon://money-bills" valueColor="Good" withMargin="false" />
+                            </TileContent>
+                        </tileContent>
+                    </GenericTile>
+
+                    <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="Total Revenue" subheader="Fiscal Year 2026" press=".onKPIPress" visible="{dashboardModel>/showRevenue}">
+                        <tileContent>
+                            <TileContent unit="USD">
+                                <NumericContent value="{kpiModel>/revenue}" icon="sap-icon://lead" valueColor="Good" withMargin="false" />
+                            </TileContent>
+                        </tileContent>
+                    </GenericTile>
+                    
+                    <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="Total Purchases" subheader="Fiscal Year 2026" press=".onKPIPress" visible="{dashboardModel>/showPurchases}">
+                        <tileContent>
+                            <TileContent unit="USD">
+                                <NumericContent value="{kpiModel>/purchases}" icon="sap-icon://cart" valueColor="Critical" withMargin="false" />
+                            </TileContent>
+                        </tileContent>
+                    </GenericTile>
+                    
+                    <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="Low Stock Items" subheader="Requires Attention" press=".onKPIPress" visible="{dashboardModel>/showLowStock}">
+                        <tileContent>
+                            <TileContent>
+                                <NumericContent value="{kpiModel>/lowStock}" icon="sap-icon://alert" valueColor="Error" withMargin="false" />
+                            </TileContent>
+                        </tileContent>
+                    </GenericTile>
+                    
+                    <GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="Pending Approvals" subheader="Action Required" press=".onKPIPress" visible="{dashboardModel>/showPendingApprovals}">
+                        <tileContent>
+                            <TileContent>
+                                <NumericContent value="{kpiModel>/pendingApprovals}" icon="sap-icon://approvals" valueColor="Neutral" withMargin="false" />
+                            </TileContent>
+                        </tileContent>
+                    </GenericTile>
+                </layout:Grid>
+                
+                <layout:Grid defaultSpan="XL6 L6 M12 S12">
+                    <Panel headerText="Revenue Trend (YTD)">
+                        <VBox alignItems="Center" justifyContent="Center" height="300px">
+                            <core:Icon src="sap-icon://bar-chart" size="4rem" color="#ccc" xmlns:core="sap.ui.core" />
+                            <Text text="Interactive charting requires SAPUI5 library (sap.viz). Running in OpenUI5 mode." class="sapUiSmallMarginTop" />
+                        </VBox>
+                    </Panel>
+                    
+                    <Panel headerText="Recent Activities">
+                        <List items="{auditModel>/recent}">
+                            <StandardListItem title="{auditModel>action}" description="{auditModel>time}" icon="{auditModel>icon}" />
+                        </List>
+                    </Panel>
+                </layout:Grid>
+            </VBox>
+        </f:content>
+    </f:DynamicPage>
+</mvc:View>

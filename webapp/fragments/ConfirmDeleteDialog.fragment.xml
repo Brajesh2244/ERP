@@ -1,0 +1,11 @@
+<core:FragmentDefinition xmlns="sap.m" xmlns:core="sap.ui.core">
+    <Dialog title="Confirm Deletion" type="Message" state="Warning" icon="sap-icon://warning2">
+        <content>
+            <Text text="Are you sure you want to permanently delete this item? This action cannot be undone." />
+        </content>
+        <buttons>
+            <Button text="Delete" type="Reject" press=".onConfirmDelete" />
+            <Button text="Cancel" press=".onCancelDelete" />
+        </buttons>
+    </Dialog>
+</core:FragmentDefinition>

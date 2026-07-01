@@ -1,0 +1,902 @@
+[
+  {
+    "id": "JL-100000",
+    "journalEntryId": "JE-2026-100000",
+    "accountId": "500000",
+    "accountName": "Cost of Goods Sold",
+    "debitAmount": "5513.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 0"
+  },
+  {
+    "id": "JL-100001",
+    "journalEntryId": "JE-2026-100000",
+    "accountId": "300000",
+    "accountName": "Common Stock",
+    "debitAmount": "0.00",
+    "creditAmount": "5513.00",
+    "narration": "General ledger posting 0"
+  },
+  {
+    "id": "JL-100002",
+    "journalEntryId": "JE-2026-100001",
+    "accountId": "100000",
+    "accountName": "Cash in Bank",
+    "debitAmount": "9864.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 1"
+  },
+  {
+    "id": "JL-100003",
+    "journalEntryId": "JE-2026-100001",
+    "accountId": "500000",
+    "accountName": "Cost of Goods Sold",
+    "debitAmount": "0.00",
+    "creditAmount": "9864.00",
+    "narration": "General ledger posting 1"
+  },
+  {
+    "id": "JL-100004",
+    "journalEntryId": "JE-2026-100002",
+    "accountId": "400000",
+    "accountName": "Sales Revenue",
+    "debitAmount": "7317.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 2"
+  },
+  {
+    "id": "JL-100005",
+    "journalEntryId": "JE-2026-100002",
+    "accountId": "520000",
+    "accountName": "Rent Expense",
+    "debitAmount": "0.00",
+    "creditAmount": "7317.00",
+    "narration": "General ledger posting 2"
+  },
+  {
+    "id": "JL-100006",
+    "journalEntryId": "JE-2026-100003",
+    "accountId": "120000",
+    "accountName": "Accounts Receivable",
+    "debitAmount": "1759.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 3"
+  },
+  {
+    "id": "JL-100007",
+    "journalEntryId": "JE-2026-100003",
+    "accountId": "130000",
+    "accountName": "Inventory",
+    "debitAmount": "0.00",
+    "creditAmount": "1759.00",
+    "narration": "General ledger posting 3"
+  },
+  {
+    "id": "JL-100008",
+    "journalEntryId": "JE-2026-100004",
+    "accountId": "500000",
+    "accountName": "Cost of Goods Sold",
+    "debitAmount": "5031.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 4"
+  },
+  {
+    "id": "JL-100009",
+    "journalEntryId": "JE-2026-100004",
+    "accountId": "400000",
+    "accountName": "Sales Revenue",
+    "debitAmount": "0.00",
+    "creditAmount": "5031.00",
+    "narration": "General ledger posting 4"
+  },
+  {
+    "id": "JL-100010",
+    "journalEntryId": "JE-2026-100005",
+    "accountId": "520000",
+    "accountName": "Rent Expense",
+    "debitAmount": "3732.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 5"
+  },
+  {
+    "id": "JL-100011",
+    "journalEntryId": "JE-2026-100005",
+    "accountId": "130000",
+    "accountName": "Inventory",
+    "debitAmount": "0.00",
+    "creditAmount": "3732.00",
+    "narration": "General ledger posting 5"
+  },
+  {
+    "id": "JL-100012",
+    "journalEntryId": "JE-2026-100006",
+    "accountId": "400000",
+    "accountName": "Sales Revenue",
+    "debitAmount": "9223.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 6"
+  },
+  {
+    "id": "JL-100013",
+    "journalEntryId": "JE-2026-100006",
+    "accountId": "200000",
+    "accountName": "Accounts Payable",
+    "debitAmount": "0.00",
+    "creditAmount": "9223.00",
+    "narration": "General ledger posting 6"
+  },
+  {
+    "id": "JL-100014",
+    "journalEntryId": "JE-2026-100007",
+    "accountId": "200000",
+    "accountName": "Accounts Payable",
+    "debitAmount": "1783.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 7"
+  },
+  {
+    "id": "JL-100015",
+    "journalEntryId": "JE-2026-100007",
+    "accountId": "300000",
+    "accountName": "Common Stock",
+    "debitAmount": "0.00",
+    "creditAmount": "1783.00",
+    "narration": "General ledger posting 7"
+  },
+  {
+    "id": "JL-100016",
+    "journalEntryId": "JE-2026-100008",
+    "accountId": "400000",
+    "accountName": "Sales Revenue",
+    "debitAmount": "3716.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 8"
+  },
+  {
+    "id": "JL-100017",
+    "journalEntryId": "JE-2026-100008",
+    "accountId": "520000",
+    "accountName": "Rent Expense",
+    "debitAmount": "0.00",
+    "creditAmount": "3716.00",
+    "narration": "General ledger posting 8"
+  },
+  {
+    "id": "JL-100018",
+    "journalEntryId": "JE-2026-100009",
+    "accountId": "510000",
+    "accountName": "Salaries Expense",
+    "debitAmount": "6116.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 9"
+  },
+  {
+    "id": "JL-100019",
+    "journalEntryId": "JE-2026-100009",
+    "accountId": "100000",
+    "accountName": "Cash in Bank",
+    "debitAmount": "0.00",
+    "creditAmount": "6116.00",
+    "narration": "General ledger posting 9"
+  },
+  {
+    "id": "JL-100020",
+    "journalEntryId": "JE-2026-100010",
+    "accountId": "100000",
+    "accountName": "Cash in Bank",
+    "debitAmount": "3497.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 10"
+  },
+  {
+    "id": "JL-100021",
+    "journalEntryId": "JE-2026-100010",
+    "accountId": "130000",
+    "accountName": "Inventory",
+    "debitAmount": "0.00",
+    "creditAmount": "3497.00",
+    "narration": "General ledger posting 10"
+  },
+  {
+    "id": "JL-100022",
+    "journalEntryId": "JE-2026-100011",
+    "accountId": "130000",
+    "accountName": "Inventory",
+    "debitAmount": "2473.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 11"
+  },
+  {
+    "id": "JL-100023",
+    "journalEntryId": "JE-2026-100011",
+    "accountId": "500000",
+    "accountName": "Cost of Goods Sold",
+    "debitAmount": "0.00",
+    "creditAmount": "2473.00",
+    "narration": "General ledger posting 11"
+  },
+  {
+    "id": "JL-100024",
+    "journalEntryId": "JE-2026-100012",
+    "accountId": "520000",
+    "accountName": "Rent Expense",
+    "debitAmount": "9539.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 12"
+  },
+  {
+    "id": "JL-100025",
+    "journalEntryId": "JE-2026-100012",
+    "accountId": "400000",
+    "accountName": "Sales Revenue",
+    "debitAmount": "0.00",
+    "creditAmount": "9539.00",
+    "narration": "General ledger posting 12"
+  },
+  {
+    "id": "JL-100026",
+    "journalEntryId": "JE-2026-100013",
+    "accountId": "120000",
+    "accountName": "Accounts Receivable",
+    "debitAmount": "9430.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 13"
+  },
+  {
+    "id": "JL-100027",
+    "journalEntryId": "JE-2026-100013",
+    "accountId": "200000",
+    "accountName": "Accounts Payable",
+    "debitAmount": "0.00",
+    "creditAmount": "9430.00",
+    "narration": "General ledger posting 13"
+  },
+  {
+    "id": "JL-100028",
+    "journalEntryId": "JE-2026-100014",
+    "accountId": "200000",
+    "accountName": "Accounts Payable",
+    "debitAmount": "659.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 14"
+  },
+  {
+    "id": "JL-100029",
+    "journalEntryId": "JE-2026-100014",
+    "accountId": "120000",
+    "accountName": "Accounts Receivable",
+    "debitAmount": "0.00",
+    "creditAmount": "659.00",
+    "narration": "General ledger posting 14"
+  },
+  {
+    "id": "JL-100030",
+    "journalEntryId": "JE-2026-100015",
+    "accountId": "300000",
+    "accountName": "Common Stock",
+    "debitAmount": "9712.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 15"
+  },
+  {
+    "id": "JL-100031",
+    "journalEntryId": "JE-2026-100015",
+    "accountId": "120000",
+    "accountName": "Accounts Receivable",
+    "debitAmount": "0.00",
+    "creditAmount": "9712.00",
+    "narration": "General ledger posting 15"
+  },
+  {
+    "id": "JL-100032",
+    "journalEntryId": "JE-2026-100016",
+    "accountId": "300000",
+    "accountName": "Common Stock",
+    "debitAmount": "1430.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 16"
+  },
+  {
+    "id": "JL-100033",
+    "journalEntryId": "JE-2026-100016",
+    "accountId": "510000",
+    "accountName": "Salaries Expense",
+    "debitAmount": "0.00",
+    "creditAmount": "1430.00",
+    "narration": "General ledger posting 16"
+  },
+  {
+    "id": "JL-100034",
+    "journalEntryId": "JE-2026-100017",
+    "accountId": "100000",
+    "accountName": "Cash in Bank",
+    "debitAmount": "2611.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 17"
+  },
+  {
+    "id": "JL-100035",
+    "journalEntryId": "JE-2026-100017",
+    "accountId": "510000",
+    "accountName": "Salaries Expense",
+    "debitAmount": "0.00",
+    "creditAmount": "2611.00",
+    "narration": "General ledger posting 17"
+  },
+  {
+    "id": "JL-100036",
+    "journalEntryId": "JE-2026-100018",
+    "accountId": "500000",
+    "accountName": "Cost of Goods Sold",
+    "debitAmount": "6927.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 18"
+  },
+  {
+    "id": "JL-100037",
+    "journalEntryId": "JE-2026-100018",
+    "accountId": "100000",
+    "accountName": "Cash in Bank",
+    "debitAmount": "0.00",
+    "creditAmount": "6927.00",
+    "narration": "General ledger posting 18"
+  },
+  {
+    "id": "JL-100038",
+    "journalEntryId": "JE-2026-100019",
+    "accountId": "500000",
+    "accountName": "Cost of Goods Sold",
+    "debitAmount": "3682.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 19"
+  },
+  {
+    "id": "JL-100039",
+    "journalEntryId": "JE-2026-100019",
+    "accountId": "100000",
+    "accountName": "Cash in Bank",
+    "debitAmount": "0.00",
+    "creditAmount": "3682.00",
+    "narration": "General ledger posting 19"
+  },
+  {
+    "id": "JL-100040",
+    "journalEntryId": "JE-2026-100020",
+    "accountId": "200000",
+    "accountName": "Accounts Payable",
+    "debitAmount": "7225.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 20"
+  },
+  {
+    "id": "JL-100041",
+    "journalEntryId": "JE-2026-100020",
+    "accountId": "300000",
+    "accountName": "Common Stock",
+    "debitAmount": "0.00",
+    "creditAmount": "7225.00",
+    "narration": "General ledger posting 20"
+  },
+  {
+    "id": "JL-100042",
+    "journalEntryId": "JE-2026-100021",
+    "accountId": "130000",
+    "accountName": "Inventory",
+    "debitAmount": "5165.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 21"
+  },
+  {
+    "id": "JL-100043",
+    "journalEntryId": "JE-2026-100021",
+    "accountId": "120000",
+    "accountName": "Accounts Receivable",
+    "debitAmount": "0.00",
+    "creditAmount": "5165.00",
+    "narration": "General ledger posting 21"
+  },
+  {
+    "id": "JL-100044",
+    "journalEntryId": "JE-2026-100022",
+    "accountId": "120000",
+    "accountName": "Accounts Receivable",
+    "debitAmount": "7961.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 22"
+  },
+  {
+    "id": "JL-100045",
+    "journalEntryId": "JE-2026-100022",
+    "accountId": "510000",
+    "accountName": "Salaries Expense",
+    "debitAmount": "0.00",
+    "creditAmount": "7961.00",
+    "narration": "General ledger posting 22"
+  },
+  {
+    "id": "JL-100046",
+    "journalEntryId": "JE-2026-100023",
+    "accountId": "120000",
+    "accountName": "Accounts Receivable",
+    "debitAmount": "3441.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 23"
+  },
+  {
+    "id": "JL-100047",
+    "journalEntryId": "JE-2026-100023",
+    "accountId": "400000",
+    "accountName": "Sales Revenue",
+    "debitAmount": "0.00",
+    "creditAmount": "3441.00",
+    "narration": "General ledger posting 23"
+  },
+  {
+    "id": "JL-100048",
+    "journalEntryId": "JE-2026-100024",
+    "accountId": "400000",
+    "accountName": "Sales Revenue",
+    "debitAmount": "7869.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 24"
+  },
+  {
+    "id": "JL-100049",
+    "journalEntryId": "JE-2026-100024",
+    "accountId": "100000",
+    "accountName": "Cash in Bank",
+    "debitAmount": "0.00",
+    "creditAmount": "7869.00",
+    "narration": "General ledger posting 24"
+  },
+  {
+    "id": "JL-100050",
+    "journalEntryId": "JE-2026-100025",
+    "accountId": "510000",
+    "accountName": "Salaries Expense",
+    "debitAmount": "1019.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 25"
+  },
+  {
+    "id": "JL-100051",
+    "journalEntryId": "JE-2026-100025",
+    "accountId": "120000",
+    "accountName": "Accounts Receivable",
+    "debitAmount": "0.00",
+    "creditAmount": "1019.00",
+    "narration": "General ledger posting 25"
+  },
+  {
+    "id": "JL-100052",
+    "journalEntryId": "JE-2026-100026",
+    "accountId": "100000",
+    "accountName": "Cash in Bank",
+    "debitAmount": "3139.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 26"
+  },
+  {
+    "id": "JL-100053",
+    "journalEntryId": "JE-2026-100026",
+    "accountId": "130000",
+    "accountName": "Inventory",
+    "debitAmount": "0.00",
+    "creditAmount": "3139.00",
+    "narration": "General ledger posting 26"
+  },
+  {
+    "id": "JL-100054",
+    "journalEntryId": "JE-2026-100027",
+    "accountId": "200000",
+    "accountName": "Accounts Payable",
+    "debitAmount": "9523.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 27"
+  },
+  {
+    "id": "JL-100055",
+    "journalEntryId": "JE-2026-100027",
+    "accountId": "300000",
+    "accountName": "Common Stock",
+    "debitAmount": "0.00",
+    "creditAmount": "9523.00",
+    "narration": "General ledger posting 27"
+  },
+  {
+    "id": "JL-100056",
+    "journalEntryId": "JE-2026-100028",
+    "accountId": "100000",
+    "accountName": "Cash in Bank",
+    "debitAmount": "7895.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 28"
+  },
+  {
+    "id": "JL-100057",
+    "journalEntryId": "JE-2026-100028",
+    "accountId": "120000",
+    "accountName": "Accounts Receivable",
+    "debitAmount": "0.00",
+    "creditAmount": "7895.00",
+    "narration": "General ledger posting 28"
+  },
+  {
+    "id": "JL-100058",
+    "journalEntryId": "JE-2026-100029",
+    "accountId": "520000",
+    "accountName": "Rent Expense",
+    "debitAmount": "10097.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 29"
+  },
+  {
+    "id": "JL-100059",
+    "journalEntryId": "JE-2026-100029",
+    "accountId": "510000",
+    "accountName": "Salaries Expense",
+    "debitAmount": "0.00",
+    "creditAmount": "10097.00",
+    "narration": "General ledger posting 29"
+  },
+  {
+    "id": "JL-100060",
+    "journalEntryId": "JE-2026-100030",
+    "accountId": "100000",
+    "accountName": "Cash in Bank",
+    "debitAmount": "8245.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 30"
+  },
+  {
+    "id": "JL-100061",
+    "journalEntryId": "JE-2026-100030",
+    "accountId": "520000",
+    "accountName": "Rent Expense",
+    "debitAmount": "0.00",
+    "creditAmount": "8245.00",
+    "narration": "General ledger posting 30"
+  },
+  {
+    "id": "JL-100062",
+    "journalEntryId": "JE-2026-100031",
+    "accountId": "510000",
+    "accountName": "Salaries Expense",
+    "debitAmount": "6578.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 31"
+  },
+  {
+    "id": "JL-100063",
+    "journalEntryId": "JE-2026-100031",
+    "accountId": "300000",
+    "accountName": "Common Stock",
+    "debitAmount": "0.00",
+    "creditAmount": "6578.00",
+    "narration": "General ledger posting 31"
+  },
+  {
+    "id": "JL-100064",
+    "journalEntryId": "JE-2026-100032",
+    "accountId": "200000",
+    "accountName": "Accounts Payable",
+    "debitAmount": "378.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 32"
+  },
+  {
+    "id": "JL-100065",
+    "journalEntryId": "JE-2026-100032",
+    "accountId": "130000",
+    "accountName": "Inventory",
+    "debitAmount": "0.00",
+    "creditAmount": "378.00",
+    "narration": "General ledger posting 32"
+  },
+  {
+    "id": "JL-100066",
+    "journalEntryId": "JE-2026-100033",
+    "accountId": "510000",
+    "accountName": "Salaries Expense",
+    "debitAmount": "4249.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 33"
+  },
+  {
+    "id": "JL-100067",
+    "journalEntryId": "JE-2026-100033",
+    "accountId": "520000",
+    "accountName": "Rent Expense",
+    "debitAmount": "0.00",
+    "creditAmount": "4249.00",
+    "narration": "General ledger posting 33"
+  },
+  {
+    "id": "JL-100068",
+    "journalEntryId": "JE-2026-100034",
+    "accountId": "130000",
+    "accountName": "Inventory",
+    "debitAmount": "8065.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 34"
+  },
+  {
+    "id": "JL-100069",
+    "journalEntryId": "JE-2026-100034",
+    "accountId": "200000",
+    "accountName": "Accounts Payable",
+    "debitAmount": "0.00",
+    "creditAmount": "8065.00",
+    "narration": "General ledger posting 34"
+  },
+  {
+    "id": "JL-100070",
+    "journalEntryId": "JE-2026-100035",
+    "accountId": "500000",
+    "accountName": "Cost of Goods Sold",
+    "debitAmount": "9906.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 35"
+  },
+  {
+    "id": "JL-100071",
+    "journalEntryId": "JE-2026-100035",
+    "accountId": "300000",
+    "accountName": "Common Stock",
+    "debitAmount": "0.00",
+    "creditAmount": "9906.00",
+    "narration": "General ledger posting 35"
+  },
+  {
+    "id": "JL-100072",
+    "journalEntryId": "JE-2026-100036",
+    "accountId": "400000",
+    "accountName": "Sales Revenue",
+    "debitAmount": "1209.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 36"
+  },
+  {
+    "id": "JL-100073",
+    "journalEntryId": "JE-2026-100036",
+    "accountId": "100000",
+    "accountName": "Cash in Bank",
+    "debitAmount": "0.00",
+    "creditAmount": "1209.00",
+    "narration": "General ledger posting 36"
+  },
+  {
+    "id": "JL-100074",
+    "journalEntryId": "JE-2026-100037",
+    "accountId": "500000",
+    "accountName": "Cost of Goods Sold",
+    "debitAmount": "4470.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 37"
+  },
+  {
+    "id": "JL-100075",
+    "journalEntryId": "JE-2026-100037",
+    "accountId": "400000",
+    "accountName": "Sales Revenue",
+    "debitAmount": "0.00",
+    "creditAmount": "4470.00",
+    "narration": "General ledger posting 37"
+  },
+  {
+    "id": "JL-100076",
+    "journalEntryId": "JE-2026-100038",
+    "accountId": "500000",
+    "accountName": "Cost of Goods Sold",
+    "debitAmount": "5812.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 38"
+  },
+  {
+    "id": "JL-100077",
+    "journalEntryId": "JE-2026-100038",
+    "accountId": "510000",
+    "accountName": "Salaries Expense",
+    "debitAmount": "0.00",
+    "creditAmount": "5812.00",
+    "narration": "General ledger posting 38"
+  },
+  {
+    "id": "JL-100078",
+    "journalEntryId": "JE-2026-100039",
+    "accountId": "100000",
+    "accountName": "Cash in Bank",
+    "debitAmount": "4877.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 39"
+  },
+  {
+    "id": "JL-100079",
+    "journalEntryId": "JE-2026-100039",
+    "accountId": "400000",
+    "accountName": "Sales Revenue",
+    "debitAmount": "0.00",
+    "creditAmount": "4877.00",
+    "narration": "General ledger posting 39"
+  },
+  {
+    "id": "JL-100080",
+    "journalEntryId": "JE-2026-100040",
+    "accountId": "100000",
+    "accountName": "Cash in Bank",
+    "debitAmount": "1303.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 40"
+  },
+  {
+    "id": "JL-100081",
+    "journalEntryId": "JE-2026-100040",
+    "accountId": "520000",
+    "accountName": "Rent Expense",
+    "debitAmount": "0.00",
+    "creditAmount": "1303.00",
+    "narration": "General ledger posting 40"
+  },
+  {
+    "id": "JL-100082",
+    "journalEntryId": "JE-2026-100041",
+    "accountId": "120000",
+    "accountName": "Accounts Receivable",
+    "debitAmount": "8503.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 41"
+  },
+  {
+    "id": "JL-100083",
+    "journalEntryId": "JE-2026-100041",
+    "accountId": "100000",
+    "accountName": "Cash in Bank",
+    "debitAmount": "0.00",
+    "creditAmount": "8503.00",
+    "narration": "General ledger posting 41"
+  },
+  {
+    "id": "JL-100084",
+    "journalEntryId": "JE-2026-100042",
+    "accountId": "400000",
+    "accountName": "Sales Revenue",
+    "debitAmount": "4586.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 42"
+  },
+  {
+    "id": "JL-100085",
+    "journalEntryId": "JE-2026-100042",
+    "accountId": "100000",
+    "accountName": "Cash in Bank",
+    "debitAmount": "0.00",
+    "creditAmount": "4586.00",
+    "narration": "General ledger posting 42"
+  },
+  {
+    "id": "JL-100086",
+    "journalEntryId": "JE-2026-100043",
+    "accountId": "500000",
+    "accountName": "Cost of Goods Sold",
+    "debitAmount": "7839.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 43"
+  },
+  {
+    "id": "JL-100087",
+    "journalEntryId": "JE-2026-100043",
+    "accountId": "120000",
+    "accountName": "Accounts Receivable",
+    "debitAmount": "0.00",
+    "creditAmount": "7839.00",
+    "narration": "General ledger posting 43"
+  },
+  {
+    "id": "JL-100088",
+    "journalEntryId": "JE-2026-100044",
+    "accountId": "400000",
+    "accountName": "Sales Revenue",
+    "debitAmount": "8726.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 44"
+  },
+  {
+    "id": "JL-100089",
+    "journalEntryId": "JE-2026-100044",
+    "accountId": "200000",
+    "accountName": "Accounts Payable",
+    "debitAmount": "0.00",
+    "creditAmount": "8726.00",
+    "narration": "General ledger posting 44"
+  },
+  {
+    "id": "JL-100090",
+    "journalEntryId": "JE-2026-100045",
+    "accountId": "200000",
+    "accountName": "Accounts Payable",
+    "debitAmount": "9362.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 45"
+  },
+  {
+    "id": "JL-100091",
+    "journalEntryId": "JE-2026-100045",
+    "accountId": "510000",
+    "accountName": "Salaries Expense",
+    "debitAmount": "0.00",
+    "creditAmount": "9362.00",
+    "narration": "General ledger posting 45"
+  },
+  {
+    "id": "JL-100092",
+    "journalEntryId": "JE-2026-100046",
+    "accountId": "500000",
+    "accountName": "Cost of Goods Sold",
+    "debitAmount": "6021.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 46"
+  },
+  {
+    "id": "JL-100093",
+    "journalEntryId": "JE-2026-100046",
+    "accountId": "520000",
+    "accountName": "Rent Expense",
+    "debitAmount": "0.00",
+    "creditAmount": "6021.00",
+    "narration": "General ledger posting 46"
+  },
+  {
+    "id": "JL-100094",
+    "journalEntryId": "JE-2026-100047",
+    "accountId": "200000",
+    "accountName": "Accounts Payable",
+    "debitAmount": "2925.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 47"
+  },
+  {
+    "id": "JL-100095",
+    "journalEntryId": "JE-2026-100047",
+    "accountId": "300000",
+    "accountName": "Common Stock",
+    "debitAmount": "0.00",
+    "creditAmount": "2925.00",
+    "narration": "General ledger posting 47"
+  },
+  {
+    "id": "JL-100096",
+    "journalEntryId": "JE-2026-100048",
+    "accountId": "500000",
+    "accountName": "Cost of Goods Sold",
+    "debitAmount": "3118.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 48"
+  },
+  {
+    "id": "JL-100097",
+    "journalEntryId": "JE-2026-100048",
+    "accountId": "100000",
+    "accountName": "Cash in Bank",
+    "debitAmount": "0.00",
+    "creditAmount": "3118.00",
+    "narration": "General ledger posting 48"
+  },
+  {
+    "id": "JL-100098",
+    "journalEntryId": "JE-2026-100049",
+    "accountId": "520000",
+    "accountName": "Rent Expense",
+    "debitAmount": "2496.00",
+    "creditAmount": "0.00",
+    "narration": "General ledger posting 49"
+  },
+  {
+    "id": "JL-100099",
+    "journalEntryId": "JE-2026-100049",
+    "accountId": "130000",
+    "accountName": "Inventory",
+    "debitAmount": "0.00",
+    "creditAmount": "2496.00",
+    "narration": "General ledger posting 49"
+  }
+]

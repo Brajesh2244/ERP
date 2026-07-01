@@ -1,0 +1,32 @@
+[
+  {
+    "id": "DES01",
+    "name": "Software Engineer",
+    "departmentId": "D01"
+  },
+  {
+    "id": "DES02",
+    "name": "Senior Software Engineer",
+    "departmentId": "D01"
+  },
+  {
+    "id": "DES03",
+    "name": "Sales Executive",
+    "departmentId": "D02"
+  },
+  {
+    "id": "DES04",
+    "name": "HR Manager",
+    "departmentId": "D03"
+  },
+  {
+    "id": "DES05",
+    "name": "Financial Analyst",
+    "departmentId": "D04"
+  },
+  {
+    "id": "DES06",
+    "name": "Marketing Specialist",
+    "departmentId": "D05"
+  }
+]

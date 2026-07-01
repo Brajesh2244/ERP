@@ -1,0 +1,102 @@
+[
+  {
+    "id": "IND01",
+    "name": "Technology"
+  },
+  {
+    "id": "IND02",
+    "name": "Healthcare"
+  },
+  {
+    "id": "IND03",
+    "name": "Finance"
+  },
+  {
+    "id": "IND04",
+    "name": "Manufacturing"
+  },
+  {
+    "id": "IND05",
+    "name": "Retail"
+  },
+  {
+    "id": "IND06",
+    "name": "Telecommunications"
+  },
+  {
+    "id": "IND07",
+    "name": "Energy"
+  },
+  {
+    "id": "IND08",
+    "name": "Automotive"
+  },
+  {
+    "id": "IND09",
+    "name": "Aerospace"
+  },
+  {
+    "id": "IND10",
+    "name": "Construction"
+  },
+  {
+    "id": "IND11",
+    "name": "Education"
+  },
+  {
+    "id": "IND12",
+    "name": "Entertainment"
+  },
+  {
+    "id": "IND13",
+    "name": "Agriculture"
+  },
+  {
+    "id": "IND14",
+    "name": "Transportation"
+  },
+  {
+    "id": "IND15",
+    "name": "Logistics"
+  },
+  {
+    "id": "IND16",
+    "name": "Pharmaceuticals"
+  },
+  {
+    "id": "IND17",
+    "name": "Real Estate"
+  },
+  {
+    "id": "IND18",
+    "name": "Hospitality"
+  },
+  {
+    "id": "IND19",
+    "name": "Media"
+  },
+  {
+    "id": "IND20",
+    "name": "Non-Profit"
+  },
+  {
+    "id": "IND21",
+    "name": "Legal"
+  },
+  {
+    "id": "IND22",
+    "name": "Consulting"
+  },
+  {
+    "id": "IND23",
+    "name": "Insurance"
+  },
+  {
+    "id": "IND24",
+    "name": "Defense"
+  },
+  {
+    "id": "IND25",
+    "name": "Public Sector"
+  }
+]

@@ -1,0 +1,151 @@
+<mvc:View controllerName="sap.erm.app.controller.customer.Detail" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" xmlns:uxap="sap.uxap" xmlns:layout="sap.ui.layout" xmlns:form="sap.ui.layout.form">
+    <uxap:ObjectPageLayout id="ObjectPageLayout" showTitleInHeaderContent="true" showEditHeaderButton="true" editHeaderButtonPress=".onEditPress">
+        <uxap:headerTitle>
+            <uxap:ObjectPageDynamicHeaderTitle>
+                <uxap:expandedHeading>
+                    <Title text="{model>/companyName}" wrapping="true" class="sapUiSmallMarginEnd"/>
+                </uxap:expandedHeading>
+                <uxap:snappedHeading>
+                    <FlexBox fitContainer="true" alignItems="Center">
+                        <Title text="{model>/companyName}" wrapping="true" class="sapUiSmallMarginEnd"/>
+                    </FlexBox>
+                </uxap:snappedHeading>
+                <uxap:actions>
+                    <Button text="Edit" type="Emphasized" press=".onEditPress" visible="{= ${userModel>/role} === 'System Administrator' || ${userModel>/role} === 'Sales Manager' }" />
+                    <Button text="Delete" type="Reject" press=".onDeletePress" visible="{= (${userModel>/role} === 'System Administrator' || ${userModel>/role} === 'Sales Manager') &amp;&amp; !${model>/deleted} }" />
+                    <Button text="Restore" press=".onRestorePress" visible="{= (${userModel>/role} === 'System Administrator' || ${userModel>/role} === 'Sales Manager') &amp;&amp; ${model>/deleted} }" />
+                    <Button text="Timeline" press=".onTimelinePress" />
+                </uxap:actions>
+                <uxap:navigationActions>
+                    <Button icon="sap-icon://nav-back" type="Transparent" press=".onNavBack" />
+                </uxap:navigationActions>
+            </uxap:ObjectPageDynamicHeaderTitle>
+        </uxap:headerTitle>
+
+        <uxap:headerContent>
+            <FlexBox wrap="Wrap" fitContainer="true" alignItems="Stretch">
+                <layout:VerticalLayout class="sapUiSmallMarginRight sapUiSmallMarginBottom">
+                    <ObjectStatus title="Customer Code" text="{model>/customerCode}"/>
+                    <ObjectStatus title="Category" text="{model>/category}"/>
+                </layout:VerticalLayout>
+                <layout:VerticalLayout class="sapUiSmallMarginRight sapUiSmallMarginBottom">
+                    <ObjectStatus title="Primary Contact" text="{model>/primaryContact}"/>
+                    <ObjectStatus title="Email" text="{model>/email}"/>
+                </layout:VerticalLayout>
+                <layout:VerticalLayout class="sapUiSmallMarginRight sapUiSmallMarginBottom">
+                    <ObjectStatus title="Status" text="{model>/status}" state="{ path: 'model>/status', formatter: '.formatter.statusState' }"/>
+                </layout:VerticalLayout>
+            </FlexBox>
+        </uxap:headerContent>
+
+        <uxap:sections>
+            <uxap:ObjectPageSection title="General Information">
+                <uxap:subSections>
+                    <uxap:ObjectPageSubSection>
+                        <uxap:blocks>
+                            <form:SimpleForm layout="ResponsiveGridLayout">
+                                <form:content>
+                                    <Label text="Legal Name"/>
+                                    <Text text="{model>/legalName}"/>
+                                    <Label text="Industry"/>
+                                    <Text text="{model>/industry}"/>
+                                    <Label text="Website"/>
+                                    <Text text="{model>/website}"/>
+                                    <Label text="GST/VAT"/>
+                                    <Text text="{model>/gstVat}"/>
+                                    <Label text="PAN"/>
+                                    <Text text="{model>/pan}"/>
+                                </form:content>
+                            </form:SimpleForm>
+                        </uxap:blocks>
+                    </uxap:ObjectPageSubSection>
+                </uxap:subSections>
+            </uxap:ObjectPageSection>
+            
+            <uxap:ObjectPageSection title="Contacts &amp; Addresses">
+                <uxap:subSections>
+                    <uxap:ObjectPageSubSection title="Contacts">
+                        <uxap:blocks>
+                            <form:SimpleForm layout="ResponsiveGridLayout">
+                                <form:content>
+                                    <Label text="Primary Phone"/>
+                                    <Text text="{model>/phone}"/>
+                                    <Label text="Alternate Phone"/>
+                                    <Text text="{model>/alternatePhone}"/>
+                                    <Label text="Secondary Contact"/>
+                                    <Text text="{model>/secondaryContact}"/>
+                                </form:content>
+                            </form:SimpleForm>
+                        </uxap:blocks>
+                    </uxap:ObjectPageSubSection>
+                    <uxap:ObjectPageSubSection title="Addresses">
+                        <uxap:blocks>
+                            <form:SimpleForm layout="ResponsiveGridLayout">
+                                <form:content>
+                                    <Label text="Billing Address"/>
+                                    <Text text="{model>/billingAddress}"/>
+                                    <Label text="Shipping Address"/>
+                                    <Text text="{model>/shippingAddress}"/>
+                                    <Label text="City, State, Country"/>
+                                    <Text text="{model>/city}, {model>/state}, {model>/country}"/>
+                                    <Label text="Postal Code"/>
+                                    <Text text="{model>/postalCode}"/>
+                                </form:content>
+                            </form:SimpleForm>
+                        </uxap:blocks>
+                    </uxap:ObjectPageSubSection>
+                </uxap:subSections>
+            </uxap:ObjectPageSection>
+
+            <uxap:ObjectPageSection title="Financial &amp; Sales Information">
+                <uxap:subSections>
+                    <uxap:ObjectPageSubSection title="Financial">
+                        <uxap:blocks>
+                            <form:SimpleForm layout="ResponsiveGridLayout">
+                                <form:content>
+                                    <Label text="Credit Limit"/>
+                                    <Text text="{model>/creditLimit} {model>/currency}"/>
+                                    <Label text="Available Credit"/>
+                                    <Text text="{model>/availableCredit} {model>/currency}"/>
+                                    <Label text="Payment Terms"/>
+                                    <Text text="{model>/paymentTerms}"/>
+                                </form:content>
+                            </form:SimpleForm>
+                        </uxap:blocks>
+                    </uxap:ObjectPageSubSection>
+                    <uxap:ObjectPageSubSection title="Sales">
+                        <uxap:blocks>
+                            <form:SimpleForm layout="ResponsiveGridLayout">
+                                <form:content>
+                                    <Label text="Assigned Sales Exec"/>
+                                    <Text text="{model>/assignedSalesExecutive}"/>
+                                </form:content>
+                            </form:SimpleForm>
+                        </uxap:blocks>
+                    </uxap:ObjectPageSubSection>
+                </uxap:subSections>
+            </uxap:ObjectPageSection>
+
+            <uxap:ObjectPageSection title="Documents (Placeholder)">
+                <uxap:subSections>
+                    <uxap:ObjectPageSubSection>
+                        <uxap:blocks>
+                            <Text text="Document management coming soon." />
+                        </uxap:blocks>
+                    </uxap:ObjectPageSubSection>
+                </uxap:subSections>
+            </uxap:ObjectPageSection>
+            
+            <uxap:ObjectPageSection title="Notes (Placeholder)">
+                <uxap:subSections>
+                    <uxap:ObjectPageSubSection>
+                        <uxap:blocks>
+                            <Text text="Note management coming soon." />
+                        </uxap:blocks>
+                    </uxap:ObjectPageSubSection>
+                </uxap:subSections>
+            </uxap:ObjectPageSection>
+
+        </uxap:sections>
+    </uxap:ObjectPageLayout>
+</mvc:View>
